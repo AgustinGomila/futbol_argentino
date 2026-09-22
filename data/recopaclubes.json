@@ -1,0 +1,23 @@
+[
+{"e":"1970","r":"Group 1","f":"1970","l":"El Nacional (Ecuador)","gl":0,"gv":0,"v":"Deportivo Canarias (Venezuela)","pl":"Ecu","pv":"Ven"},
+{"e":"1970","r":"Group 1","f":"1970","l":"Deportivo Canarias (Venezuela)","gl":0,"gv":0,"v":"Libertad (Paraguay)","pl":"Ven","pv":"Par"},
+{"e":"1970","r":"Group 1","f":"1970","l":"El Nacional (Ecuador)","gl":4,"gv":1,"v":"Libertad (Paraguay)","pl":"Ecu","pv":"Par"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Mariscal Santa Cruz (Bolivia)","gl":1,"gv":0,"v":"Atlanta","pl":"Bol","pv":"Arg"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Unión Española (Chile)","gl":1,"gv":1,"v":"Deportivo Municipal (Perú)","pl":"Chi","pv":"Per"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Unión Española (Chile)","gl":1,"gv":0,"v":"Rampla Juniors (Uruguay)","pl":"Chi","pv":"Uru"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Atlanta","gl":4,"gv":3,"v":"Deportivo Municipal (Perú)","pl":"Arg","pv":"Per"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Atlanta","gl":3,"gv":3,"v":"Unión Española (Chile)","pl":"Arg","pv":"Chi"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Mariscal Santa Cruz (Bolivia)","gl":4,"gv":1,"v":"Rampla Juniors (Uruguay)","pl":"Bol","pv":"Uru"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Mariscal Santa Cruz (Bolivia)","gl":2,"gv":1,"v":"Unión Española (Chile)","pl":"Bol","pv":"Chi"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Deportivo Municipal (Perú)","gl":1,"gv":1,"v":"Rampla Juniors (Uruguay)","pl":"Per","pv":"Uru"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Atlanta","gl":2,"gv":0,"v":"Rampla Juniors (Uruguay)","pl":"Arg","pv":"Uru"},
+{"e":"1970","r":"Group 2","f":"1970","l":"Mariscal Santa Cruz (Bolivia)","gl":1,"gv":1,"v":"Deportivo Municipal (Perú)","pl":"Bol","pv":"Per"},
+{"e":"1970","r":"Final","f":"1970","l":"El Nacional (Ecuador)","gl":0,"gv":0,"v":"Mariscal Santa Cruz (Bolivia)","pl":"Ecu","pv":"Bol"},
+{"e":"1970","r":"Final","f":"1970","l":"Mariscal Santa Cruz (Bolivia)","gl":2,"gv":0,"v":"El Nacional (Ecuador)","pl":"Bol","pv":"Ecu"},
+{"e":"1971","r":"Group 2","f":"1971","l":"Olimpia (Paraguay)","gl":2,"gv":1,"v":"Juan Aurich (Perú)","pl":"Par","pv":"Per"},
+{"e":"1971","r":"Group 2","f":"1971","l":"América (Ecuador)","gl":1,"gv":0,"v":"Valencia (Venezuela)","pl":"Ecu","pv":"Ven"},
+{"e":"1971","r":"Group 2","f":"1971","l":"América (Ecuador)","gl":4,"gv":0,"v":"Juan Aurich (Perú)","pl":"Ecu","pv":"Per"},
+{"e":"1971","r":"Group 2","f":"1971","l":"Olimpia (Paraguay)","gl":0,"gv":0,"v":"Valencia (Venezuela)","pl":"Par","pv":"Ven"},
+{"e":"1971","r":"Group 2","f":"1971","l":"América (Ecuador)","gl":0,"gv":0,"v":"Olimpia (Paraguay)","pl":"Ecu","pv":"Par"},
+{"e":"1971","r":"Group 2","f":"1971","l":"Valencia (Venezuela)","gl":2,"gv":2,"v":"Juan Aurich (Perú)","pl":"Ven","pv":"Per"}
+]
