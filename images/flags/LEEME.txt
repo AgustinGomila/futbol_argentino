@@ -1,0 +1,4 @@
+Banderas de país para los selectores (js/banderas.js). SVG 4:3.
+- Todas salvo yu.svg: flag-icons 7.5.0 (https://github.com/lipis/flag-icons), licencia MIT (LICENSE-flag-icons.txt).
+- yu.svg (Yugoslavia 1946-1992): dibujada a mano, diseño de dominio público.
+Se publican desde images-mini/flags/ (copia idéntica: los SVG ya son livianos).

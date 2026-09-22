@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-yu" viewBox="0 0 640 480">
+  <!-- Bandera de la RFS de Yugoslavia (1946-1992), diseño de dominio público; dibujada para este sitio
+       en el formato 4:3 de flag-icons (que no la incluye: no tiene código ISO 3166-1 vigente). -->
+  <path fill="#003893" d="M0 0h640v160H0z"/>
+  <path fill="#fff" d="M0 160h640v160H0z"/>
+  <path fill="#de0000" d="M0 320h640v160H0z"/>
+  <polygon fill="#de0000" stroke="#fcd116" stroke-width="10" stroke-linejoin="miter" points="320.0,100.0 351.4,196.7 453.1,196.7 370.9,256.5 402.3,353.3 320.0,293.5 237.7,353.3 269.1,256.5 186.9,196.7 288.6,196.7"/>
+</svg>
