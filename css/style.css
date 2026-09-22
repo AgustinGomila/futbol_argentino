@@ -1,0 +1,2040 @@
+/*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
+
+/* main.css 3.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+  resize: vertical;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* ==========================================================================
+   Sistema de diseño: tokens (paleta "azul profesional", densidad híbrida).
+   Todo el sitio referencia estas variables -> cambiar acá se propaga a todo.
+   ========================================================================== */
+:root {
+  /* Superficies / fondos */
+  --fondo: #f7f8fa;
+  --superficie: #ffffff;
+  --fondo2: #eef2f7; /* header de tabla, toggles */
+  --fondo-panel: #fafbfc; /* paneles sutiles */
+
+  /* Texto (jerarquía) */
+  --texto: #1a2230;
+  --texto-2: #45505f; /* secundario: labels, summaries, subtítulos */
+  --tenue: #6b7685; /* muted: país, notas, jornada, placeholders */
+
+  /* Acento */
+  --acento: #2563eb;
+  --acento-hover: #1d4ed8;
+  --acento-suave: #eef4ff; /* fondo hover/selección azul muy claro */
+  --futbol: #b71c1c; /* rojo fútbol, solo identidad Libertadores */
+
+  /* Líneas / bordes */
+  --linea: #e5e9f0;
+  --linea-fuerte: #cdd6e0;
+  --borde: #e5e9f0; /* alias legacy */
+
+  /* Semántico (balance gana/pierde/iguala) */
+  --gana: #15803d;
+  --pierde: #b42318;
+  --iguala: #b7791f;
+  --gana-bg: #eaf6ec;
+  --gana-bg-h: #ddefe0;
+  --pierde-bg: #fbecec;
+  --pierde-bg-h: #f6dede;
+  --iguala-bg: #fbf6e3;
+  --iguala-bg-h: #f6edcf;
+
+  /* Tipografía */
+  --fs-xs: .72rem;
+  --fs-sm: .82rem;
+  --fs-md: .9rem;
+  --fs-lg: 1.1rem;
+  --fs-xl: 1.3rem;
+  --lh: 1.45;
+  --peso-medio: 600;
+  --peso-fuerte: 700;
+
+  /* Espaciado */
+  --sp-1: .25rem;
+  --sp-2: .5rem;
+  --sp-3: .75rem;
+  --sp-4: 1rem;
+  --sp-5: 1.5rem;
+  --sp-6: 2rem;
+
+  /* Radios */
+  --r-sm: 5px;
+  --r-md: 8px;
+  --r-lg: 12px;
+  --r-pill: 999px;
+
+  /* Sombras */
+  --sombra-1: 0 1px 2px rgba(16, 24, 40, .05), 0 1px 3px rgba(16, 24, 40, .07);
+  --sombra-2: 0 6px 20px rgba(16, 24, 40, .13);
+
+  /* Densidad de tabla (híbrida: compacta) */
+  --cel-y: .38rem;
+  --cel-x: .6rem;
+
+  /* Ancho UNIFICADO de la columna Equipo en las tablas históricas (general, copas nacionales e
+     internacionales) para que al cambiar de competencia no se corran Pos ni Equipo. Ajustable acá. */
+  --col-equipo: 16rem;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: var(--texto);
+  background: var(--fondo);
+  line-height: var(--lh);
+}
+
+a {
+  color: var(--acento);
+}
+
+a:hover {
+  color: var(--acento-hover);
+}
+
+/* Encabezados de sección (las vistas emiten <h2> de título y <h3>/<h4> internos). */
+.app-main > h2,
+.app-main h2 {
+  font-size: 1.45rem;
+  font-weight: var(--peso-fuerte);
+  letter-spacing: -.01em;
+  color: var(--texto);
+  margin: 0 0 .8rem;
+}
+
+.app-main h3 {
+  font-size: var(--fs-lg);
+  font-weight: var(--peso-fuerte);
+  color: var(--texto);
+}
+
+.app-header {
+  padding: .9rem 1.5rem;
+  border-bottom: 1px solid var(--linea);
+  background: var(--superficie);
+}
+
+.app-header h1 {
+  margin: 0 0 0.55rem;
+  font-size: var(--fs-xl);
+  font-weight: var(--peso-fuerte);
+  letter-spacing: -.01em;
+}
+
+.app-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .15rem .25rem;
+}
+
+.app-nav a {
+  color: var(--texto-2);
+  text-decoration: none;
+  padding: .3rem .6rem;
+  border-radius: var(--r-sm);
+  font-size: var(--fs-md);
+  font-weight: var(--peso-medio);
+}
+
+.app-nav a:hover {
+  color: var(--acento);
+  background: var(--acento-suave);
+}
+
+/* Submenú "Copas internacionales" en el nav (hover + focus-within, sin JS). */
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.nav-dropdown-btn {
+  color: var(--texto-2);
+  background: none;
+  border: none;
+  font: inherit;
+  font-size: var(--fs-md);
+  font-weight: var(--peso-medio);
+  cursor: pointer;
+  padding: .3rem .6rem;
+  border-radius: var(--r-sm);
+}
+
+.nav-dropdown:hover .nav-dropdown-btn,
+.nav-dropdown:focus-within .nav-dropdown-btn {
+  color: var(--acento);
+  background: var(--acento-suave);
+}
+
+.nav-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 30;
+  min-width: 15rem;
+  background: var(--superficie);
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-md);
+  box-shadow: var(--sombra-2);
+  padding: .3rem 0;
+}
+
+.nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown:focus-within .nav-dropdown-menu {
+  display: block;
+}
+
+/* Tras elegir un ítem, JS marca 'cerrado' para forzar el cierre aunque el foco/hover sigan dentro
+   (vence a las reglas de arriba por venir después, misma especificidad). Se limpia al salir el mouse. */
+.nav-dropdown.cerrado .nav-dropdown-menu {
+  display: none;
+}
+
+.nav-dropdown-menu a {
+  display: block;
+  margin: 0;
+  padding: .4rem .85rem;
+  white-space: nowrap;
+  color: var(--texto-2);
+  font-size: var(--fs-md);
+}
+
+.nav-dropdown-menu a:hover {
+  background: var(--acento-suave);
+  color: var(--acento);
+}
+
+.app-nav a.active {
+  color: var(--acento);
+  background: var(--acento-suave);
+  font-weight: var(--peso-fuerte);
+}
+
+.app-main {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.app-footer {
+  max-width: 1040px;
+  margin: 2rem auto;
+  padding: 1rem 1.5rem 0;
+  border-top: 1px solid var(--linea);
+  color: var(--tenue);
+  font-size: var(--fs-sm);
+}
+
+.placeholder {
+  color: var(--tenue);
+  font-style: italic;
+}
+
+.error {
+  color: var(--pierde);
+}
+
+/* Controles de filtro */
+.controles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Fila de filtros de una edición (selector + chip "EN CURSO" a su derecha). */
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem .75rem;
+  margin-bottom: .6rem;
+}
+
+.filtros .en-curso {
+  margin: 0;
+}
+
+.filtro {
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-sm);
+  font-size: var(--fs-md);
+  background: var(--superficie);
+  color: var(--texto);
+}
+
+.filtro:focus,
+.filtro:focus-visible {
+  outline: none;
+  border-color: var(--acento);
+  box-shadow: 0 0 0 3px var(--acento-suave);
+}
+
+.filtro.torneo-sel {
+  flex: 1 1 260px;
+  min-width: 200px;
+}
+
+/* Desplegable de torneos PERSONALIZADO (Tabla histórica): botón + panel plegable con el escudo y el
+   nombre del campeón alineados a la derecha de cada certamen (un <select> nativo no admite imágenes). */
+.torneo-dd {
+  position: relative;
+  flex: 1 1 340px;
+  min-width: 220px;
+}
+
+.dd-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  text-align: left;
+}
+
+.dd-btn .dd-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dd-caret {
+  margin-left: auto;
+  color: var(--texto-2);
+}
+
+.dd-btn.abierto .dd-caret {
+  transform: rotate(180deg);
+}
+
+.dd-panel {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  z-index: 40;
+  max-height: 60vh;
+  overflow-y: auto;
+  background: var(--superficie);
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-sm);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+
+.dd-group {
+  position: sticky;
+  top: 0;
+  background: var(--superficie);
+  color: var(--texto-2);
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid var(--linea);
+}
+
+.dd-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  border-bottom: 1px solid var(--linea);
+}
+
+.dd-item:last-child {
+  border-bottom: none;
+}
+
+.dd-item:hover {
+  background: var(--acento-suave);
+}
+
+.dd-item.activo {
+  background: var(--acento-suave);
+  font-weight: 600;
+}
+
+/* Cursor de teclado del desplegable rico (independiente del ítem activo). */
+.dd-item.resaltado {
+  background: rgba(0, 0, 0, .07);
+}
+
+.dd-item.resaltado.activo {
+  background: rgba(0, 0, 0, .11);
+}
+
+.dd-nom {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dd-champ {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  margin-left: auto;
+  flex: 0 0 auto;
+  max-width: 48%;
+  color: var(--texto-2);
+  font-size: var(--fs-sm);
+  white-space: nowrap;
+}
+
+.dd-champ .dd-camp-n {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dd-champ .escudo {
+  height: 18px;
+  width: 18px;
+  object-fit: contain;
+}
+
+.dd-champ.vacio {
+  font-style: italic;
+  opacity: 0.7;
+}
+
+.filtro.chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--texto-2);
+  cursor: pointer;
+}
+
+/* Selector de copas (tabla histórica de copas) */
+.copas-selector {
+  margin-bottom: 0.75rem;
+  border: 1px solid var(--linea);
+  border-radius: var(--r-md);
+  padding: 0.5rem 0.75rem;
+  background: var(--fondo-panel);
+}
+
+.copas-selector > summary {
+  cursor: pointer;
+  font-weight: var(--peso-medio);
+  color: var(--texto-2);
+}
+
+.copas-selector .sel-acciones {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+.copas-selector .sel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 0.2rem 1rem;
+}
+
+.copas-selector .sel-grid .filtro.chk {
+  margin: 0;
+}
+
+button.mini {
+  font: inherit;
+  font-size: var(--fs-sm);
+  padding: 0.2rem 0.6rem;
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-sm);
+  background: var(--superficie);
+  color: var(--texto-2);
+  cursor: pointer;
+}
+
+button.mini:hover {
+  background: var(--acento-suave);
+  border-color: var(--acento);
+  color: var(--acento);
+}
+
+/* Tabla de posiciones */
+.tabla-wrap {
+  overflow-x: auto;
+}
+
+table.posiciones {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: var(--fs-md);
+  background: var(--superficie);
+}
+
+table.posiciones th,
+table.posiciones td {
+  padding: var(--cel-y) var(--cel-x);
+  border-bottom: 1px solid var(--linea);
+}
+
+table.posiciones th {
+  position: sticky;
+  top: 0;
+  background: var(--fondo2);
+  color: var(--texto-2);
+  font-weight: var(--peso-medio);
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+table.posiciones th.sorted {
+  color: var(--acento);
+}
+
+table.posiciones .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+table.posiciones .txt {
+  text-align: left;
+}
+
+/* Tablas de posiciones/estadística (Pos+Equipo+números, historial por rival): layout FIJO para que
+ * los anchos de columna sean IGUALES entre tablas comparables (ej. Zona A y Zona B de un torneo, que
+ * con layout automático quedaban distintas según el largo de los nombres). La columna de texto toma un
+ * ancho fijo (los nombres largos hacen wrap) y las numéricas se reparten el resto por igual. NO se
+ * aplica a las tablas de partidos (Fecha/Torneo/Local/Res/Visitante), que necesitan ancho por contenido. */
+/* Layout AUTOMÁTICO, igual que las tablas de copas (.tabla-lib / .posiciones): la columna de nombre
+   crece a su contenido y NO envuelve; las numéricas quedan compactas. Antes era table-layout:fixed,
+   que en pantallas angostas comprimía el nombre a una columna angosta -> nombres largos en dos filas
+   (rompía la convergencia cosmética con las copas). En mobile la tabla desborda y scrollea en
+   horizontal dentro de su contenedor (.tabla-wrap / .club-salida). Los grupos/zonas van apilados
+   full-width (.grupos-grid 1fr), así que no necesitan el ancho fijo para alinearse. */
+table.posiciones.stats {
+  table-layout: auto;
+}
+
+/* Nombre de club en una sola línea (convergencia cosmética con las copas): nunca en dos filas. */
+table.posiciones.stats .txt {
+  white-space: nowrap;
+}
+
+/* Numéricas compactas y sin wrap -> altura de fila estable y columnas alineadas entre tablas. Ancho
+   ajustado para dejar más espacio a la columna Equipo (menos nombres partidos en dos filas). */
+table.posiciones.stats .num {
+  width: 3.2rem;
+  white-space: nowrap;
+}
+
+/* #12: sub-tabla de partidos vs un rival (Fecha/Torneo/Local/Res./Visitante/Ganador). Con layout
+ * automático la columna Fecha se ensanchaba y comprimía las de texto. Layout FIJO con Fecha y Res.
+ * angostas -> Torneo/Local/Visitante/Ganador se reparten el resto (más anchas). */
+table.posiciones.sub-partidos {
+  table-layout: fixed;
+}
+
+table.posiciones.sub-partidos th:nth-child(1),
+table.posiciones.sub-partidos td:nth-child(1) { /* Fecha */
+  width: 6rem;
+  white-space: nowrap;
+}
+
+table.posiciones.sub-partidos th:nth-child(2),
+table.posiciones.sub-partidos td:nth-child(2) { /* Torneo (competición + · Fecha N): ancho + wrap */
+  width: 9rem;
+  white-space: normal;
+}
+
+table.posiciones.sub-partidos th:nth-child(4),
+table.posiciones.sub-partidos td:nth-child(4) { /* Res. */
+  width: 3.4rem;
+}
+
+table.posiciones tbody tr:hover {
+  background: var(--acento-suave);
+}
+
+/* Mano a mano */
+.controles .vs {
+  align-self: center;
+  color: var(--tenue);
+  font-weight: var(--peso-medio);
+}
+
+.nota {
+  color: var(--tenue);
+  font-size: var(--fs-sm);
+  margin-top: -0.5rem;
+}
+
+.resumen {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--fondo2);
+  border: 1px solid var(--linea);
+  border-radius: var(--r-md);
+  font-weight: var(--peso-medio);
+}
+
+.resumen .sub {
+  font-weight: 400;
+  color: var(--tenue);
+}
+
+/* Jornada ("· Fecha N") junto al nombre del torneo en las tablas de historial */
+.jornada {
+  color: var(--tenue);
+  font-size: .9em;
+  white-space: nowrap;
+}
+
+/* Campeón / Subcampeón de una copa (arriba del total de partidos) */
+.podio {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: #fffaf0;
+  border: 1px solid #f2dfa8;
+  border-radius: var(--r-md);
+}
+
+.podio .campeon {
+  font-weight: var(--peso-fuerte);
+}
+
+.podio .subcampeon {
+  color: var(--texto-2);
+}
+
+.podio .lbl {
+  color: #8a6d00;
+  font-weight: var(--peso-medio);
+}
+
+.podio .podio-nota {
+  flex-basis: 100%;
+  font-size: .85em;
+  color: var(--tenue);
+  font-style: italic;
+}
+
+.podio .escudo {
+  vertical-align: middle;
+  margin: 0 0.25rem;
+}
+
+/* Torneo EN CURSO (ej. Clausura 2026): sin campeón todavía; badge + fecha de corte. */
+.en-curso {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.en-curso-badge {
+  font-weight: var(--peso-fuerte);
+  font-size: .78em;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--gana);
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--r-pill);
+}
+
+.en-curso-corte {
+  font-size: .9em;
+  color: var(--tenue);
+  font-style: italic;
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden,
+[hidden] {
+  display: none !important;
+}
+
+/*
+ * Hide only visually, but have it available for screen readers:
+ * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ *
+ * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
+ *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+ */
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  /* 1 */
+}
+
+/*
+ * Extends the .visually-hidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  white-space: inherit;
+  width: auto;
+}
+
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+  visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * The use of `table` rather than `block` is only necessary if using
+ * `::before` to contain the top-margins of child elements.
+ */
+
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+  /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 1.25dppx),
+(min-resolution: 120dpi) {
+  /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   https://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: #fff !important;
+    color: #000 !important;
+    /* Black prints faster */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+
+  /*
+   * Don't show links that are fragment identifiers,
+   * or use the `javascript:` pseudo protocol
+   */
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  pre {
+    white-space: pre-wrap !important;
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
+
+
+/* Escudos de clubes en tablas y mano a mano (redimensionados para no romper filas) */
+.escudo {
+  height: 1.25em;
+  width: auto;
+  max-width: 1.6em;
+  vertical-align: middle;
+  margin-right: .4em;
+  object-fit: contain;
+}
+
+/* Ícono de copa personalizado (#11): reemplaza el 🏆 en el recuadro Campeón/Subcampeón. */
+.copa-icono {
+  height: 1.35em;
+  width: auto;
+  max-width: 1.8em;
+  vertical-align: middle;
+  margin-right: .15em;
+  object-fit: contain;
+}
+
+/* Nombres de club clickeables (link a su pagina): sin subrayado, heredan color */
+td.txt a {
+  color: inherit;
+  text-decoration: none;
+}
+
+td.txt a:hover {
+  text-decoration: underline;
+}
+
+/* Pagina individual de club */
+.club-ficha {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: .5rem 0 1rem;
+  padding: 1rem 1.25rem;
+  background: var(--superficie);
+  border: 1px solid var(--linea);
+  border-radius: var(--r-lg);
+  box-shadow: var(--sombra-1);
+}
+
+.escudo-grande {
+  height: 88px;
+  width: auto;
+  max-width: 88px;
+  object-fit: contain;
+}
+
+.club-nombre {
+  margin: 0 0 .5rem;
+}
+
+/* Apodo del club, bajo el nombre en la ficha. */
+.club-apodo {
+  margin: -.35rem 0 .55rem;
+  font-style: italic;
+  opacity: .7;
+}
+
+/* Links de metadata (sitio oficial / wikipedia): color estándar. */
+.meta-v a {
+  color: inherit;
+}
+
+.meta-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem 1.5rem;
+}
+
+.meta-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.meta-k {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  opacity: .6;
+}
+
+.meta-v {
+  font-weight: 600;
+}
+
+/* La tabla de enfrentamientos del club usa table.posiciones.stats (layout automático, nombres sin
+   wrap): su contenedor scrollea en horizontal en pantallas angostas en vez de desbordar la página. */
+.club-salida {
+  overflow-x: auto;
+}
+
+/* Filtros del historial de club: sección colapsable (colapsada por defecto). */
+.club-filtros {
+  margin: .3rem 0 .6rem;
+}
+
+.club-filtros > summary {
+  cursor: pointer;
+  user-select: none;
+  font-weight: var(--peso-medio);
+  color: var(--texto-2);
+  padding: .35rem 0;
+}
+
+.club-filtro {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  cursor: pointer;
+}
+
+.club-cb {
+  cursor: pointer;
+}
+
+/* Filtros del historial de club en RENGLONES por eje (Era / Tipo / Internacional). */
+.club-controles {
+  margin-bottom: 1rem;
+}
+
+.club-controles .fila-filtro {
+  margin-bottom: .35rem;
+  align-items: center;
+}
+
+.club-controles .fila-filtro > .sub {
+  min-width: 6.5rem;
+  color: var(--tenue);
+  font-weight: var(--peso-medio);
+}
+
+table.posiciones tfoot .total td {
+  font-weight: var(--peso-fuerte);
+  border-top: 2px solid var(--linea-fuerte);
+}
+
+/* Color de balance por rival (verde gana, rojo pierde, amarillo igualado). Tonos
+   suaves para no saturar; el hover los intensifica apenas. */
+table.posiciones tbody tr.bal-g {
+  background: var(--gana-bg);
+}
+
+table.posiciones tbody tr.bal-p {
+  background: var(--pierde-bg);
+}
+
+table.posiciones tbody tr.bal-e {
+  background: var(--iguala-bg);
+}
+
+table.posiciones tbody tr.bal-g:hover {
+  background: var(--gana-bg-h);
+}
+
+table.posiciones tbody tr.bal-p:hover {
+  background: var(--pierde-bg-h);
+}
+
+table.posiciones tbody tr.bal-e:hover {
+  background: var(--iguala-bg-h);
+}
+
+/* Columna G-P (ganados − perdidos) del historial: resaltada en verde y negrita. */
+table.posiciones td.dif-gp {
+  color: var(--gana);
+  font-weight: var(--peso-fuerte);
+}
+
+/* Columna de posición (Pos / #): MISMO ancho en todas las tablas y siempre en una sola línea. El
+   selector vence al width de las numéricas de las tablas .stats (table.posiciones.stats .num, más
+   específico) para que el ancho sea uniforme también ahí. */
+table.posiciones th.pos,
+table.posiciones td.pos,
+table.posiciones.stats th.pos,
+table.posiciones.stats td.pos,
+.tabla-lib th.pos,
+.tabla-lib td.pos {
+  width: 3rem;
+  white-space: nowrap;
+}
+
+/* Columna de Puntos: el VALOR siempre en negrita (en las tablas de copas ya lo da .titulos). */
+td.pts {
+  font-weight: var(--peso-fuerte);
+}
+
+/* Ancho UNIFICADO de la columna Equipo entre las tres tablas históricas (general de ligas, copas
+   nacionales e internacionales): al cambiar de competencia, Pos (3rem) y Equipo no se corren. El nombre
+   ENVUELVE si supera el ancho (en vez de ensanchar la columna o forzar dos filas irregulares). La clase
+   'col-unif' va solo en la tabla histórica principal (no en las de grupo). Vence al white-space:nowrap
+   de .stats. La columna Equipo es la 2ª en las tres (Pos es la 1ª). */
+table.posiciones.stats.col-unif td.txt,
+table.posiciones.stats.col-unif th.txt,
+.tabla-lib.col-unif th:nth-child(2),
+.tabla-lib.col-unif td:nth-child(2) {
+  width: var(--col-equipo);
+  white-space: normal;
+}
+
+/* Selector de modo del perfil de club (Enfrentamientos / Máximas goleadas) */
+.club-modos {
+  display: inline-flex;
+  gap: 0;
+  margin-bottom: .75rem;
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-md);
+  overflow: hidden;
+}
+
+.modo-btn {
+  border: 0;
+  background: var(--fondo2);
+  padding: .45rem .9rem;
+  cursor: pointer;
+  font: inherit;
+  color: var(--texto-2);
+}
+
+.modo-btn:hover {
+  background: var(--acento-suave);
+  color: var(--acento);
+}
+
+.modo-btn + .modo-btn {
+  border-left: 1px solid var(--linea-fuerte);
+}
+
+.modo-btn.activo {
+  background: var(--acento);
+  color: #fff;
+  font-weight: var(--peso-medio);
+}
+
+.modo-btn.activo:hover {
+  background: var(--acento-hover);
+  color: #fff;
+}
+
+/* Máximas goleadas a favor / en contra (dos tablas lado a lado) */
+.goleadas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 1.5rem;
+}
+
+.goleadas-bloque h4 {
+  margin: 0 0 .5rem;
+}
+
+/* El bloque scrollea en horizontal si la tabla no entra (evita que la columna Torneo se pise con el
+   nombre del Local al comprimirse). */
+.goleadas-bloque {
+  overflow-x: auto;
+}
+
+/* Columna Torneo (2ª: competición + · Fecha N): ancho mínimo para no superponerse al nombre del Local. */
+.goleadas-bloque table.posiciones th:nth-child(2),
+.goleadas-bloque table.posiciones td:nth-child(2) {
+  min-width: 8rem;
+}
+
+/* Columna Res. (4ª) de las máximas goleadas: no envuelve (ej. "10-0" en una sola línea) y con ancho
+   holgado para resultados de dos dígitos. */
+.goleadas-bloque table.posiciones th:nth-child(4),
+.goleadas-bloque table.posiciones td:nth-child(4) {
+  white-space: nowrap;
+  min-width: 3.4rem;
+}
+
+.goleadas-bloque td.bal-g {
+  color: var(--gana);
+  font-weight: var(--peso-fuerte);
+}
+
+.goleadas-bloque td.bal-p {
+  color: var(--pierde);
+  font-weight: var(--peso-fuerte);
+}
+
+/* Desplegable de partidos por rival en la pagina de club */
+.oculto {
+  display: none;
+}
+
+.rival-cel {
+  cursor: pointer;
+  user-select: none;
+}
+
+.caret {
+  display: inline-block;
+  width: 1em;
+  opacity: .6;
+  font-size: .85em;
+}
+
+.rival-row:hover .caret {
+  opacity: 1;
+}
+
+.detalle-cont {
+  padding: 0 0 .5rem 1.5rem;
+  background: var(--fondo-panel);
+}
+
+table.sub-partidos {
+  margin: .25rem 0;
+  font-size: .92em;
+  width: 100%;
+}
+
+table.sub-partidos th {
+  font-weight: 600;
+  opacity: .75;
+}
+
+/* ==========================================================================
+   Tabla histórica: torneo con fases separadas (grupos / eliminatoria / etc.)
+   ========================================================================== */
+.tabla-wrap h3.fase-titulo {
+  margin: 1.5rem 0 .5rem;
+  padding-bottom: .3rem;
+  border-bottom: 2px solid var(--linea);
+  font-size: var(--fs-lg);
+  font-weight: var(--peso-fuerte);
+  color: var(--texto);
+}
+
+.tabla-wrap h3.fase-titulo.aparte {
+  margin-top: 2rem;
+  border-bottom-color: var(--linea-fuerte);
+  color: var(--texto-2);
+}
+
+.tabla-wrap h4 {
+  margin: .75rem 0 .35rem;
+  font-size: var(--fs-md);
+  font-weight: var(--peso-medio);
+  color: var(--texto-2);
+}
+
+.grupos-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* tablas de grupo SIEMPRE apiladas (una debajo de otra), nunca lado a lado */
+  gap: 1rem 1.5rem;
+}
+
+/* Tablas de grupo/zona apiladas: layout FIJO para que las columnas queden ALINEADAS entre los distintos
+   grupos (mismo ancho de columna en todas, al tener el mismo ancho total). A diferencia de la tabla
+   principal (auto, el nombre crece a su contenido), acá el nombre ENVUELVE dentro de su columna en vez
+   de ensancharla —lo que desalinearía los grupos— o desbordar. Aplica a ligas (.stats) y copas (.posiciones).
+   La regla del nombre debe ir DESPUÉS de .stats .txt (misma especificidad) para vencerla. */
+.grupos-grid table.posiciones {
+  table-layout: fixed;
+}
+
+/* Numéricas de ancho fijo (excepto Pos, que ya tiene el suyo) para que el nombre (Equipo) tome el
+   sobrante en vez de repartirse por igual con los números -> nombre legible y grupos alineados. Cubre
+   las tablas de copas nacionales (.posiciones sin .stats, que no traen ancho de numéricas). */
+.grupos-grid table.posiciones .num:not(.pos) {
+  width: 3.2rem;
+}
+
+.grupos-grid table.posiciones .txt {
+  white-space: normal;
+}
+
+.grupo-bloque h4 {
+  margin: 0 0 .35rem;
+}
+
+/* Fase eliminatoria: filas de cruce */
+.cruces {
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+  margin-bottom: .5rem;
+}
+
+/* Cruces compactos: sin recuadro por partido, filas densas (menos scroll). */
+.cruces {
+  gap: 0;
+}
+
+.cruce {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: .6rem;
+  max-width: 760px; /* más ancho: evita que los nombres largos rompan en dos líneas */
+  padding: .05rem 0;
+  line-height: 1.35;
+}
+
+.cruce .lado {
+  display: inline-flex;
+  align-items: center;
+  gap: .2rem;
+}
+
+.cruce .lado:first-child {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+.cruce .lado.gana {
+  font-weight: 700;
+}
+
+.cruce .lado.gana {
+  font-weight: 700;
+}
+
+/* Nombres de club en podio y cruces: mismo estilo simple que en las tablas (sin color/subrayado
+   de link; subrayado solo al pasar el mouse). */
+.podio a,
+.cruce a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.podio a:hover,
+.cruce a:hover {
+  text-decoration: underline;
+}
+
+.cruce .marcador {
+  width: 7rem; /* ancho FIJO (incluye definición por penales) -> alinea a los equipos */
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  font-weight: var(--peso-medio);
+  color: var(--texto);
+}
+
+.cruce .escudo {
+  vertical-align: middle;
+}
+
+/* Lado LOCAL (invertido: nombre + escudo): el margen del escudo va a la IZQUIERDA (separa nombre y
+   escudo) y no a la derecha, para que quede simétrico con el visitante y pegado al marcador. */
+.cruce .lado:first-child .escudo {
+  margin-right: 0;
+  margin-left: .4em;
+}
+
+/* Secciones colapsables (tabla acumulada, otras fases) */
+details.plegable {
+  margin: 1rem 0 .5rem;
+}
+
+details.plegable > summary {
+  cursor: pointer;
+  user-select: none;
+  font-weight: var(--peso-medio);
+  color: var(--texto-2);
+  padding: .35rem 0;
+}
+
+details.plegable[open] > summary {
+  margin-bottom: .5rem;
+}
+
+/* Fechas (jornadas/días) expandibles de una liga: densas, con divisor sutil entre una y otra. */
+details.plegable.ronda {
+  margin: 0;
+  border-top: 1px solid var(--borde, #eee);
+}
+
+details.plegable.ronda > summary {
+  font-weight: 500;
+  padding: .3rem .25rem;
+}
+
+details.plegable.ronda[open] > summary {
+  margin-bottom: .2rem;
+}
+
+details.plegable.ronda .tabla-copa {
+  margin: 0 0 .5rem;
+}
+
+/* ==========================================================================
+   Campeones (palmarés)
+   ========================================================================== */
+table.palmares .club-row {
+  cursor: pointer;
+}
+
+/* Ancho de columnas: la de Club se lleva el espacio amplio (para el nombre completo); las 4 numéricas
+   (Ligas/Copas/Internacional/Total) van uniformes y angostas (nth-child n+3). Pos, mínima. */
+table.palmares {
+  table-layout: fixed;
+}
+
+table.palmares th:nth-child(1),
+table.palmares td:nth-child(1) {
+  width: 3.5rem; /* Pos */
+}
+
+table.palmares th:nth-child(n+3),
+table.palmares td:nth-child(n+3) {
+  width: 6.5rem; /* las 4 numéricas, todas iguales */
+}
+
+/* La columna Club (2ª) NO lleva width: absorbe el resto del ancho (table-layout: fixed). */
+table.palmares .club-cel {
+  display: flex;
+  align-items: center;
+  gap: .15rem;
+}
+
+table.palmares .club-row:hover {
+  background: var(--acento-suave);
+}
+
+table.palmares tr.detalle-row td {
+  background: var(--fondo-panel);
+  padding: .5rem .75rem;
+}
+
+.titulos-detalle {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+/* #18: bloque de palmarés en la ficha del club (reusa los chips de la vista Campeones). */
+.club-palmares {
+  margin: .6rem 0 1rem;
+}
+
+.club-palmares h3 {
+  margin: 0 0 .4rem;
+}
+
+/* Palmarés colapsable: el h3 es el toggle; el cuerpo se oculta al colapsar. */
+.club-palmares .palmares-cab {
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+}
+
+.club-palmares .palmares-cab .caret {
+  color: var(--tenue);
+  font-size: .8em;
+}
+
+.club-palmares.colapsado .palmares-cuerpo {
+  display: none;
+}
+
+.club-palmares .titulos-bloque {
+  margin: .3rem 0;
+}
+
+.titulos-lbl {
+  font-weight: var(--peso-medio);
+  color: var(--texto-2);
+  margin-right: .25rem;
+}
+
+.titulo-chip {
+  display: inline-block;
+  margin: .15rem .25rem .15rem 0;
+  padding: .12rem .5rem;
+  background: var(--fondo2);
+  border: 1px solid var(--linea);
+  border-radius: var(--r-pill);
+  font-size: .85em;
+  color: var(--texto-2);
+  text-decoration: none;
+}
+
+.titulo-chip:hover {
+  background: var(--acento-suave);
+  border-color: var(--acento);
+  color: var(--acento);
+}
+
+/* --- Vista Copa Libertadores --- */
+.tabla-copa {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .2rem 0 .8rem;
+  font-size: var(--fs-md); /* homogéneo con table.posiciones (ligas/copas nacionales) */
+}
+
+.tabla-copa td {
+  padding: .22rem .4rem;
+  border-bottom: 1px solid var(--linea);
+  vertical-align: middle;
+}
+
+.tabla-copa tbody tr:hover {
+  background: var(--acento-suave);
+}
+
+.tabla-copa .res {
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  font-weight: var(--peso-medio);
+  color: var(--texto);
+  width: 3.5rem;
+}
+
+/* Columnas de equipo con ancho IGUAL (50% c/u) para que el resultado quede SIEMPRE centrado en la
+   tabla, con la misma posición en todas las competiciones (tarea 1). */
+.tabla-copa .eq-local,
+.tabla-copa .eq-visita {
+  width: 50%;
+}
+
+/* Divisor entre series de eliminación: cada llave va en su <tbody>; el borde marcado va SOLO en la
+   PRIMERA fila del tbody (si no, también resaltaba la línea entre los dos legs de la misma serie). */
+.tabla-copa tbody + tbody tr:first-child td {
+  border-top: 2px solid var(--linea-fuerte, #b4bcc6);
+}
+
+.tabla-copa .eq-local {
+  text-align: right;
+}
+
+.tabla-copa .eq-visita {
+  text-align: left;
+}
+
+.eq-cell {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+}
+
+/* Dentro de eq-cell el gap ya separa escudo y nombre; anulamos el margin propio del escudo. */
+.eq-cell .escudo {
+  margin: 0;
+}
+
+/* Ganador de una llave de eliminación (unificado Libertadores/copas): en negrita. */
+.tabla-copa .gana {
+  font-weight: 700;
+}
+
+/* Links de club en las llaves: color estándar (no azul), como en Libertadores/tablas. */
+.tabla-copa a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.tabla-copa a:hover {
+  text-decoration: underline;
+}
+
+/* Libertadores: el escudo del local va a la DERECHA del nombre (celdaEq lo emite en ese orden), así
+   los dos escudos quedan pegados al resultado central. El visitante ya lleva el escudo a la izquierda. */
+
+/* Links de club: sin azul/subrayado (mismo estilo que las tablas de Copas). */
+.lib-vista a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.lib-vista a:hover {
+  text-decoration: underline;
+}
+
+.lib-modos {
+  display: flex;
+  gap: .4rem;
+  margin: .3rem 0 .6rem;
+  flex-wrap: wrap;
+}
+
+.lib-modos .modo-btn {
+  padding: .3rem .75rem;
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-sm);
+  background: var(--fondo2);
+  color: var(--texto-2);
+  cursor: pointer;
+  font-size: var(--fs-md);
+}
+
+/* Identidad Libertadores: el toggle activo va en rojo fútbol (único uso del acento rojo). */
+.lib-modos .modo-btn.activo {
+  background: var(--futbol);
+  color: #fff;
+  border-color: var(--futbol);
+}
+
+.tabla-lib {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-md); /* homogéneo con table.posiciones (la tabla histórica de ligas) */
+  background: var(--superficie);
+}
+
+.tabla-lib th, .tabla-lib td {
+  padding: var(--cel-y) .45rem;
+  border-bottom: 1px solid var(--linea);
+  text-align: right;
+}
+
+.tabla-lib th {
+  background: var(--fondo2);
+  color: var(--texto-2);
+  font-weight: var(--peso-medio);
+  white-space: nowrap;
+}
+
+.tabla-lib tbody tr:hover {
+  background: var(--acento-suave);
+}
+
+.tabla-lib th:nth-child(2), .tabla-lib td:nth-child(2) {
+  text-align: left;
+}
+
+.tabla-lib .titulos {
+  font-weight: var(--peso-fuerte);
+}
+
+.lib-anios {
+  color: var(--tenue);
+  font-size: var(--fs-sm);
+}
+
+/* Fecha del partido (DD/MM/YYYY) bajo el marcador en las llaves de eliminación de Copas. */
+.copa-fecha {
+  display: block;
+  color: var(--tenue, #999);
+  font-size: .7rem;
+  font-weight: normal;
+}
+
+/* Marcador de resultado OTORGADO (walkover / jugador inelegible): la balanza lleva la nota en tooltip. */
+.lib-awd {
+  cursor: help;
+  color: var(--pierde);
+  font-size: .8em;
+}
+
+/* #26: combobox de club con escudos (mano a mano). El <select> nativo no muestra imágenes. */
+.combo {
+  position: relative;
+  display: inline-block;
+}
+
+.combo-input {
+  min-width: 12rem;
+}
+
+/* Mano a mano: los dos comboboxes ocupan TODO el ancho disponible (crecen por igual) para que los
+   nombres de club entren cómodos en una sola línea, tanto en el input como en la lista desplegable. */
+.mano-controles {
+  align-items: center;
+}
+
+.mano-controles .combo {
+  flex: 1 1 18rem;
+  min-width: 0;
+}
+
+.mano-controles .combo-input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.combo-lista {
+  position: absolute;
+  z-index: 20;
+  top: 100%;
+  left: 0;
+  right: 0;
+  max-height: 18rem;
+  overflow-y: auto;
+  background: var(--superficie);
+  border: 1px solid var(--linea-fuerte);
+  border-radius: var(--r-md);
+  box-shadow: var(--sombra-2);
+}
+
+.combo-opt {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .3rem .5rem;
+  cursor: pointer;
+}
+
+.combo-opt:hover {
+  background: var(--acento-suave);
+}
+
+.combo-vacio {
+  padding: .4rem .5rem;
+  color: var(--tenue, #999);
+}
+
+/* #15: botón de exportar a CSV (reusable en todas las vistas de tablas). */
+.btn-csv {
+  cursor: pointer;
+  border: 1px solid var(--linea-fuerte);
+  background: var(--superficie);
+  color: var(--texto-2);
+  border-radius: var(--r-sm);
+  padding: .25rem .6rem;
+  font-size: var(--fs-sm);
+  white-space: nowrap;
+}
+
+.btn-csv:hover {
+  background: var(--acento-suave);
+  border-color: var(--acento);
+  color: var(--acento);
+}
+
+/* #20: nota del total del período. Clase propia (no reusa .nota, cuyo margin-top negativo la comprimía);
+   se muestra completa con buen interlineado. */
+.periodo-nota {
+  color: var(--texto-2);
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  margin: 0 0 .6rem;
+}
+
+/* #20: panel de período (total histórico calculado) en la Tabla Histórica. */
+.periodo-panel {
+  margin: .3rem 0 .6rem;
+  border: 1px solid var(--linea);
+  border-radius: var(--r-md);
+  padding: .1rem .5rem;
+  background: var(--fondo-panel);
+}
+
+.periodo-panel > summary {
+  cursor: pointer;
+  padding: .35rem 0;
+  font-weight: var(--peso-medio);
+  color: var(--texto-2);
+}
+
+.periodo-controles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .4rem;
+  padding: .3rem 0 .5rem;
+}
+
+.periodo-rango {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+}
+
+.periodo-in {
+  width: 5rem;
+}
+
+/* #14: resumen de una edición (campeón + partidos + goles). */
+.copa-resumen {
+  margin: .2rem 0 .6rem;
+}
+
+.copa-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem 1.1rem;
+  margin-top: .3rem;
+  color: var(--tenue, #555);
+  font-size: .9rem;
+}
+
+.copa-stats b {
+  color: var(--texto, #222);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Nombre histórico de una edición (ej. Libertadores 1960-64 = "Copa de Campeones de América"). */
+.copa-nombre-historico {
+  color: var(--tenue, #999);
+  font-style: italic;
+  font-size: .85rem;
+  margin: .2rem 0 .4rem;
+}
+
+/* Sub-encabezado de fase de una liguilla mostrada como llave (Semifinales / Final). */
+h5.liguilla-fase {
+  margin: .6rem 0 .2rem;
+  font-size: var(--fs-sm);
+  color: var(--texto-2);
+}
+
+/* País del club (entre paréntesis) en gris tenue, en todas las tablas de Libertadores. Un poco más
+   chico (dato secundario) para que nombres como "Estudiantes de La Plata (Argentina)" ocupen menos y
+   entren mejor en la columna Equipo. */
+.lib-pais {
+  color: var(--tenue, #999);
+  font-size: .85em;
+}
+
+/* Coloreo de balance (verde gana / rojo pierde / amarillo igualado) en la tabla histórica,
+   mismo criterio que los historiales de club. */
+.tabla-lib tr.bal-g {
+  background: var(--gana-bg);
+}
+
+.tabla-lib tr.bal-p {
+  background: var(--pierde-bg);
+}
+
+.tabla-lib tr.bal-e {
+  background: var(--iguala-bg);
+}
+
+.tabla-lib tr.bal-g:hover {
+  background: var(--gana-bg-h);
+}
+
+.tabla-lib tr.bal-p:hover {
+  background: var(--pierde-bg-h);
+}
+
+.tabla-lib tr.bal-e:hover {
+  background: var(--iguala-bg-h);
+}
+
+.tabla-lib td.dif-gp {
+  color: var(--gana);
+  font-weight: var(--peso-fuerte);
+}
+
+/* Tabla final del grupo (antes del desglose de partidos): un poco más compacta y separada. */
+.tabla-lib.tabla-grupo {
+  margin: .1rem 0 .5rem;
+  font-size: .9rem;
+  /* #11: layout FIJO + anchos uniformes -> TODAS las tablas de grupo (de todas las ediciones) alinean
+     sus columnas entre sí, sin importar el largo de los nombres de club. */
+  table-layout: fixed;
+}
+
+/* Pos (posición): mismo ancho que en el resto de las tablas (entra "Pos"). */
+.tabla-lib.tabla-grupo th:nth-child(1),
+.tabla-lib.tabla-grupo td:nth-child(1) {
+  width: 3rem;
+}
+
+/* Columnas numéricas (PJ, PG, PE, PP, GF, GC, Dif, Pts = 3ª en adelante): ancho fijo uniforme. La
+   columna Club (2ª) toma el espacio restante; los nombres largos se ajustan (wrap) sin empujar las
+   columnas -> todas las tablas quedan alineadas. */
+.tabla-lib.tabla-grupo th:nth-child(n+3),
+.tabla-lib.tabla-grupo td:nth-child(n+3) {
+  width: 2.3rem;
+  white-space: nowrap;
+}
+
+/* Ediciones enlazables en el palmarés: heredan el estilo de link de la vista. */
+.lib-ed-link {
+  cursor: pointer;
+}
+
+/* Headers ordenables de la tabla histórica de Libertadores. */
+.tabla-lib th.sortable {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.tabla-lib th.sorted {
+  color: var(--acento);
+}
+
+/* Fila TOTAL (suma de columnas acumulables) de la tabla histórica de copas internacionales. */
+.tabla-lib tr.total td {
+  font-weight: var(--peso-fuerte);
+  border-top: 2px solid var(--linea-fuerte);
+  background: var(--fondo2);
+}
+
+/* ==========================================================================
+   Responsive: portrait / landscape / anchos angostos.
+   Las tablas siempre scrollean en horizontal (.tabla-wrap); en pantallas chicas
+   se compacta la densidad y la tipografía redefiniendo los tokens (cascada a todo).
+   ========================================================================== */
+
+/* Scroll horizontal fluido de tablas (contenedor común de TODAS las vistas). */
+.tabla-wrap {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Tablet / pantallas medianas */
+@media (max-width: 900px) {
+  .app-main {
+    padding: 1.15rem;
+  }
+}
+
+/* Teléfono / portrait angosto */
+@media (max-width: 600px) {
+  :root {
+    /* densidad + tipografía un punto más compactas: cascada a posiciones/copa/lib */
+    --cel-x: .45rem;
+    --cel-y: .34rem;
+    --fs-md: .85rem;
+    --fs-lg: 1.02rem;
+  }
+
+  .app-header {
+    padding: .7rem 1rem;
+  }
+
+  .app-header h1 {
+    font-size: 1.15rem;
+  }
+
+  .app-nav {
+    gap: .1rem;
+  }
+
+  .app-nav a,
+  .nav-dropdown-btn {
+    padding: .35rem .55rem;
+  }
+
+  .app-main {
+    padding: 1rem .85rem;
+  }
+
+  .app-main > h2,
+  .app-main h2 {
+    font-size: 1.25rem;
+  }
+
+  /* Llaves de eliminación: marcador más angosto para que entren los nombres. */
+  .cruce {
+    gap: .4rem;
+    max-width: 100%;
+  }
+
+  .cruce .marcador {
+    width: 5.5rem;
+  }
+
+  /* Ficha de club: escudo un poco menor y contenido apilado cómodo. */
+  .escudo-grande {
+    height: 68px;
+    max-width: 68px;
+  }
+
+  .club-ficha {
+    gap: 1rem;
+    padding: .85rem 1rem;
+  }
+
+  /* Resumen/paneles: menos padding para no comer ancho. */
+  .resumen,
+  .podio {
+    padding: .6rem .8rem;
+    gap: .4rem .9rem;
+  }
+}
+
+/* --- Efemérides (#/efemerides) --- */
+.efem-fecha {
+  font-size: var(--fs-lg);
+  font-weight: var(--peso-fuerte);
+  color: var(--texto);
+  text-transform: capitalize;
+  margin: var(--sp-4) 0 var(--sp-3);
+}
+
+.efem-bloque {
+  margin-bottom: var(--sp-5);
+}
+
+.efem-titulo {
+  font-size: var(--fs-md);
+  color: var(--texto-2);
+  border-bottom: 1px solid var(--linea);
+  padding-bottom: var(--sp-1);
+  margin-bottom: var(--sp-2);
+}
+
+.efem-lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-1);
+}
+
+.efem-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+  padding: var(--sp-2) var(--sp-3);
+  background: var(--fondo-panel);
+  border: 1px solid var(--linea);
+  border-radius: var(--r-md);
+}
+
+.efem-item > a,
+.efem-item > span:first-child {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-weight: var(--peso-medio);
+}
+
+.efem-detalle {
+  color: var(--tenue);
+  font-size: var(--fs-sm);
+  text-align: right;
+}
+
+/* Landscape en teléfonos bajos: recorta el alto del header para ganar viewport. */
+@media (max-height: 480px) and (orientation: landscape) {
+  .app-header {
+    padding: .5rem 1rem;
+  }
+
+  .app-header h1 {
+    font-size: 1.05rem;
+    margin-bottom: .35rem;
+  }
+}

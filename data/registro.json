@@ -1,0 +1,6035 @@
+{
+"9-de-julio": {
+"apodo": [
+"El León",
+"El Decano",
+"El 9"
+],
+"capacidad": "8000",
+"ciudad": "Rafaela",
+"disolucion": "",
+"escudo": "9_de_julio_rafaela.png",
+"estadio": "Germán Solterman",
+"fundacion": "9/7/1904",
+"nombre": "9 de Julio",
+"nombre_completo": "Club Atlético 9 de Julio (Rafaela)",
+"provincia": "Santa Fe",
+"web": "https://www.ca9dejulio.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_9_de_Julio_(Rafaela)"
+},
+"acassuso": {
+"apodo": [
+"Los Quemeros",
+"Ssuso"
+],
+"capacidad": "1500",
+"ciudad": "San Isidro",
+"disolucion": "",
+"escudo": "acassuso.png",
+"estadio": "La Quema",
+"fundacion": "7/9/1922",
+"nombre": "Acassuso",
+"nombre_completo": "Club Atlético Acassuso",
+"provincia": "Buenos Aires",
+"web": "http://clubacassuso.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Acassuso"
+},
+"adrogue": {
+"capacidad": "",
+"ciudad": "Adrogué",
+"disolucion": "1931",
+"escudo": "adrogue.png",
+"estadio": "",
+"fundacion": "9/7/1914",
+"nombre": "Adrogué",
+"nombre_completo": "Club Atlético Adrogué",
+"provincia": "Buenos Aires"
+},
+"agropecuario-argentino": {
+"apodo": [
+"Sojero",
+"Agro"
+],
+"capacidad": "8000",
+"ciudad": "Carlos Casares",
+"disolucion": "",
+"escudo": "agropecuario_argentino.png",
+"estadio": "Ofelia Rosenzuaig",
+"fundacion": "23/8/2011",
+"nombre": "Agropecuario Argentino",
+"nombre_completo": "Club Agropecuario Argentino",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Agropecuario_Argentino"
+},
+"aldosivi": {
+"apodo": [
+"Tiburón",
+"El más grande de la Costa Atlántica",
+"Equipo de la Ciudad"
+],
+"capacidad": "35180",
+"ciudad": "Mar del Plata",
+"disolucion": "",
+"escudo": "aldosivi.png",
+"estadio": "José María Minella",
+"fundacion": "29/3/1913",
+"nombre": "Aldosivi",
+"nombre_completo": "Club Atlético Aldosivi",
+"provincia": "Buenos Aires",
+"web": "http://www.aldosivi.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Aldosivi"
+},
+"alianza-coronel-moldes": {
+"apodo": [
+"Tricolor",
+"La Alianza"
+],
+"capacidad": "4000",
+"ciudad": "Coronel Moldes",
+"disolucion": "",
+"escudo": "alianza_de_coronel_moldes.png",
+"estadio": "Coliseo Azulgrana de Toro Club",
+"fundacion": "20/12/2007",
+"nombre": "Alianza Coronel Moldes",
+"nombre_completo": "Alianza Coronel Moldes",
+"provincia": "Córdoba",
+"wikipedia": "https://es.wikipedia.org/wiki/Alianza_Coronel_Moldes"
+},
+"alianza-cutral-co": {
+"apodo": [
+"El Gallo"
+],
+"capacidad": "16500",
+"ciudad": "Cutral Co",
+"disolucion": "",
+"escudo": "alianza_cutral-co.png",
+"estadio": "Coloso del Ruca Quimey",
+"fundacion": "15/4/1979",
+"nombre": "Alianza Cutral Co",
+"nombre_completo": "Club Social y Deportivo Alianza (Cutral Co)",
+"provincia": "Neuquén",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Alianza_(Cutral_Co)"
+},
+"alianza-juventud-pringles": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "alianza_juventud_pringles.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Alianza Juventud Pringles",
+"nombre_completo": "Alianza Juventud Pringles (fusión transitoria de Juventud Unida Universitario y Deportivo Pringles)",
+"provincia": ""
+},
+"all-boys": {
+"apodo": [
+"Albo",
+"Blanquinegro"
+],
+"capacidad": "21500",
+"ciudad": "",
+"disolucion": "",
+"escudo": "all_boys.png",
+"estadio": "Islas Malvinas",
+"fundacion": "15/3/1913",
+"nombre": "All Boys",
+"nombre_completo": "Club Atlético All Boys",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.caallboys.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_All_Boys"
+},
+"all-boys-santa-rosa": {
+"apodo": [
+"Auriazul",
+"Alboyense"
+],
+"capacidad": "8000",
+"ciudad": "Santa Rosa",
+"disolucion": "",
+"escudo": "all_boys_santa_rosa.png",
+"estadio": "Estadio Dr. Ramón Turnes",
+"fundacion": "23/4/1923",
+"nombre": "All Boys (Santa Rosa)",
+"nombre_completo": "Club Atlético All Boys (Santa Rosa)",
+"provincia": "La Pampa",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_All_Boys_(Santa_Rosa)"
+},
+"almagro": {
+"apodo": [
+"Tricolor"
+],
+"capacidad": "13000",
+"ciudad": "",
+"disolucion": "",
+"escudo": "almagro.png",
+"estadio": "Tres de Febrero",
+"fundacion": "6/1/1911",
+"nombre": "Almagro",
+"nombre_completo": "Club Almagro",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://almagro.club/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Almagro"
+},
+"almirante-brown": {
+"apodo": [
+"Mirasol",
+"Aurinegro",
+"Fragata",
+"Gigante del Oeste"
+],
+"capacidad": "25000",
+"ciudad": "Isidro Casanova",
+"disolucion": "",
+"escudo": "almirante_brown.png",
+"estadio": "Fragata Presidente Sarmiento",
+"fundacion": "1/7/1912",
+"nombre": "Almirante Brown",
+"nombre_completo": "Club Almirante Brown",
+"provincia": "Buenos Aires",
+"web": "http://www.almirantebrown.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Almirante_Brown"
+},
+"altos-hornos-zapla": {
+"apodo": [
+"Glorioso Merengue Palpaleño",
+"La Trituradora del Norte",
+"El Elefante Blanco"
+],
+"capacidad": "20000",
+"ciudad": "Palpalá",
+"disolucion": "",
+"escudo": "altos_hornos_zapla.png",
+"estadio": "Emilio Fabrizzi",
+"fundacion": "4/1/1947",
+"nombre": "Altos Hornos Zapla",
+"nombre_completo": "Asociación Cultural y Deportiva Altos Hornos Zapla",
+"provincia": "Jujuy",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Cultural_y_Deportiva_Altos_Hornos_Zapla"
+},
+"alumni": {
+"apodo": [
+"El Primer Grande"
+],
+"capacidad": "",
+"ciudad": "",
+"disolucion": "24/4/1913",
+"escudo": "alumni.png",
+"estadio": "",
+"fundacion": "3/10/1898",
+"nombre": "Alumni",
+"nombre_completo": "Alumni Athletic Club",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.baehs.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Alumni_Athletic_Club"
+},
+"alumni-olivos": {
+"capacidad": "",
+"ciudad": "Olivos",
+"disolucion": "1918",
+"escudo": "alumni-olivos.png",
+"estadio": "",
+"fundacion": "1914",
+"nombre": "Alumni (Olivos)",
+"nombre_completo": "Alumni (Olivos)",
+"provincia": "Buenos Aires"
+},
+"alumni-villa-maria": {
+"apodo": [
+"El Fortinero"
+],
+"capacidad": "7000",
+"ciudad": "Villa María",
+"disolucion": "",
+"escudo": "alumni_villa_maria.png",
+"estadio": "Plaza Ocampo",
+"fundacion": "4/4/1934",
+"nombre": "Alumni (Villa María)",
+"nombre_completo": "Club Atlético Alumni (Villa María)",
+"provincia": "Córdoba",
+"web": "http://www.alumnivillamaria.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Alumni_(Villa_María)"
+},
+"alvarado": {
+"apodo": [
+"Torito",
+"Matadero",
+"Alva"
+],
+"capacidad": "35180",
+"ciudad": "Mar del Plata",
+"disolucion": "",
+"escudo": "alvarado.png",
+"estadio": "José María Minella",
+"fundacion": "21/6/1928",
+"nombre": "Alvarado",
+"nombre_completo": "Club Atlético Alvarado",
+"provincia": "Buenos Aires",
+"web": "https://www.clubalvarado.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Alvarado"
+},
+"alvear": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "1936",
+"escudo": "alvear.png",
+"estadio": "Estadio de Hidalgo y Antezana",
+"fundacion": "1/7/1903",
+"nombre": "Alvear",
+"nombre_completo": "Club Atlético Alvear",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Alvear"
+},
+"americo-tesorieri": {
+"apodo": [
+"Tesho",
+"El Pum Pum!",
+"Pistolero"
+],
+"capacidad": "1500",
+"ciudad": "La Rioja",
+"disolucion": "",
+"escudo": "americo_tesorieri_catamarca.png",
+"estadio": "Carlos Mercado Luna",
+"fundacion": "31/10/1926",
+"nombre": "Américo Tesorieri",
+"nombre_completo": "Club Atlético Américo Tesorieri",
+"provincia": "La Rioja",
+"web": "http://americotesorierilarioja.es.tl/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Américo_Tesorieri"
+},
+"andino": {
+"apodo": [
+"Torito",
+"Tripero",
+"Rojinegro",
+"Matadero",
+"toro de matadero"
+],
+"capacidad": "6000",
+"ciudad": "La Rioja",
+"disolucion": "",
+"escudo": "andino_sportivo_club.png",
+"estadio": "Polideportivo \"20 de Agosto",
+"fundacion": "20/8/1946",
+"nombre": "Andino",
+"nombre_completo": "Andino Sport Club",
+"provincia": "La Rioja",
+"wikipedia": "https://es.wikipedia.org/wiki/Andino_Sport_Club"
+},
+"aprendices-chaquenos": {
+"capacidad": "",
+"ciudad": "Presidencia Roque Sáenz Peña",
+"disolucion": "",
+"escudo": "aprendices-chaquenos.png",
+"estadio": "Aprendices Chaqueños U. D.",
+"fundacion": "5/9/1922",
+"nombre": "Aprendices Chaqueños",
+"nombre_completo": "Aprendices Chaqueños Unión Deportiva",
+"provincia": "Chaco"
+},
+"argentino-de-avellaneda": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "argentino-de-avellaneda.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Argentino de Avellaneda",
+"provincia": ""
+},
+"argentino-de-banfield": {
+"capacidad": "",
+"ciudad": "Banfield",
+"disolucion": "1935",
+"escudo": "argentino_de_banfield.png",
+"estadio": "",
+"fundacion": "1/11/1915",
+"nombre": "Argentino de Banfield",
+"nombre_completo": "Club Argentino de Banfield",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Argentino_de_Banfield"
+},
+"argentino-de-merlo": {
+"apodo": [
+"La Academia del Oeste",
+"La Academia"
+],
+"capacidad": "11000",
+"ciudad": "Merlo",
+"disolucion": "",
+"escudo": "argentino_de_merlo.png",
+"estadio": "Juan Carlos Brieva",
+"fundacion": "30/8/1906",
+"nombre": "Argentino de Merlo",
+"nombre_completo": "Club Atlético Argentino (Merlo)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentino_(Merlo)"
+},
+"argentino-de-nunez": {
+"capacidad": "",
+"ciudad": "Núñez",
+"disolucion": "",
+"escudo": "argentino-de-nunez.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Argentino de Núñez",
+"provincia": "Ciudad de Buenos Aires"
+},
+"argentino-de-quilmes": {
+"apodo": [
+"El Mate",
+"El Criollo"
+],
+"capacidad": "5000",
+"ciudad": "Quilmes",
+"disolucion": "",
+"escudo": "argentino_de_quilmes.png",
+"estadio": "Doctor Isidoro Iriarte",
+"fundacion": "1/12/1899",
+"nombre": "Argentino de Quilmes",
+"nombre_completo": "Club Atlético Argentino de Quilmes",
+"provincia": "Buenos Aires",
+"web": "https://argentinodequilmes.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentino_de_Quilmes"
+},
+"argentino-de-temperley": {
+"capacidad": "",
+"ciudad": "Temperley",
+"disolucion": "12/7/1935",
+"escudo": "argentino_de_temperley.png",
+"estadio": "",
+"fundacion": "1931",
+"nombre": "Argentino de Temperley",
+"provincia": "Buenos Aires"
+},
+"argentino-del-sud": {
+"capacidad": "",
+"ciudad": "Avellaneda",
+"disolucion": "1931",
+"escudo": "argentino-del-sud.png",
+"estadio": "Antequera y Ceballos (Villa Domínico)",
+"fundacion": "1/9/1907",
+"nombre": "Argentino del Sud",
+"nombre_completo": "Club Atlético Argentino del Sud",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentino_del_Sud"
+},
+"argentino-firmat": {
+"apodo": [
+"Cueveros"
+],
+"capacidad": "",
+"ciudad": "Firmat",
+"disolucion": "",
+"escudo": "argentino_de_firmat.png",
+"estadio": "Félix Oriola",
+"fundacion": "1/8/1922",
+"nombre": "Argentino (Firmat)",
+"nombre_completo": "Club Atlético Argentino (Firmat)",
+"provincia": "Santa Fe",
+"web": "http://www.caargentino.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentino_(Firmat)"
+},
+"argentino-mendoza": {
+"apodo": [
+"El Boli",
+"La Academia"
+],
+"capacidad": "12000",
+"ciudad": "Mendoza",
+"disolucion": "",
+"escudo": "argentino_mendoza.png",
+"estadio": "Mauricio Serra",
+"fundacion": "10/1/1924",
+"nombre": "Argentino (Mendoza)",
+"nombre_completo": "Club Atlético Argentino (Mendoza)",
+"provincia": "Mendoza",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentino_(Mendoza)"
+},
+"argentino-monte-maiz": {
+"apodo": [
+"El Raya"
+],
+"capacidad": "5500",
+"ciudad": "Monte Maíz",
+"disolucion": "",
+"escudo": "argentino_monte_maiz.png",
+"estadio": "Modesto Marrone",
+"fundacion": "18/11/1925",
+"nombre": "Argentino (Monte Maíz)",
+"nombre_completo": "Club Deportivo Argentino (Monte Maíz)",
+"provincia": "Córdoba",
+"web": "https://Clubdeportivoargentino.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Argentino_(Monte_Maíz)"
+},
+"argentino-rosario": {
+"apodo": [
+"Salaítos",
+"Albo"
+],
+"capacidad": "6800",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "argentino_rosario.png",
+"estadio": "José Martín Olaeta",
+"fundacion": "15/1/1912",
+"nombre": "Argentino (Rosario)",
+"nombre_completo": "Club Atlético Argentino (Rosario)",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentino_(Rosario)"
+},
+"argentinos-del-norte-tucuman": {
+"apodo": [
+"El Sagrado"
+],
+"capacidad": "",
+"ciudad": "San Miguel de Tucumán",
+"disolucion": "",
+"escudo": "argentinos-del-norte-de-de-tucuman.png",
+"estadio": "Bernabé Brito",
+"fundacion": "8/4/1907",
+"nombre": "Argentinos del Norte (Tucumán)",
+"nombre_completo": "Club Atlético Argentinos del Norte",
+"provincia": "Tucumán",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Argentinos_del_Norte"
+},
+"argentinos-juniors": {
+"apodo": [
+"El Bicho",
+"El Semillero del Mundo",
+"Tifón de Boyacá",
+"Bichos Colorados"
+],
+"capacidad": "28500",
+"ciudad": "La Paternal",
+"disolucion": "",
+"escudo": "argentinos_juniors.png",
+"estadio": "Diego Armando Maradona",
+"fundacion": "15/8/1904",
+"nombre": "Argentinos Juniors",
+"nombre_completo": "Asociación Atlética Argentinos Juniors",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.argentinosjuniors.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+},
+"arsenal": {
+"apodo": [
+"El Arse",
+"El Viaducto"
+],
+"capacidad": "18300",
+"ciudad": "Sarandí",
+"disolucion": "",
+"escudo": "arsenal.png",
+"estadio": "Julio Humberto Grondona",
+"fundacion": "11/1/1957",
+"nombre": "Arsenal",
+"nombre_completo": "Arsenal Fútbol Club",
+"provincia": "Buenos Aires",
+"web": "http://www.arsenalfc.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Arsenal_Fútbol_Club"
+},
+"asociacion-cultural-de-futbol-tucuman": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "asociacion-cultural-de-futbol-tucuman.png",
+"estadio": "",
+"fundacion": "20/1/1932",
+"nombre": "Asociación Cultural de Fútbol (Tucumán)",
+"provincia": "Tucumán"
+},
+"asociation-club-of-buenos-aires": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "asociation_club_of_buenos_aires.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Asociation Club of Buenos Aires",
+"provincia": ""
+},
+"atenas-rio-cuarto": {
+"apodo": [
+"Los Albos del Imperio"
+],
+"capacidad": "7000",
+"ciudad": "Río Cuarto",
+"disolucion": "",
+"escudo": "atenas_rio_cuarto.png",
+"estadio": "9 de Julio",
+"fundacion": "9/7/1916",
+"nombre": "Atenas (Río Cuarto)",
+"nombre_completo": "Club Sportivo y Biblioteca Atenas",
+"provincia": "Córdoba",
+"web": "http://csybatenas.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_y_Biblioteca_Atenas"
+},
+"atlanta": {
+"apodo": [
+"Bohemio"
+],
+"capacidad": "18000",
+"ciudad": "Villa Crespo",
+"disolucion": "",
+"escudo": "atlanta.png",
+"estadio": "León Kolbowsky",
+"fundacion": "12/10/1904",
+"nombre": "Atlanta",
+"nombre_completo": "Club Atlético Atlanta",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.caatlanta.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Atlanta"
+},
+"atlas": {
+"apodo": [
+"Marrón del Oeste",
+"Guerreros"
+],
+"capacidad": "2500",
+"ciudad": "Las Malvinas",
+"disolucion": "",
+"escudo": "atlas.png",
+"estadio": "Ricardo Puga",
+"fundacion": "17/8/1951",
+"nombre": "Atlas",
+"nombre_completo": "Club Atlético Atlas",
+"provincia": "Buenos Aires",
+"web": "https://www.clubatleticoatlas.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Atlas"
+},
+"atletico-concepcion": {
+"apodo": [
+"El León",
+"El gaucho de la Banda",
+"El Tren de la Banda"
+],
+"capacidad": "8000",
+"ciudad": "Concepción",
+"disolucion": "",
+"escudo": "atletico_concepcion_tucuman.png",
+"estadio": "Ingeniero José María Paz",
+"fundacion": "27/12/1909",
+"nombre": "Atlético Concepción",
+"nombre_completo": "Club Atlético Concepción",
+"provincia": "Tucumán",
+"web": "http://www.elleondelabanda.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Concepción"
+},
+"atletico-de-rafaela": {
+"apodo": [
+"La Crema"
+],
+"capacidad": "20660",
+"ciudad": "Rafaela",
+"disolucion": "",
+"escudo": "atletico_de_rafaela.png",
+"estadio": "Nuevo Monumental",
+"fundacion": "13/1/1907",
+"nombre": "Atlético de Rafaela",
+"nombre_completo": "Asociación Mutual Social y Deportiva Atlético de Rafaela",
+"provincia": "Santa Fe",
+"web": "http://www.atleticorafaela.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Mutual_Social_y_Deportiva_Atlético_de_Rafaela"
+},
+"atletico-ledesma": {
+"apodo": [
+"Los Diablos Rojos",
+"El Orgullo de Jujuy",
+"El Trapiche",
+"Atlético"
+],
+"capacidad": "10000",
+"ciudad": "Libertador General San Martín",
+"disolucion": "",
+"escudo": "atletico_ledesma.png",
+"estadio": "Estadio Trapiche Azucarero",
+"fundacion": "2/12/1928",
+"nombre": "Atlético Ledesma",
+"nombre_completo": "Club Atlético Ledesma",
+"provincia": "Jujuy",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Ledesma"
+},
+"atletico-parana": {
+"apodo": [
+"El Decano",
+"El Gato",
+"El Rojiblanco"
+],
+"capacidad": "9000",
+"ciudad": "Paraná",
+"disolucion": "",
+"escudo": "atletico_parana.png",
+"estadio": "Pedro Mutio",
+"fundacion": "16/6/1907",
+"nombre": "Atlético Paraná",
+"nombre_completo": "Club Atlético Paraná",
+"provincia": "Entre Ríos",
+"web": "http://www.clubatleticoparana.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Paraná"
+},
+"atletico-policial-catamarca": {
+"apodo": [
+"El Matador",
+"Poli"
+],
+"capacidad": "30000",
+"ciudad": "San Fernando del Valle de Catamarca",
+"disolucion": "",
+"escudo": "atletico-policial-catamarca.png",
+"estadio": "Bicentenario Ciudad de Catamarca",
+"fundacion": "31/3/1945",
+"nombre": "Atlético Policial (Catamarca)",
+"nombre_completo": "Club Atlético Policial",
+"provincia": "Catamarca",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Policial"
+},
+"atletico-racing": {
+"apodo": [
+"La Academia Cordobesa"
+],
+"capacidad": "18000",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "atletico_racing.png",
+"estadio": "Miguel Sancho",
+"fundacion": "14/12/1924",
+"nombre": "Atlético Racing",
+"nombre_completo": "Club Atlético Racing",
+"provincia": "Córdoba",
+"web": "https://racingcba.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Racing"
+},
+"atletico-regina": {
+"apodo": [
+"Albo",
+"Vineros"
+],
+"capacidad": "7000",
+"ciudad": "Villa Regina",
+"disolucion": "",
+"escudo": "atletico_regina.png",
+"estadio": "Estadio Atlético Regina",
+"fundacion": "1/2/1928",
+"nombre": "Atlético Regina",
+"nombre_completo": "Club Atlético Regina",
+"provincia": "Río Negro",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Regina"
+},
+"atletico-san-jorge-santa-fe": {
+"capacidad": "",
+"ciudad": "San Jorge",
+"disolucion": "",
+"escudo": "atletico-san-jorge-santa-fe.png",
+"estadio": "",
+"fundacion": "23/6/1912",
+"nombre": "Atlético San Jorge (Santa Fe)",
+"nombre_completo": "Club Atlético San Jorge",
+"provincia": "Santa Fe",
+"web": "https://www.clubsanjorge.com.ar/club-atletico-san-jorge",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Jorge"
+},
+"atletico-santa-rosa": {
+"apodo": [
+"Albo"
+],
+"capacidad": "6000",
+"ciudad": "Santa Rosa",
+"disolucion": "",
+"escudo": "atletico_santa_rosa.png",
+"estadio": "Mateo Calderón",
+"fundacion": "2/6/1923",
+"nombre": "Atlético Santa Rosa",
+"nombre_completo": "Club Atlético Santa Rosa",
+"provincia": "La Pampa",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Santa_Rosa"
+},
+"atletico-trinidad-san-juan": {
+"apodo": [
+"El León"
+],
+"capacidad": "8000",
+"ciudad": "Trinidad",
+"disolucion": "",
+"escudo": "atletico_trinidad.png",
+"estadio": "Estadio Ing. Domingo Alberto Martín",
+"fundacion": "10/3/1980",
+"nombre": "Atlético Trinidad (San Juan)",
+"nombre_completo": "Club Atlético Trinidad",
+"provincia": "San Juan",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Trinidad"
+},
+"atletico-tucuman": {
+"apodo": [
+"Decano el mas grande del norte"
+],
+"capacidad": "35000",
+"ciudad": "San Miguel de Tucumán",
+"disolucion": "",
+"escudo": "atletico_de_tucuman.png",
+"estadio": "Estadio Monumental José Fierro",
+"fundacion": "27/9/1902",
+"nombre": "Atlético Tucumán",
+"nombre_completo": "Club Atlético Tucumán",
+"provincia": "Tucumán",
+"web": "https://www.clubatleticotucuman.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Tucumán"
+},
+"atletico-uruguay": {
+"apodo": [
+"El Decano"
+],
+"capacidad": "8000",
+"ciudad": "Concepción del Uruguay",
+"disolucion": "",
+"escudo": "atletico_uruguay.png",
+"estadio": "Simón Luciano Plazaola",
+"fundacion": "1/9/1904",
+"nombre": "Atlético Uruguay",
+"nombre_completo": "Club Atlético Uruguay",
+"provincia": "Entre Ríos",
+"web": "http://www.clubatleticouruguay.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Uruguay"
+},
+"aviador-origone": {
+"capacidad": "1000",
+"ciudad": "Villa Mercedes",
+"disolucion": "",
+"escudo": "aviador_origone_villa_mercedes.png",
+"estadio": "Estadio Club Aviador Origone",
+"fundacion": "22/8/1908",
+"nombre": "Aviador Origone",
+"nombre_completo": "Club Atlético Aviador Origone",
+"provincia": "San Luis"
+},
+"banfield": {
+"apodo": [
+"El Taladro"
+],
+"capacidad": "34901",
+"ciudad": "Banfield",
+"disolucion": "",
+"escudo": "banfield.png",
+"estadio": "Florencio Sola",
+"fundacion": "21/1/1896",
+"nombre": "Banfield",
+"nombre_completo": "Club Atlético Banfield",
+"provincia": "Buenos Aires",
+"web": "https://www.clubabanfield.org",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+},
+"barracas-athletic": {
+"capacidad": "",
+"ciudad": "Lanús",
+"disolucion": "1907",
+"escudo": "barracas-athletic.png",
+"estadio": "",
+"fundacion": "1901",
+"nombre": "Barracas Athletic",
+"nombre_completo": "Barracas Athletic Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Barracas_Athletic_Club"
+},
+"barracas-central": {
+"apodo": [
+"El Guapo"
+],
+"capacidad": "12000",
+"ciudad": "Barracas",
+"disolucion": "",
+"escudo": "barracas_central.png",
+"estadio": "Claudio Chiqui Tapia",
+"fundacion": "5/4/1904",
+"nombre": "Barracas Central",
+"nombre_completo": "Club Atlético Barracas Central",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.barracascentral.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Barracas_Central"
+},
+"bartolome-mitre": {
+"apodo": [
+"Auriazul",
+"Gigante de Rocamora"
+],
+"capacidad": "7000",
+"ciudad": "Posadas",
+"disolucion": "",
+"escudo": "bartolome_mitre_posadas.png",
+"estadio": "Ernesto \"Tito\" Cucchiaroni",
+"fundacion": "7/10/1926",
+"nombre": "Bartolomé Mitre",
+"nombre_completo": "Club Atlético Bartolomé Mitre (Posadas)",
+"provincia": "Misiones",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Bartolomé_Mitre_(Posadas)"
+},
+"belgrano-athletic": {
+"apodo": [
+"Marrón"
+],
+"capacidad": "500",
+"ciudad": "Belgrano",
+"disolucion": "",
+"escudo": "belgrano_athletic.png",
+"estadio": "Virrey del Pino",
+"fundacion": "17/8/1896",
+"nombre": "Belgrano Athletic",
+"nombre_completo": "Belgrano Athletic Club",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.belgranoathletic.club",
+"wikipedia": "https://es.wikipedia.org/wiki/Belgrano_Athletic_Club"
+},
+"belgrano-b": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "belgrano-b.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Belgrano \"B\"",
+"nombre_completo": "Belgrano \"B\" (segundo equipo de Belgrano Athletic)",
+"provincia": ""
+},
+"belgrano-cordoba": {
+"apodo": [
+"La «B",
+"El Pirata",
+"El Celeste"
+],
+"capacidad": "38500",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "belgrano_cordoba.png",
+"estadio": "Julio César Villagra",
+"fundacion": "19/3/1905",
+"nombre": "Belgrano (Córdoba)",
+"nombre_completo": "Club Atlético Belgrano",
+"provincia": "Córdoba",
+"web": "https://belgrano.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Belgrano"
+},
+"belgrano-extra": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "belgrano-extra.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Belgrano Extra",
+"nombre_completo": "Belgrano Extra (segundo equipo de Belgrano Athletic)",
+"provincia": "Buenos Aires"
+},
+"belgrano-football-club": {
+"capacidad": "",
+"ciudad": "Belgrano",
+"disolucion": "",
+"escudo": "belgrano-football-club.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Belgrano Football Club",
+"nombre_completo": "Belgrano Football Club",
+"provincia": "Ciudad de Buenos Aires"
+},
+"belgrano-parana": {
+"apodo": [
+"Mondonguero"
+],
+"capacidad": "4000",
+"ciudad": "Paraná",
+"disolucion": "",
+"escudo": "belgrano_parana.png",
+"estadio": "Nuevo Estadio Mondonguero",
+"fundacion": "10/6/1911",
+"nombre": "Belgrano (Paraná)",
+"nombre_completo": "Club Atlético Belgrano (Paraná)",
+"provincia": "Entre Ríos",
+"web": "http://www.belgranodeparana.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Belgrano_(Paraná)"
+},
+"belgrano-rosario": {
+"apodo": [
+"Paperos",
+"Celeste"
+],
+"capacidad": "12000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "belgrano_rosario.png",
+"estadio": "Gimnasio C. A. Belgrano",
+"fundacion": "17/6/1911",
+"nombre": "Belgrano (Rosario)",
+"nombre_completo": "Club Atlético Belgrano (Rosario)",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Belgrano_(Rosario)"
+},
+"bella-vista": {
+"apodo": [
+"Los Gallegos",
+"La Loma"
+],
+"capacidad": "4000",
+"ciudad": "Bahía Blanca",
+"disolucion": "",
+"escudo": "bella_vista_bahia_blanca.png",
+"estadio": "Estadio Ignacio Nicolás",
+"fundacion": "18/4/1921",
+"nombre": "Bella Vista",
+"nombre_completo": "Club Bella Vista",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Bella_Vista"
+},
+"ben-hur-rafaela": {
+"apodo": [
+"Lobo",
+"BH",
+"Gladiador"
+],
+"capacidad": "13000",
+"ciudad": "Rafaela",
+"disolucion": "",
+"escudo": "ben_hur.png",
+"estadio": "Néstor Zenklusen",
+"fundacion": "17/6/1940",
+"nombre": "Ben Hur (Rafaela)",
+"nombre_completo": "Club Sportivo Ben Hur",
+"provincia": "Santa Fe",
+"web": "https://www.clubbenhur.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Ben_Hur"
+},
+"benjamin-matienzo": {
+"apodo": [
+"Los Pitogües"
+],
+"capacidad": "3000",
+"ciudad": "Goya",
+"disolucion": "",
+"escudo": "benjamin_matienzo.png",
+"estadio": "José Eulogio Pezzelato",
+"fundacion": "22/4/1922",
+"nombre": "Benjamín Matienzo",
+"nombre_completo": "Club Sportivo Benjamín Matienzo",
+"provincia": "Corrientes"
+},
+"berazategui": {
+"apodo": [
+"El naranja",
+"Naranja mecánica",
+"Bera",
+"El naranjero"
+],
+"capacidad": "10000",
+"ciudad": "Berazategui",
+"disolucion": "",
+"escudo": "berazategui.png",
+"estadio": "Norman Lee",
+"fundacion": "18/9/1975",
+"nombre": "Berazategui",
+"nombre_completo": "Asociación Deportiva Berazategui",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Deportiva_Berazategui"
+},
+"boca-alumni": {
+"capacidad": "",
+"ciudad": "Dock Sud",
+"disolucion": "1935",
+"escudo": "boca-alumni.png",
+"estadio": "",
+"fundacion": "1/9/1907",
+"nombre": "Boca Alumni",
+"nombre_completo": "Club Atlético Boca Alumni",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Alumni"
+},
+"boca-juniors": {
+"apodo": [
+"Xeneize(s)",
+"Azul y Oro",
+"La Mitad Más Uno"
+],
+"capacidad": "58840",
+"ciudad": "La Boca",
+"disolucion": "",
+"escudo": "boca_juniors.png",
+"estadio": "La Bombonera",
+"fundacion": "3/4/1905",
+"nombre": "Boca Juniors",
+"nombre_completo": "Club Atlético Boca Juniors",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.bocajuniors.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors"
+},
+"boca-juniors-tres-arroyos": {
+"capacidad": "",
+"ciudad": "Tres Arroyos",
+"disolucion": "",
+"escudo": "boca-juniors-tres-arroyos.png",
+"estadio": "",
+"fundacion": "10/4/1927",
+"nombre": "Boca Juniors (Tres Arroyos)",
+"provincia": "Buenos Aires"
+},
+"boca-rio-gallegos": {
+"apodo": [
+"Xeneize"
+],
+"capacidad": "8000",
+"ciudad": "Río Gallegos",
+"disolucion": "",
+"escudo": "boca_rio_gallegos.png",
+"estadio": "Defensores del Carmen",
+"fundacion": "12/10/1945",
+"nombre": "Boca Río Gallegos",
+"nombre_completo": "Club Boca Río Gallegos",
+"provincia": "Santa Cruz",
+"web": "http://www.bocariogallegos.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Boca_Río_Gallegos"
+},
+"boca-unidos": {
+"apodo": [
+"Aurirrojo",
+"El Club de la Ribera"
+],
+"capacidad": "17500",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "boca_unidos.png",
+"estadio": "Estadio Leoncio Benítez",
+"fundacion": "17/7/1927",
+"nombre": "Boca Unidos",
+"nombre_completo": "Club Atlético Boca Unidos",
+"provincia": "Corrientes",
+"web": "https://www.bocaunidos.org",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Unidos"
+},
+"brown-adrogue": {
+"apodo": [
+"Brown"
+],
+"capacidad": "4500",
+"ciudad": "Adrogué",
+"disolucion": "",
+"escudo": "brown_de_adrogue.png",
+"estadio": "Lorenzo Arandilla",
+"fundacion": "3/3/1945",
+"nombre": "Brown (Adrogué)",
+"nombre_completo": "Club Atlético Brown",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Brown_(Adrogué)"
+},
+"buenos-aires": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "buenos_aires.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Buenos Aires",
+"provincia": ""
+},
+"buenos-aires-al-rosario-railway": {
+"capacidad": "",
+"ciudad": "Campana",
+"disolucion": "1896",
+"escudo": "buenos_aires_al_rosario_railway.png",
+"estadio": "",
+"fundacion": "1874",
+"nombre": "Buenos Aires al Rosario Railway",
+"nombre_completo": "Buenos Aires & Rosario Railway Athletic Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Buenos_Aires_%26_Rosario_Railway"
+},
+"buenos-aires-fc": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "buenos_aires_football_club.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Buenos Aires FC",
+"provincia": ""
+},
+"burzaco": {
+"capacidad": "",
+"ciudad": "Burzaco",
+"disolucion": "",
+"escudo": "club_de_burzaco.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Burzaco",
+"provincia": "Buenos Aires"
+},
+"cai-comodoro-rivadavia": {
+"apodo": [
+"Azurro",
+"La CAI",
+"Semillero Patagónico"
+],
+"capacidad": "8500",
+"ciudad": "Comodoro Rivadavia",
+"disolucion": "",
+"escudo": "cai_comodoro_rivadavia.png",
+"estadio": "Municipal de Comodoro Rivadavia",
+"fundacion": "10/8/1984",
+"nombre": "CAI (Comodoro Rivadavia)",
+"nombre_completo": "Comisión de Actividades Infantiles",
+"provincia": "Chubut",
+"web": "http://www.caicr.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Comisión_de_Actividades_Infantiles"
+},
+"caledonians-fc": {
+"capacidad": "",
+"ciudad": "Barracas",
+"disolucion": "1894",
+"escudo": "caledonians-fc.png",
+"estadio": "",
+"fundacion": "1890",
+"nombre": "Caledonians FC",
+"nombre_completo": "Old Caledonians Football Club",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Old_Caledonians_Football_Club"
+},
+"camioneros-argentinos-del-norte-salta": {
+"capacidad": "8000",
+"ciudad": "Salta",
+"disolucion": "",
+"escudo": "camioneros-argentinos-del-norte-de-salta.png",
+"estadio": "Padre Ernesto Martearena",
+"fundacion": "27/2/1911",
+"nombre": "Camioneros Argentinos del Norte (Salta)",
+"nombre_completo": "Club Camioneros Argentinos del Norte",
+"provincia": "Salta"
+},
+"canuelas": {
+"apodo": [
+"Los Tamberos",
+"El Rojo"
+],
+"capacidad": "1500",
+"ciudad": "Cañuelas",
+"disolucion": "",
+"escudo": "canuelas.png",
+"estadio": "Jorge Alfredo Arín",
+"fundacion": "1/1/1911",
+"nombre": "Cañuelas",
+"nombre_completo": "Cañuelas Fútbol Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Cañuelas_Fútbol_Club"
+},
+"carapachay": {
+"capacidad": "",
+"ciudad": "Carapachay",
+"disolucion": "",
+"escudo": "carapachay.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Carapachay",
+"provincia": "Buenos Aires"
+},
+"cazadores-de-los-andes": {
+"capacidad": "",
+"ciudad": "San Salvador de Jujuy",
+"disolucion": "",
+"escudo": "cazadores_de_los_andes_jujuy.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Cazadores de los Andes",
+"provincia": "Jujuy"
+},
+"central-argentino": {
+"apodo": [
+"Albo",
+"Arroces",
+"Furia blanca"
+],
+"capacidad": "6000",
+"ciudad": "",
+"disolucion": "",
+"escudo": "central_argentino.png",
+"estadio": "Dr. Osvaldo Juárez",
+"fundacion": "12/10/1913",
+"nombre": "Central Argentino",
+"nombre_completo": "Club Atlético Central Argentino (La Banda)",
+"provincia": "Santiago del Estero",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Central_Argentino_(La_Banda)"
+},
+"central-ballester": {
+"apodo": [
+"Cacique"
+],
+"capacidad": "1000",
+"ciudad": "Villa Ballester",
+"disolucion": "",
+"escudo": "central_ballester.png",
+"estadio": "Predio Cacique",
+"fundacion": "26/10/1974",
+"nombre": "Central Ballester",
+"nombre_completo": "Club Social y Deportivo Central Ballester",
+"provincia": "Buenos Aires",
+"web": "http://www.centralballester.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Central_Ballester"
+},
+"central-cordoba-rosario": {
+"apodo": [
+"Los Charrúas",
+"Los Azules Rosarinos",
+"El Matador"
+],
+"capacidad": "17025",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "central_cordoba_rosario.png",
+"estadio": "Gabino Sosa",
+"fundacion": "20/10/1906",
+"nombre": "Central Córdoba (Rosario)",
+"nombre_completo": "Club Atlético Central Córdoba (Rosario)",
+"provincia": "Santa Fe",
+"web": "https://www.centralcordoba.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Central_Córdoba_(Rosario)"
+},
+"central-cordoba-santiago-del-estero": {
+"apodo": [
+"El Ferroviario"
+],
+"capacidad": "12000",
+"ciudad": "Santiago del Estero",
+"disolucion": "",
+"escudo": "central_cordoba_santiago_del_estero.png",
+"estadio": "Alfredo Terrera",
+"fundacion": "3/6/1919",
+"nombre": "Central Córdoba (Santiago del Estero)",
+"nombre_completo": "Club Atlético Central Córdoba (Santiago del Estero)",
+"provincia": "Santiago del Estero",
+"web": "https://www.cacentralcordoba.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Central_Córdoba_(Santiago_del_Estero)"
+},
+"central-goya": {
+"capacidad": "3000",
+"ciudad": "Goya",
+"disolucion": "",
+"escudo": "central_goya.png",
+"estadio": "Pedro Celestino López",
+"fundacion": "23/9/1923",
+"nombre": "Central Goya",
+"nombre_completo": "Club Atlético Central Goya",
+"provincia": "Corrientes"
+},
+"central-norte": {
+"apodo": [
+"Cuervo",
+"Azabache"
+],
+"capacidad": "6500",
+"ciudad": "Salta",
+"disolucion": "",
+"escudo": "central_norte.png",
+"estadio": "Doctor Luis Güemes",
+"fundacion": "9/3/1921",
+"nombre": "Central Norte",
+"nombre_completo": "Club Atlético Central Norte (Salta)",
+"provincia": "Salta",
+"web": "https://centralnorte.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Central_Norte_(Salta)"
+},
+"central-norte-metan": {
+"capacidad": "",
+"ciudad": "Metán",
+"disolucion": "",
+"escudo": "central_norte_argentino_jujuy.png",
+"estadio": "",
+"fundacion": "1/5/1921",
+"nombre": "Central Norte (Metán)",
+"nombre_completo": "Club Central Norte Argentino",
+"provincia": "Salta"
+},
+"central-norte-saenz-pena": {
+"apodo": [
+"Ferroviario"
+],
+"capacidad": "5000",
+"ciudad": "Presidencia Roque Sáenz Peña",
+"disolucion": "",
+"escudo": "central-norte-saenz-pena.png",
+"estadio": "Resistencia",
+"fundacion": "15/10/1926",
+"nombre": "Central Norte (Sáenz Peña)",
+"nombre_completo": "Club Atlético Central Norte Argentino",
+"provincia": "Chaco",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Central_Norte_Argentino"
+},
+"chacarita-juniors": {
+"apodo": [
+"Funebrero"
+],
+"capacidad": "19000",
+"ciudad": "Villa Crespo",
+"disolucion": "",
+"escudo": "chacarita.png",
+"estadio": "Chacarita Juniors",
+"fundacion": "1/5/1906",
+"nombre": "Chacarita Juniors",
+"nombre_completo": "Club Atlético Chacarita Juniors",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://www.chacaritajuniors.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Chacarita_Juniors"
+},
+"chaco-for-ever": {
+"apodo": [
+"Albinegro",
+"Negro",
+"For Ever"
+],
+"capacidad": "25000",
+"ciudad": "Resistencia",
+"disolucion": "",
+"escudo": "chaco_for_ever.png",
+"estadio": "Juan Alberto García",
+"fundacion": "27/7/1913",
+"nombre": "Chaco For Ever",
+"nombre_completo": "Club Atlético Chaco For Ever",
+"provincia": "Chaco",
+"web": "http://chacoforever.club",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Chaco_For_Ever"
+},
+"cipolletti": {
+"apodo": [
+"Albinegro",
+"Cipo",
+"El Capataz de la Patagonia"
+],
+"capacidad": "15000",
+"ciudad": "Cipolletti",
+"disolucion": "",
+"escudo": "cipolletti.png",
+"estadio": "La Visera de Cemento",
+"fundacion": "26/10/1926",
+"nombre": "Cipolletti",
+"nombre_completo": "Club Cipolletti",
+"provincia": "Río Negro",
+"web": "http://clubcipolletti.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Cipolletti"
+},
+"circulo-deportivo": {
+"apodo": [
+"Papero",
+"Rojiverde",
+"Rojo"
+],
+"capacidad": "300",
+"ciudad": "Comandante Nicanor Otamendi",
+"disolucion": "",
+"escudo": "circulo_deportivo.png",
+"estadio": "Estadio Guillermo Trama",
+"fundacion": "23/12/1921",
+"nombre": "Círculo Deportivo",
+"nombre_completo": "Círculo Deportivo de Comandante Nicanor Otamendi",
+"provincia": "Buenos Aires",
+"web": "http://www.clubcirculodeportivo.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Círculo_Deportivo_de_Comandante_Nicanor_Otamendi"
+},
+"ciudad-de-bolivar": {
+"apodo": [
+"Las Águilas",
+"Los Celestes",
+"El Cele"
+],
+"capacidad": "4000",
+"ciudad": "Bolívar",
+"disolucion": "",
+"escudo": "ciudad_bolivar.png",
+"estadio": "Estadio Municipal Eva Perón",
+"fundacion": "23/10/2002",
+"nombre": "Ciudad de Bolívar",
+"nombre_completo": "Club Ciudad de Bolívar",
+"provincia": "Buenos Aires",
+"wikipedia": "https://en.wikipedia.org/wiki/Club_Ciudad_de_Bolívar"
+},
+"claypole": {
+"apodo": [
+"El Tambero",
+"El Tambo"
+],
+"capacidad": "4000",
+"ciudad": "Claypole",
+"disolucion": "",
+"escudo": "claypole.png",
+"estadio": "Rodolfo Vicente Capocasa",
+"fundacion": "1/10/1923",
+"nombre": "Claypole",
+"nombre_completo": "Club Atlético Claypole",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Claypole"
+},
+"club-atletico-flores": {
+"capacidad": "",
+"ciudad": "Flores",
+"disolucion": "1907",
+"escudo": "club-atletico-flores.png",
+"estadio": "",
+"fundacion": "1893",
+"nombre": "Club Atlético Flores",
+"provincia": "Ciudad de Buenos Aires"
+},
+"club-atletico-palermo": {
+"capacidad": "1000",
+"ciudad": "",
+"disolucion": "",
+"escudo": "club_atletico_palermo.png",
+"estadio": "Fitz Roy 2238 - Palermo",
+"fundacion": "21/7/1914",
+"nombre": "Club Atlético Palermo",
+"nombre_completo": "Club Atlético Palermo",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Palermo"
+},
+"club-federal": {
+"capacidad": "",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "club_federal.png",
+"estadio": "",
+"fundacion": "30/3/1943",
+"nombre": "Club Federal",
+"nombre_completo": "Club Social y Deportivo Federal",
+"provincia": "Santa Fe"
+},
+"club-victoria": {
+"capacidad": "4400",
+"ciudad": "San Luis",
+"disolucion": "",
+"escudo": "victoria_san_luis.png",
+"estadio": "Parque Victorioso",
+"fundacion": "1920",
+"nombre": "Club Victoria",
+"nombre_completo": "Sporting Club Victoria",
+"provincia": "San Luis"
+},
+"coghlan": {
+"capacidad": "",
+"ciudad": "Coghlan",
+"disolucion": "",
+"escudo": "coghlan.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Coghlan",
+"provincia": "Ciudad de Buenos Aires"
+},
+"colegiales": {
+"apodo": [
+"Cole"
+],
+"capacidad": "6500",
+"ciudad": "Colegiales",
+"disolucion": "",
+"escudo": "colegiales.png",
+"estadio": "Libertarios Unidos",
+"fundacion": "1/4/1908",
+"nombre": "Colegiales",
+"nombre_completo": "Club Atlético Colegiales (Munro)",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Colegiales_(Munro)"
+},
+"colegiales-concordia": {
+"apodo": [
+"El Cole"
+],
+"capacidad": "",
+"ciudad": "Concordia",
+"disolucion": "",
+"escudo": "colegiales_concordia.png",
+"estadio": "",
+"fundacion": "21/9/1940",
+"nombre": "Colegiales (Concordia)",
+"nombre_completo": "Club Atlético Colegiales (Concordia)",
+"provincia": "Entre Ríos",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Colegiales_(Concordia)"
+},
+"colon": {
+"apodo": [
+"El Sabalero",
+"El Rojinegro"
+],
+"capacidad": "40000",
+"ciudad": "Santa Fe",
+"disolucion": "",
+"escudo": "colon_santa_fe.png",
+"estadio": "Brigadier General Estanislao López",
+"fundacion": "5/5/1905",
+"nombre": "Colón",
+"nombre_completo": "Club Atlético Colón",
+"provincia": "Santa Fe",
+"web": "http://clubcolon.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Colón"
+},
+"columbian": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "1919",
+"escudo": "columbian.png",
+"estadio": "",
+"fundacion": "1911",
+"nombre": "Columbian",
+"nombre_completo": "Club Columbian",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Columbian"
+},
+"comercio-buenos-aires": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "comercio.png",
+"estadio": "",
+"fundacion": "5/6/1905",
+"nombre": "Comercio (Buenos Aires)",
+"nombre_completo": "Club Atlético Comercio",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://clubcomercio.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Comercio"
+},
+"comercio-ledesma": {
+"apodo": [
+"El Club De La Familia",
+"Los Leones del Alto"
+],
+"capacidad": "",
+"ciudad": "Ledesma",
+"disolucion": "",
+"escudo": "comercio-ledesma.png",
+"estadio": "",
+"fundacion": "30/8/1918",
+"nombre": "Comercio (Ledesma)",
+"nombre_completo": "Club Social y Deportivo Comercio",
+"provincia": "Jujuy"
+},
+"compania-general-buenos-aires": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "compania-general-buenos-aires.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Compañía General Buenos Aires",
+"provincia": ""
+},
+"complejo-deportivo-teniente-origone-justiniano-posse": {
+"apodo": [
+"La C"
+],
+"capacidad": "2000",
+"ciudad": "Justiniano Posse",
+"disolucion": "",
+"escudo": "complejo-deportivo-teniente-origone-justiniano-posse.png",
+"estadio": "23 de Mayo",
+"fundacion": "25/5/1973",
+"nombre": "Complejo Deportivo Teniente Origone (Justiniano Posse)",
+"nombre_completo": "Complejo Deportivo Teniente Origone",
+"provincia": "Córdoba",
+"web": "http://www.complejodeportivo.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Complejo_Deportivo_Teniente_Origone"
+},
+"comunicaciones": {
+"apodo": [
+"Cartero",
+"Comu"
+],
+"capacidad": "3500",
+"ciudad": "Agronomía",
+"disolucion": "",
+"escudo": "comunicaciones.png",
+"estadio": "Alfredo Ramos",
+"fundacion": "15/3/1931",
+"nombre": "Comunicaciones",
+"nombre_completo": "Club Comunicaciones (Buenos Aires)",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.clubcomunicaciones.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Comunicaciones_(Buenos_Aires)"
+},
+"concepcion-futbol-club": {
+"apodo": [
+"Cuervo del sur",
+"Cuervo tucumano"
+],
+"capacidad": "12000",
+"ciudad": "Concepción",
+"disolucion": "",
+"escudo": "concepcion_futbol_club.png",
+"estadio": "Antonio Guillén \"Pre Libertadores de América",
+"fundacion": "20/1/1927",
+"nombre": "Concepción Fútbol Club",
+"nombre_completo": "Concepción Fútbol Club",
+"provincia": "Tucumán",
+"web": "http://concepcion-fc.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Concepción_Fútbol_Club"
+},
+"correos-y-telecomunicaciones-salta": {
+"capacidad": "",
+"ciudad": "Salta",
+"disolucion": "",
+"escudo": "correos_y_telecomunicaciones.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Correos y Telecomunicaciones (Salta)",
+"provincia": "Salta"
+},
+"crucero-del-norte": {
+"apodo": [
+"Colectivero"
+],
+"capacidad": "16490",
+"ciudad": "Garupá",
+"disolucion": "",
+"escudo": "crucero_del_norte.png",
+"estadio": "Comandante Andrés Guaçurarí",
+"fundacion": "28/6/2003",
+"nombre": "Crucero del Norte",
+"nombre_completo": "Club Mutual Crucero del Norte",
+"provincia": "Misiones",
+"web": "http://www.clubcrucerodelnorte.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Mutual_Crucero_del_Norte"
+},
+"cruz-del-sur-ing-jacobacci": {
+"apodo": [
+"El Cruzado",
+"Depo",
+"Orgullo Barilochense"
+],
+"capacidad": "",
+"ciudad": "Ingeniero Jacobacci",
+"disolucion": "",
+"escudo": "cruz-del-sur-ing-jacobacci.png",
+"estadio": "José Antonio Jalil",
+"fundacion": "4/11/1988",
+"nombre": "Cruz del Sur (Ing.Jacobacci)",
+"nombre_completo": "Club Deportivo Cruz del Sur",
+"provincia": "Río Negro",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Cruz_del_Sur"
+},
+"defensa-y-justicia": {
+"apodo": [
+"El Halcón de Varela"
+],
+"capacidad": "20000",
+"ciudad": "Florencio Varela",
+"disolucion": "",
+"escudo": "defensa_y_justicia.png",
+"estadio": "Norberto Tomaghello",
+"fundacion": "20/3/1935",
+"nombre": "Defensa y Justicia",
+"nombre_completo": "Club Social y Deportivo Defensa y Justicia",
+"provincia": "Buenos Aires",
+"web": "http://www.defensayjusticia.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Defensa_y_Justicia"
+},
+"defensores-de-belgrano": {
+"apodo": [
+"El Dragón",
+"La Máquina Del Bajo"
+],
+"capacidad": "10000",
+"ciudad": "Belgrano",
+"disolucion": "",
+"escudo": "defensores_de_belgrano.png",
+"estadio": "Juan Pasquale",
+"fundacion": "25/5/1906",
+"nombre": "Defensores de Belgrano",
+"nombre_completo": "Club Atlético Defensores de Belgrano",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.defeweb.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Defensores_de_Belgrano"
+},
+"defensores-de-belgrano-bell-ville": {
+"capacidad": "",
+"ciudad": "Bell Ville",
+"disolucion": "",
+"escudo": "defensores_de_belgrano_bell_ville.png",
+"estadio": "",
+"fundacion": "16/5/1927",
+"nombre": "Defensores de Belgrano (Bell Ville)",
+"nombre_completo": "Club Atlético y Biblioteca Defensores de Belgrano",
+"provincia": "Córdoba"
+},
+"defensores-de-belgrano-villa-ramallo": {
+"apodo": [
+"Granate",
+"Elefante"
+],
+"capacidad": "3000",
+"ciudad": "Villa Ramallo",
+"disolucion": "",
+"escudo": "defensores_belgrano_villa_ramallo.png",
+"estadio": "Salomón Boeseldín",
+"fundacion": "1/4/1946",
+"nombre": "Defensores de Belgrano (Villa Ramallo)",
+"nombre_completo": "Club Atlético y Social Defensores de Belgrano",
+"provincia": "Buenos Aires",
+"web": "http://www.webgranate.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_y_Social_Defensores_de_Belgrano"
+},
+"defensores-de-cambaceres": {
+"apodo": [
+"Camba",
+"El Rojo"
+],
+"capacidad": "3000",
+"ciudad": "Ensenada",
+"disolucion": "",
+"escudo": "defensores_de_cambaceres.png",
+"estadio": "Ensenada",
+"fundacion": "12/10/1921",
+"nombre": "Defensores de Cambaceres",
+"nombre_completo": "Club Defensores de Cambaceres",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Defensores_de_Cambaceres"
+},
+"defensores-de-pronunciamiento": {
+"apodo": [
+"Depro"
+],
+"capacidad": "2000",
+"ciudad": "Pronunciamiento",
+"disolucion": "",
+"escudo": "defensores_de_pronunciamiento.png",
+"estadio": "Delio Cardozo",
+"fundacion": "18/9/1972",
+"nombre": "Defensores de Pronunciamiento",
+"nombre_completo": "Club Defensores de Pronunciamiento",
+"provincia": "Entre Ríos",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Defensores_de_Pronunciamiento"
+},
+"defensores-unidos": {
+"apodo": [
+"CADU",
+"Celeste",
+"Villero"
+],
+"capacidad": "9500",
+"ciudad": "Zárate",
+"disolucion": "",
+"escudo": "defensores_unidos.png",
+"estadio": "Mario Losinno",
+"fundacion": "14/7/1914",
+"nombre": "Defensores Unidos",
+"nombre_completo": "Club Atlético Defensores Unidos",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Defensores_Unidos"
+},
+"del-bono-san-juan": {
+"apodo": [
+"Bodegueros"
+],
+"capacidad": "5000",
+"ciudad": "Rivadavia",
+"disolucion": "",
+"escudo": "del_bono.png",
+"estadio": "Juan Bautista Del Bono",
+"fundacion": "28/1/1926",
+"nombre": "Del Bono (San Juan)",
+"nombre_completo": "Club Sportivo Juan Bautista Del Bono",
+"provincia": "San Juan",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Juan_Bautista_Del_Bono"
+},
+"del-plata": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "1990",
+"escudo": "del_plata.png",
+"estadio": "",
+"fundacion": "20/9/1915",
+"nombre": "Del Plata",
+"nombre_completo": "Club Atlético del Plata",
+"provincia": "",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_del_Plata"
+},
+"deportivo-armenio": {
+"apodo": [
+"Tricolor"
+],
+"capacidad": "8000",
+"ciudad": "Ingeniero Maschwitz",
+"disolucion": "",
+"escudo": "deportivo_armenio.png",
+"estadio": "Armenia",
+"fundacion": "2/11/1962",
+"nombre": "Deportivo Armenio",
+"nombre_completo": "Club Deportivo Armenio",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Armenio"
+},
+"deportivo-camioneros": {
+"apodo": [
+"El camión"
+],
+"capacidad": "5000",
+"ciudad": "Esteban Echeverría",
+"disolucion": "",
+"escudo": "deportivo_camioneros.png",
+"estadio": "Hugo Moyano",
+"fundacion": "26/8/2009",
+"nombre": "Deportivo Camioneros",
+"nombre_completo": "Club Atlético Social y Deportivo Camioneros",
+"provincia": "Buenos Aires",
+"web": "http://www.atleticocamioneros.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Social_y_Deportivo_Camioneros"
+},
+"deportivo-colon-chivilcoy": {
+"capacidad": "1000",
+"ciudad": "Chivilcoy",
+"disolucion": "",
+"escudo": "deportivo_colon_chivilcoy.png",
+"estadio": "Cancha Club Colón Chivilcoy",
+"fundacion": "12/10/1930",
+"nombre": "Deportivo Colón (Chivilcoy)",
+"nombre_completo": "Club Social y Deportivo Colón",
+"provincia": "Buenos Aires",
+"web": "https://www.clubcolonchivilcoy.com"
+},
+"deportivo-espanol": {
+"apodo": [
+"Gallego"
+],
+"capacidad": "36000",
+"ciudad": "Parque Avellaneda",
+"disolucion": "",
+"escudo": "deportivo_español.png",
+"estadio": "Nueva España",
+"fundacion": "12/10/1956",
+"nombre": "Deportivo Español",
+"nombre_completo": "Club Deportivo Español de Buenos Aires",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.cde.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Español_de_Buenos_Aires"
+},
+"deportivo-guaymallen-mendoza": {
+"apodo": [
+"Güeyma",
+"Cacique",
+"Italiano",
+"Tricolor"
+],
+"capacidad": "5100",
+"ciudad": "Guaymallén",
+"disolucion": "",
+"escudo": "deportivo-guaymallen.png",
+"estadio": "Hugo Pedro Alastra",
+"fundacion": "25/8/1918",
+"nombre": "Deportivo Guaymallén (Mendoza)",
+"nombre_completo": "Club Deportivo y Social Guaymallén",
+"provincia": "Mendoza",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_y_Social_Guaymallén"
+},
+"deportivo-italiano": {
+"apodo": [
+"Tano"
+],
+"capacidad": "8000",
+"ciudad": "Villa Soldati",
+"disolucion": "",
+"escudo": "deportivo_italiano.png",
+"estadio": "República de Italia",
+"fundacion": "7/5/1955",
+"nombre": "Deportivo Italiano",
+"nombre_completo": "Club Sportivo Italiano",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Italiano"
+},
+"deportivo-la-plata": {
+"capacidad": "",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "deportivo_la_plata.png",
+"estadio": "",
+"fundacion": "14/7/1927",
+"nombre": "Deportivo La Plata",
+"nombre_completo": "Club Social y Deportivo La Plata",
+"provincia": "Buenos Aires"
+},
+"deportivo-laferrere": {
+"apodo": [
+"Lafe",
+"Villero",
+"Verde"
+],
+"capacidad": "10137",
+"ciudad": "Laferrere",
+"disolucion": "",
+"escudo": "laferrere.png",
+"estadio": "Ciudad de Laferrere",
+"fundacion": "9/7/1956",
+"nombre": "Deportivo Laferrere",
+"nombre_completo": "Club Social y Cultural Deportivo Laferrere",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Cultural_Deportivo_Laferrere"
+},
+"deportivo-madryn": {
+"apodo": [
+"Aurinegro",
+"Depo"
+],
+"capacidad": "25000",
+"ciudad": "Puerto Madryn",
+"disolucion": "",
+"escudo": "deportivo_madryn.png",
+"estadio": "Abel Sastre",
+"fundacion": "7/5/1924",
+"nombre": "Deportivo Madryn",
+"nombre_completo": "Club Social y Deportivo Madryn",
+"provincia": "Chubut",
+"web": "http://clubmadryn.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Madryn"
+},
+"deportivo-maipu-mendoza": {
+"capacidad": "9260",
+"ciudad": "Maipú",
+"disolucion": "",
+"escudo": "maipu.png",
+"estadio": "Omar Higinio Sperdutti",
+"fundacion": "16/12/1927",
+"nombre": "Deportivo Maipú (Mendoza)",
+"nombre_completo": "Club Deportivo Maipú",
+"provincia": "Mendoza",
+"web": "https://deportivomaipu.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Maipú"
+},
+"deportivo-mandiyu": {
+"apodo": [
+"Albo",
+"Algodoneros"
+],
+"capacidad": "15700",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "deportivo_mandiyu.png",
+"estadio": "Estadio José Antonio Romero Feris",
+"fundacion": "14/12/1952",
+"nombre": "Deportivo Mandiyú",
+"nombre_completo": "Club Deportivo Mandiyú",
+"provincia": "Corrientes",
+"web": "https://clubdeportivomandiyu.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Mandiyú"
+},
+"deportivo-merlo": {
+"apodo": [
+"El Charro"
+],
+"capacidad": "12000",
+"ciudad": "Merlo",
+"disolucion": "",
+"escudo": "merlo.png",
+"estadio": "José Manuel Moreno",
+"fundacion": "8/10/1954",
+"nombre": "Deportivo Merlo",
+"nombre_completo": "Club Social y Deportivo Merlo",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Merlo"
+},
+"deportivo-moron": {
+"apodo": [
+"Gallo",
+"Gallito"
+],
+"capacidad": "32500",
+"ciudad": "Morón",
+"disolucion": "",
+"escudo": "deportivo_moron.png",
+"estadio": "Nuevo Francisco Urbano",
+"fundacion": "20/6/1947",
+"nombre": "Deportivo Morón",
+"nombre_completo": "Club Deportivo Morón",
+"provincia": "Buenos Aires",
+"web": "https://deportivomoron.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Morón"
+},
+"deportivo-muniz": {
+"apodo": [
+"Rayo Rojo"
+],
+"capacidad": "",
+"ciudad": "Muñiz",
+"disolucion": "",
+"escudo": "deportivo_muñiz.png",
+"estadio": "No posee",
+"fundacion": "9/7/1932",
+"nombre": "Deportivo Muñiz",
+"nombre_completo": "Club Social Cultural y Deportivo Muñiz",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_Cultural_y_Deportivo_Muñiz"
+},
+"deportivo-paraguayo": {
+"apodo": [
+"Guaraní"
+],
+"capacidad": "3000",
+"ciudad": "González Catán",
+"disolucion": "",
+"escudo": "deportivo_paraguayo.png",
+"estadio": "Estadio de Deportivo Paraguayo",
+"fundacion": "15/8/1961",
+"nombre": "Deportivo Paraguayo",
+"nombre_completo": "Club Atlético Deportivo Paraguayo",
+"provincia": "Buenos Aires",
+"web": "http://deportivoparaguayo.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Deportivo_Paraguayo"
+},
+"deportivo-roca": {
+"apodo": [
+"El grande de la Patagonia",
+"el Naranja",
+"depo"
+],
+"capacidad": "8000",
+"ciudad": "General Roca",
+"disolucion": "",
+"escudo": "deportivo_roca.png",
+"estadio": "Luis Maiolino",
+"fundacion": "1/9/1974",
+"nombre": "Deportivo Roca",
+"nombre_completo": "Club Social y Deportivo General Roca",
+"provincia": "Río Negro",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_General_Roca"
+},
+"deportivo-san-jorge-tucuman": {
+"apodo": [
+"El expreso"
+],
+"capacidad": "2000",
+"ciudad": "San Miguel de Tucumán",
+"disolucion": "2020",
+"escudo": "deportivo-san-jorge-tucuman.png",
+"estadio": "Ángel Pascual Sáez",
+"fundacion": "15/7/2008",
+"nombre": "Deportivo San Jorge (Tucumán)",
+"nombre_completo": "Club Social y Deportivo San Jorge",
+"provincia": "Tucumán",
+"web": "http://sanjorgetucuman.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_San_Jorge"
+},
+"deportivo-union-catamarca": {
+"apodo": [
+"El Rojo"
+],
+"capacidad": "",
+"ciudad": "San Fernando del Valle de Catamarca",
+"disolucion": "1982",
+"escudo": "deportivo_union_catamarca.png",
+"estadio": "",
+"fundacion": "18/3/1032",
+"nombre": "Deportivo Unión (Catamarca)",
+"nombre_completo": "Club Deportivo Unión",
+"provincia": "Catamarca"
+},
+"don-orione": {
+"apodo": [
+"Portuario",
+"Santos"
+],
+"capacidad": "10000",
+"ciudad": "Resistencia",
+"disolucion": "",
+"escudo": "don_orione.png",
+"estadio": "Dr. Pedro Biolchi",
+"fundacion": "2/6/1946",
+"nombre": "Don Orione",
+"nombre_completo": "Don Orione Atletic Club",
+"provincia": "Chaco",
+"wikipedia": "https://es.wikipedia.org/wiki/Don_Orione_Atletic_Club"
+},
+"douglas-haig": {
+"apodo": [
+"Fogoneros",
+"Rojinegro",
+"El Milan de Pergamino"
+],
+"capacidad": "16001",
+"ciudad": "Pergamino",
+"disolucion": "",
+"escudo": "douglas_haig.png",
+"estadio": "Miguel Morales",
+"fundacion": "18/11/1918",
+"nombre": "Douglas Haig",
+"nombre_completo": "Club Atlético Douglas Haig",
+"provincia": "Buenos Aires",
+"web": "https://douglashaig.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Douglas_Haig"
+},
+"el-aeroplano": {
+"capacidad": "",
+"ciudad": "Valentín Alsina",
+"disolucion": "",
+"escudo": "el-aeroplano.png",
+"estadio": "",
+"fundacion": "17/10/1916",
+"nombre": "El Aeroplano",
+"nombre_completo": "Club Sportivo Alsina",
+"provincia": "Buenos Aires",
+"web": "https://sportivoalsina.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Alsina"
+},
+"el-fortin-de-la-vuelta-rojas": {
+"capacidad": "",
+"ciudad": "Rojas",
+"disolucion": "",
+"escudo": "el_fortin_de_la_vuelta.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "El Fortín de la Vuelta (Rojas)",
+"provincia": "Buenos Aires"
+},
+"el-linqueno-lincoln": {
+"apodo": [
+"El León",
+"Albiazul",
+"Azul",
+"CAEL"
+],
+"capacidad": "6500",
+"ciudad": "Lincoln",
+"disolucion": "",
+"escudo": "el_linqueño.png",
+"estadio": "Leonardo Costa",
+"fundacion": "6/6/1915",
+"nombre": "El Linqueño (Lincoln)",
+"nombre_completo": "Club Atlético El Linqueño",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Atlético_El_Linqueño"
+},
+"el-porvenir": {
+"apodo": [
+"El Porve",
+"Blanco y Negro"
+],
+"capacidad": "14000",
+"ciudad": "Gerli",
+"disolucion": "",
+"escudo": "el_porvenir.png",
+"estadio": "Gildo Francisco Ghersinich",
+"fundacion": "12/9/1915",
+"nombre": "El Porvenir",
+"nombre_completo": "Club El Porvenir",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_El_Porvenir"
+},
+"el-quequen-oriente": {
+"capacidad": "",
+"ciudad": "Oriente",
+"disolucion": "",
+"escudo": "el_quequen_oriente.png",
+"estadio": "",
+"fundacion": "5/10/1919",
+"nombre": "El Quequén (Oriente)",
+"nombre_completo": "Club Sportivo y Recreativo El Quequén",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_y_Recreativo_El_Quequén"
+},
+"el-socorro": {
+"capacidad": "",
+"ciudad": "Pergamino",
+"disolucion": "",
+"escudo": "el_socorro.png",
+"estadio": "",
+"fundacion": "1/3/1916",
+"nombre": "El Socorro",
+"nombre_completo": "Club Atlético El Socorro",
+"provincia": "Buenos Aires"
+},
+"empleados-de-comercio-bolivar": {
+"capacidad": "",
+"ciudad": "Bolívar",
+"disolucion": "",
+"escudo": "empleados_de_comercio_bolivar.png",
+"estadio": "Predio La Victoria",
+"fundacion": "9/6/1918",
+"nombre": "Empleados de Comercio (Bolívar)",
+"nombre_completo": "Club Atlético Empleados de Comercio",
+"provincia": "Buenos Aires"
+},
+"estudiantes-caseros": {
+"apodo": [
+"El Pincha de Caseros",
+"Matador"
+],
+"capacidad": "16740",
+"ciudad": "Caseros",
+"disolucion": "",
+"escudo": "estudiantes_caseros.png",
+"estadio": "Ciudad de Caseros",
+"fundacion": "15/8/1898",
+"nombre": "Estudiantes (Caseros)",
+"nombre_completo": "Club Atlético Estudiantes",
+"provincia": "Buenos Aires",
+"web": "https://caestudiantes.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Estudiantes"
+},
+"estudiantes-de-la-plata": {
+"apodo": [
+"Pincha",
+"Pincharrata",
+"León"
+],
+"capacidad": "32530",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "estudiantes_de_la_plata.png",
+"estadio": "Jorge Luis Hirschi",
+"fundacion": "4/8/1905",
+"nombre": "Estudiantes de La Plata",
+"nombre_completo": "Club Estudiantes de La Plata",
+"provincia": "Buenos Aires",
+"web": "https://www.estudiantesdelaplata.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Estudiantes_de_La_Plata"
+},
+"estudiantes-olavarria": {
+"apodo": [
+"Bataraz"
+],
+"capacidad": "7500",
+"ciudad": "Olavarría",
+"disolucion": "",
+"escudo": "estudiantes_olavarria.png",
+"estadio": "",
+"fundacion": "12/4/1912",
+"nombre": "Estudiantes (Olavarría)",
+"nombre_completo": "Club Atlético Estudiantes (Olavarría)",
+"provincia": "Buenos Aires",
+"web": "https://www.caeolavarria.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Estudiantes_(Olavarría)"
+},
+"estudiantes-rio-cuarto": {
+"apodo": [
+"Celeste",
+"León del Imperio"
+],
+"capacidad": "12000",
+"ciudad": "Río Cuarto",
+"disolucion": "",
+"escudo": "estudiantes_rio_cuarto.png",
+"estadio": "Antonio Candini",
+"fundacion": "21/9/1912",
+"nombre": "Estudiantes (Río Cuarto)",
+"nombre_completo": "Asociación Atlética Estudiantes",
+"provincia": "Córdoba",
+"web": "https://aaestudiantes.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Atlética_Estudiantes"
+},
+"estudiantes-san-luis": {
+"apodo": [
+"Verde",
+"Equipo Del Pueblo",
+"Albiverde"
+],
+"capacidad": "12500",
+"ciudad": "San Luis",
+"disolucion": "",
+"escudo": "estudiantes_san_luis.png",
+"estadio": "Héctor Odicino-Pedro Benoza",
+"fundacion": "20/6/1920",
+"nombre": "Estudiantes (San Luis)",
+"nombre_completo": "Club Sportivo Estudiantes",
+"provincia": "San Luis",
+"web": "http://estudiantesoficialsanluis.com/",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Sportivo_Estudiantes"
+},
+"estudiantes-santiago-del-estero": {
+"apodo": [
+"Casaca Patria",
+"Estuky"
+],
+"capacidad": "2000",
+"ciudad": "Santiago del Estero",
+"disolucion": "",
+"escudo": "estudiantes_de_santiago_del_estero.png",
+"estadio": "Dr. Andrés Vergottini",
+"fundacion": "1/4/1913",
+"nombre": "Estudiantes (Santiago del Estero)",
+"nombre_completo": "Club Atlético Estudiantes (Santiago del Estero)",
+"provincia": "Santiago del Estero",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Estudiantes_(Santiago_del_Estero)"
+},
+"estudiantil-porteno": {
+"capacidad": "",
+"ciudad": "San Telmo",
+"disolucion": "",
+"escudo": "estudiantil_porteño.png",
+"estadio": "",
+"fundacion": "6/9/1902",
+"nombre": "Estudiantil Porteño",
+"nombre_completo": "Club Atlético Estudiantil Porteño",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://www.caep.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Estudiantil_Porteño"
+},
+"eureka": {
+"capacidad": "1000",
+"ciudad": "",
+"disolucion": "",
+"escudo": "eureka.png",
+"estadio": "Fitz Roy 2238 - Palermo",
+"fundacion": "21/7/1914",
+"nombre": "Eureka",
+"nombre_completo": "Asociación Atlética Eureka",
+"provincia": "",
+"wikipedia": "https://en.wikipedia.org/wiki/Asociación_Atlética_Eureka"
+},
+"everton": {
+"apodo": [
+"Decano",
+"El Deca"
+],
+"capacidad": "2500",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "everton.png",
+"estadio": "La Plata",
+"fundacion": "9/4/1905",
+"nombre": "Everton",
+"nombre_completo": "Club Everton",
+"provincia": "Buenos Aires",
+"web": "https://clubevertonlaplata.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Everton"
+},
+"excursionistas": {
+"apodo": [
+"Excursio",
+"El Verde",
+"La Máquina del Bajo Belgrano",
+"El Villero"
+],
+"capacidad": "6218",
+"ciudad": "Belgrano",
+"disolucion": "",
+"escudo": "excursionistas.png",
+"estadio": "Estadio de Excursionistas",
+"fundacion": "1/2/1910",
+"nombre": "Excursionistas",
+"nombre_completo": "Club Atlético Excursionistas",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.excursionistas.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Excursionistas"
+},
+"fcc-argentina": {
+"capacidad": "",
+"ciudad": "",
+"disolucion": "",
+"escudo": "fcc_argentina.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "FCC Argentina",
+"provincia": ""
+},
+"fenix": {
+"apodo": [
+"Los Cuervos de Colegiales",
+"Blanquinegro",
+"El Águila",
+"El Cuervo",
+"Albinegro"
+],
+"capacidad": "10000",
+"ciudad": "Barracas",
+"disolucion": "",
+"escudo": "fenix.png",
+"estadio": "En construcción",
+"fundacion": "25/4/1948",
+"nombre": "Fenix",
+"nombre_completo": "Club Atlético Fénix",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Fénix"
+},
+"ferro-carril-oeste": {
+"apodo": [
+"Ferro",
+"El Verde",
+"El Verdolaga",
+"El Expreso Oeste",
+"El Expreso de Caballito"
+],
+"capacidad": "24442",
+"ciudad": "Caballito",
+"disolucion": "",
+"escudo": "ferro_carril_oeste.png",
+"estadio": "Arquitecto Ricardo Etcheverri",
+"fundacion": "28/7/1904",
+"nombre": "Ferro Carril Oeste",
+"nombre_completo": "Club Ferro Carril Oeste",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.ferrocarriloeste.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+},
+"ferro-carril-oeste-general-pico": {
+"apodo": [
+"Ferro",
+"Verdolaga",
+"El tren de Barrio Talleres",
+"La Locomotora de Barrio Talleres"
+],
+"capacidad": "17000",
+"ciudad": "General Pico",
+"disolucion": "",
+"escudo": "ferro_general_pico.png",
+"estadio": "El Coloso del Barrio Talleres",
+"fundacion": "24/6/1934",
+"nombre": "Ferro Carril Oeste (General Pico)",
+"nombre_completo": "Club Ferro Carril Oeste (General Pico)",
+"provincia": "La Pampa",
+"web": "http://www.ferrodelapampa.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste_(General_Pico)"
+},
+"ferro-carril-sud-tandil": {
+"apodo": [
+"Ferro",
+"El Tricolor"
+],
+"capacidad": "4500",
+"ciudad": "Tandil",
+"disolucion": "",
+"escudo": "ferro-carril-sud-tandil.png",
+"estadio": "Estadio Dámaso Latasa",
+"fundacion": "6/6/1919",
+"nombre": "Ferro Carril Sud (Tandil)",
+"nombre_completo": "Club Atlético y Biblioteca Ferrocarril Sud",
+"provincia": "Buenos Aires",
+"web": "https://www.ferrocarrilsud.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_y_Biblioteca_Ferrocarril_Sud"
+},
+"ferrocarril-gran-sud-remedios-de-escalada": {
+"capacidad": "",
+"ciudad": "Remedios de Escalada",
+"disolucion": "1914",
+"escudo": "ferrocarril-gran-sud-remedios-de-escalada.png",
+"estadio": "",
+"fundacion": "1887",
+"nombre": "Ferrocarril Gran Sud (Remedios de Escalada)",
+"nombre_completo": "Club Atlético del Ferrocarril Gran Sud",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_del_Ferrocarril_Gran_Sud"
+},
+"ferrocarril-sud-neuquen": {
+"capacidad": "",
+"ciudad": "Neuquén",
+"disolucion": "",
+"escudo": "ferrocarril_sud.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Ferrocarril Sud (Neuquén)",
+"nombre_completo": "Club Ferrocarril Sud",
+"provincia": "Neuquén"
+},
+"ferrocarriles-del-estado": {
+"capacidad": "",
+"ciudad": "Monserrat",
+"disolucion": "",
+"escudo": "ferrocarriles-del-estado.png",
+"estadio": "",
+"fundacion": "1/3/1914",
+"nombre": "Ferrocarriles del Estado",
+"nombre_completo": "Club Ferrocarriles del Estado",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://www.rsssf.org/tablesf/ffee.html"
+},
+"ferroviarios": {
+"apodo": [
+"Verdolaga",
+"Ferro",
+"El Tren"
+],
+"capacidad": "15172",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "ferroviarios.png",
+"estadio": "Estadio Juan Carlos Vallejos",
+"fundacion": "28/7/1938",
+"nombre": "Ferroviarios",
+"nombre_completo": "Ferroviario Corrientes Fútbol Club",
+"provincia": "Corrientes",
+"web": "https://ferroviariocorrientesfc.blogspot.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Ferroviario_Corrientes_Fútbol_Club"
+},
+"flandria": {
+"apodo": [
+"Canario"
+],
+"capacidad": "5000",
+"ciudad": "Jáuregui",
+"disolucion": "",
+"escudo": "flandria.png",
+"estadio": "Carlos V",
+"fundacion": "9/2/1941",
+"nombre": "Flandria",
+"nombre_completo": "Club Social y Deportivo Flandria",
+"provincia": "Buenos Aires",
+"web": "http://www.clubflandria.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Flandria"
+},
+"floresta": {
+"capacidad": "",
+"ciudad": "Floresta",
+"disolucion": "1919",
+"escudo": "floresta.png",
+"estadio": "",
+"fundacion": "1913",
+"nombre": "Floresta",
+"nombre_completo": "Club Sportivo Floresta",
+"provincia": "Ciudad de Buenos Aires"
+},
+"fontana-formosa": {
+"apodo": [
+"Albiceleste",
+"Comandante",
+"Decano"
+],
+"capacidad": "1500",
+"ciudad": "Formosa",
+"disolucion": "",
+"escudo": "fontana.png",
+"estadio": "Presidente Antonio \"Coco\" Forés",
+"fundacion": "14/6/1914",
+"nombre": "Fontana (Formosa)",
+"nombre_completo": "Club Social y Deportivo Comandante Luis Jorge Fontana",
+"provincia": "Formosa",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Luis_Jorge_Fontana"
+},
+"general-belgrano-la-plata": {
+"capacidad": "",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "general_belgrano_la_plata.png",
+"estadio": "118 y Av. 41",
+"fundacion": "19/8/1908",
+"nombre": "General Belgrano (La Plata)",
+"nombre_completo": "Asociación Deportiva General Belgrano",
+"provincia": "Buenos Aires"
+},
+"general-lamadrid": {
+"apodo": [
+"Carceleros",
+"Lama",
+"General"
+],
+"capacidad": "3500",
+"ciudad": "Villa Devoto",
+"disolucion": "",
+"escudo": "general_lamadrid.png",
+"estadio": "Estadio Enrique Sexto",
+"fundacion": "11/5/1950",
+"nombre": "General Lamadrid",
+"nombre_completo": "Club Atlético General Lamadrid",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_General_Lamadrid"
+},
+"general-paz-juniors": {
+"apodo": [
+"Los Poetas Del Césped",
+"Poeta",
+"Albo",
+"Juniors",
+"GPJ"
+],
+"capacidad": "11000",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "general_paz_juniors.png",
+"estadio": "Carlos \"Lalo\" Lacasia",
+"fundacion": "27/4/1914",
+"nombre": "General Paz Juniors",
+"nombre_completo": "Club Atlético General Paz Juniors",
+"provincia": "Córdoba",
+"web": "https://www.generalpazjuniors.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_General_Paz_Juniors"
+},
+"general-san-martin-formosa": {
+"apodo": [
+"Franja",
+"Los Franjeados"
+],
+"capacidad": "3000",
+"ciudad": "Formosa",
+"disolucion": "",
+"escudo": "san_martin_formosa.png",
+"estadio": "17 de Octubre",
+"fundacion": "8/4/1941",
+"nombre": "General San Martín (Formosa)",
+"nombre_completo": "Club Sportivo General San Martín",
+"provincia": "Formosa",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_General_San_Martín"
+},
+"germinal": {
+"apodo": [
+"El verde"
+],
+"capacidad": "10000",
+"ciudad": "Rawson",
+"disolucion": "",
+"escudo": "germinal.png",
+"estadio": "El Fortín",
+"fundacion": "3/9/1922",
+"nombre": "Germinal",
+"nombre_completo": "Club Atlético Germinal",
+"provincia": "Chubut",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Germinal"
+},
+"germinal-buenos-aires": {
+"capacidad": "",
+"ciudad": "Villa Lynch",
+"disolucion": "1929",
+"escudo": "germinal_buenos_aires.png",
+"estadio": "",
+"fundacion": "1920",
+"nombre": "Germinal (Buenos Aires)",
+"nombre_completo": "Club Germinal de Villa Lynch",
+"provincia": "Buenos Aires"
+},
+"gimnasia-y-esgrima-buenos-aires": {
+"capacidad": "16000",
+"ciudad": "Palermo",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_buenos_aires.png",
+"estadio": "Estadio G.E.B.A",
+"fundacion": "11/11/1880",
+"nombre": "Gimnasia y Esgrima (Buenos Aires)",
+"nombre_completo": "Club de Gimnasia y Esgrima (Buenos Aires)",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://geba.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_(Buenos_Aires)"
+},
+"gimnasia-y-esgrima-chivilcoy": {
+"capacidad": "3000",
+"ciudad": "Chivilcoy",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_chivilcoy.png",
+"estadio": "José María Paz",
+"fundacion": "18/4/1916",
+"nombre": "Gimnasia y Esgrima (Chivilcoy)",
+"nombre_completo": "Club Social, Cultural y Deportivo Gimnasia y Esgrima",
+"provincia": "Buenos Aires",
+"web": "https://clubgimnasia.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social,_Cultural_y_Deportivo_Gimnasia_y_Esgrima"
+},
+"gimnasia-y-esgrima-concepcion-del-uruguay": {
+"apodo": [
+"Lobo",
+"Mens Sana",
+"Lobo Entrerriano"
+],
+"capacidad": "15000",
+"ciudad": "Concepción del Uruguay",
+"disolucion": "",
+"escudo": "gimnasia_concepcion.png",
+"estadio": "Estadio Manuel y Ramón Núñez",
+"fundacion": "8/2/1917",
+"nombre": "Gimnasia y Esgrima (Concepción del Uruguay)",
+"nombre_completo": "Club Gimnasia y Esgrima (Concepción del Uruguay)",
+"provincia": "Entre Ríos",
+"web": "http://www.gimnasiacdelu.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Gimnasia_y_Esgrima_de_Concepción_del_Uruguay"
+},
+"gimnasia-y-esgrima-jujuy": {
+"apodo": [
+"Lobo Jujeño",
+"Albiceleste"
+],
+"capacidad": "24000",
+"ciudad": "San Salvador de Jujuy",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_jujuy.png",
+"estadio": "23 de Agosto",
+"fundacion": "18/3/1931",
+"nombre": "Gimnasia y Esgrima (Jujuy)",
+"nombre_completo": "Club Atlético Gimnasia y Esgrima (Jujuy)",
+"provincia": "Jujuy",
+"web": "https://www.gyejoficial.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Gimnasia_y_Esgrima_(Jujuy)"
+},
+"gimnasia-y-esgrima-la-plata": {
+"apodo": [
+"El Lobo",
+"El Tripero"
+],
+"capacidad": "30973",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_la_plata.png",
+"estadio": "Juan Carmelo Zerillo",
+"fundacion": "3/6/1887",
+"nombre": "Gimnasia y Esgrima (La Plata)",
+"nombre_completo": "Club de Gimnasia y Esgrima La Plata",
+"provincia": "Buenos Aires",
+"web": "http://www.gimnasia.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata"
+},
+"gimnasia-y-esgrima-mendoza": {
+"apodo": [
+"Babosos",
+"Blanquinegro",
+"Caracol",
+"Lobo del Parque",
+"Lobo mendocino",
+"Los 33",
+"Mensana",
+"Pituco"
+],
+"capacidad": "14000",
+"ciudad": "Mendoza",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_mendoza.png",
+"estadio": "Víctor Antonio Legrotaglie",
+"fundacion": "30/8/1908",
+"nombre": "Gimnasia y Esgrima (Mendoza)",
+"nombre_completo": "Club Atlético Gimnasia y Esgrima (Mendoza)",
+"provincia": "Mendoza",
+"web": "https://www.gimnasiayesgrimamza.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Gimnasia_y_Esgrima_(Mendoza)"
+},
+"gimnasia-y-esgrima-mercedes": {
+"capacidad": "",
+"ciudad": "Mercedes",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima-de-mercedes.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Gimnasia y Esgrima (Mercedes)",
+"nombre_completo": "Club Gimnasia y Esgrima (Mercedes)",
+"provincia": "Buenos Aires"
+},
+"gimnasia-y-esgrima-rosario": {
+"apodo": [
+"GER"
+],
+"capacidad": "5000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_de_rosario.png",
+"estadio": "Estadio cubierto (Gimnasia y Esgrima de Rosario)",
+"fundacion": "10/9/1904",
+"nombre": "Gimnasia y Esgrima (Rosario)",
+"nombre_completo": "Club Gimnasia y Esgrima de Rosario",
+"provincia": "Santa Fe",
+"web": "http://www.clubger.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Gimnasia_y_Esgrima_de_Rosario"
+},
+"gimnasia-y-esgrima-santa-fe": {
+"apodo": [
+"Los pistoleros"
+],
+"capacidad": "10000",
+"ciudad": "Santa Fe",
+"disolucion": "",
+"escudo": "gimnasia_y_esgrima_santa_fe.png",
+"estadio": "Estadio Gigante de Ciudadela",
+"fundacion": "23/8/1941",
+"nombre": "Gimnasia y Esgrima (Santa Fe)",
+"nombre_completo": "Club Atlético Gimnasia y Esgrima (Santa Fe)",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Gimnasia_y_Esgrima_(Santa_Fe)"
+},
+"gimnasia-y-tiro-salta": {
+"apodo": [
+"Albo",
+"Millonario"
+],
+"capacidad": "24300",
+"ciudad": "Salta",
+"disolucion": "",
+"escudo": "gimnasia-y-tiro-salta.png",
+"estadio": "El Gigante del Norte",
+"fundacion": "29/11/1902",
+"nombre": "Gimnasia y Tiro (Salta)",
+"nombre_completo": "Club de Gimnasia y Tiro",
+"provincia": "Salta",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Tiro_de_Salta"
+},
+"godoy-cruz-antonio-tomba": {
+"apodo": [
+"Tomba",
+"Bodeguero",
+"Expreso"
+],
+"capacidad": "21000",
+"ciudad": "Godoy Cruz",
+"disolucion": "",
+"escudo": "godoy_cruz.png",
+"estadio": "Feliciano Gambarte",
+"fundacion": "1/6/1921",
+"nombre": "Godoy Cruz Antonio Tomba",
+"nombre_completo": "Club Deportivo Godoy Cruz Antonio Tomba",
+"provincia": "Mendoza",
+"web": "http://clubgodoycruz.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Godoy_Cruz_Antonio_Tomba"
+},
+"gorriti-jujuy": {
+"capacidad": "7000",
+"ciudad": "San Salvador de Jujuy",
+"disolucion": "",
+"escudo": "gorriti.png",
+"estadio": "Estadio Fausto Tejerina",
+"fundacion": "10/11/1937",
+"nombre": "Gorriti (Jujuy)",
+"nombre_completo": "Club Atlético Gorriti",
+"provincia": "Jujuy",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Gorriti"
+},
+"graffigna": {
+"apodo": [
+"Merengue"
+],
+"capacidad": "3200",
+"ciudad": "Desamparados",
+"disolucion": "",
+"escudo": "graffigna.png",
+"estadio": "Dr. Jorge R. Barassi",
+"fundacion": "2/11/1925",
+"nombre": "Graffigna",
+"nombre_completo": "Club Atlético Colón Junior",
+"provincia": "San Juan",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Colón_Junior"
+},
+"grupo-universitario-tandil": {
+"apodo": [
+"El Universitario"
+],
+"capacidad": "8000",
+"ciudad": "Tandil",
+"disolucion": "",
+"escudo": "grupo_universitario.png",
+"estadio": "Estadio Municipal General San Martín",
+"fundacion": "26/2/1984",
+"nombre": "Grupo Universitario (Tandil)",
+"nombre_completo": "Club Grupo Universitario (Tandil)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Grupo_Universitario_de_Tandil"
+},
+"guarani-antonio-franco": {
+"apodo": [
+"La Franja"
+],
+"capacidad": "12000",
+"ciudad": "Posadas",
+"disolucion": "",
+"escudo": "guarani_antonio_franco.png",
+"estadio": "Clemente Fernández de Oliveira",
+"fundacion": "12/6/1932",
+"nombre": "Guaraní Antonio Franco",
+"nombre_completo": "Club Deportivo Guaraní Antonio Franco",
+"provincia": "Misiones",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Guaraní_Antonio_Franco"
+},
+"guemes-santiago-del-estero": {
+"apodo": [
+"Gauchos",
+"Azulgranas"
+],
+"capacidad": "12000",
+"ciudad": "Santiago del Estero",
+"disolucion": "",
+"escudo": "guemes.png",
+"estadio": "Arturo \"Jiya\" Miranda",
+"fundacion": "12/10/1932",
+"nombre": "Güemes (Santiago del Estero)",
+"nombre_completo": "Club Atlético Güemes",
+"provincia": "Santiago del Estero",
+"web": "https://caguemes.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Güemes"
+},
+"guillermo-brown": {
+"apodo": [
+"La Banda",
+"El capo del sur",
+"El Ancla"
+],
+"capacidad": "15000",
+"ciudad": "Puerto Madryn",
+"disolucion": "",
+"escudo": "guillermo_brown.png",
+"estadio": "Raúl Conti",
+"fundacion": "14/1/1945",
+"nombre": "Guillermo Brown",
+"nombre_completo": "Club Social y Atlético Guillermo Brown",
+"provincia": "Chubut",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Atlético_Guillermo_Brown"
+},
+"gutenberg": {
+"capacidad": "",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "gutenberg.png",
+"estadio": "",
+"fundacion": "1/9/1911",
+"nombre": "Gutenberg",
+"nombre_completo": "Club Gutenberg",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Gutenberg"
+},
+"hispano-argentino": {
+"capacidad": "",
+"ciudad": "Tigre",
+"disolucion": "",
+"escudo": "hispano-argentino.png",
+"estadio": "",
+"fundacion": "10/4/1913",
+"nombre": "Hispano Argentino",
+"nombre_completo": "Club de Regatas Hispano Argentino",
+"provincia": "Buenos Aires",
+"web": "http://www.crha.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_de_Regatas_Hispano_Argentino"
+},
+"honor-y-patria": {
+"apodo": [
+"Isleños"
+],
+"capacidad": "",
+"ciudad": "",
+"disolucion": "1938",
+"escudo": "honor_y_patria.png",
+"estadio": "",
+"fundacion": "1/5/1911",
+"nombre": "Honor y Patria",
+"nombre_completo": "Club Atlético y Social Honor y Patria",
+"provincia": "",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_y_Social_Honor_y_Patria"
+},
+"huracan": {
+"apodo": [
+"Globo",
+"Globito",
+"Quemero"
+],
+"capacidad": "48314",
+"ciudad": "Parque Patricios",
+"disolucion": "",
+"escudo": "huracan.png",
+"estadio": "Tomás Adolfo Ducó",
+"fundacion": "1/11/1908",
+"nombre": "Huracán",
+"nombre_completo": "Club Atlético Huracán",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.cahuracan.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+},
+"huracan-comodoro-rivadavia": {
+"apodo": [
+"El Globo"
+],
+"capacidad": "6500",
+"ciudad": "Comodoro Rivadavia",
+"disolucion": "",
+"escudo": "huracan_comodoro_rivadavia.png",
+"estadio": "Estadio César Muñoz",
+"fundacion": "22/12/1927",
+"nombre": "Huracán (Comodoro Rivadavia)",
+"nombre_completo": "Club Atlético Huracán (Comodoro Rivadavia)",
+"provincia": "Chubut",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán_(Comodoro_Rivadavia)"
+},
+"huracan-corrientes": {
+"apodo": [
+"Globo",
+"Azulgrana"
+],
+"capacidad": "15700",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "huracan_corrientes.png",
+"estadio": "Estadio José Antonio Romero Feris",
+"fundacion": "28/5/1918",
+"nombre": "Huracán (Corrientes)",
+"nombre_completo": "Club Atlético Huracán Corrientes",
+"provincia": "Corrientes",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán_Corrientes"
+},
+"huracan-guatrache": {
+"capacidad": "",
+"ciudad": "Guatraché",
+"disolucion": "",
+"escudo": "huracan-guatrache.png",
+"estadio": "",
+"fundacion": "1/7/1943",
+"nombre": "Huracán (Guatraché)",
+"nombre_completo": "Club Atlético Huracán de Guatraché",
+"provincia": "La Pampa"
+},
+"huracan-ingeniero-white": {
+"apodo": [
+"El Globito"
+],
+"capacidad": "4200",
+"ciudad": "Ingeniero White",
+"disolucion": "",
+"escudo": "huracan-de-ingeniero-white.png",
+"estadio": "Bruno Lentini",
+"fundacion": "25/5/1916",
+"nombre": "Huracán (Ingeniero White)",
+"nombre_completo": "Club Atlético Huracán (Ingeniero White)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán_(Ingeniero_White)"
+},
+"huracan-las-heras-mendoza": {
+"apodo": [
+"Globo",
+"Albo"
+],
+"capacidad": "8000",
+"ciudad": "Las Heras",
+"disolucion": "",
+"escudo": "huracan_las_heras.png",
+"estadio": "General San Martín",
+"fundacion": "24/12/1939",
+"nombre": "Huracán Las Heras (Mendoza)",
+"nombre_completo": "Club Atlético Huracán Las Heras",
+"provincia": "Mendoza",
+"web": "https://clubhuracanlasheras.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán_Las_Heras"
+},
+"huracan-mercedes": {
+"capacidad": "",
+"ciudad": "Mercedes",
+"disolucion": "",
+"escudo": "huracan-mercedes.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Huracán (Mercedes)",
+"nombre_completo": "Club Atlético Huracán (Mercedes)",
+"provincia": "Buenos Aires"
+},
+"huracan-san-luis": {
+"apodo": [
+"El Globito Puntano"
+],
+"capacidad": "7000",
+"ciudad": "San Luis",
+"disolucion": "",
+"escudo": "huracan_san_luis.png",
+"estadio": "Gigante del Sur (más conocido como \"La Ripiera\")",
+"fundacion": "5/7/1930",
+"nombre": "Huracán (San Luis)",
+"nombre_completo": "Club Atlético Huracán (San Luis)",
+"provincia": "San Luis",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán_(San_Luis)"
+},
+"huracan-san-rafael": {
+"apodo": [
+"El globo",
+"El Azul oro",
+"El grande del sur"
+],
+"capacidad": "15000",
+"ciudad": "San Rafael",
+"disolucion": "",
+"escudo": "huracan_san_rafael.png",
+"estadio": "Pretel Hermanos",
+"fundacion": "15/11/1925",
+"nombre": "Huracán (San Rafael)",
+"nombre_completo": "Club Huracán (San Rafael)",
+"provincia": "Mendoza",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Huracán_(San_Rafael)"
+},
+"huracan-tres-arroyos": {
+"apodo": [
+"El Globo de Tres Arroyos",
+"Los Peludos"
+],
+"capacidad": "10000",
+"ciudad": "Tres Arroyos",
+"disolucion": "",
+"escudo": "huracan_tres_arroyos.png",
+"estadio": "Roberto Lorenzo Bottino",
+"fundacion": "3/1/1923",
+"nombre": "Huracán (Tres Arroyos)",
+"nombre_completo": "Club Atlético Huracán (Tres Arroyos)",
+"provincia": "Buenos Aires",
+"web": "https://huracantsas.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán_(Tres_Arroyos)"
+},
+"independencia": {
+"capacidad": "",
+"ciudad": "San Pedro",
+"disolucion": "",
+"escudo": "independencia.png",
+"estadio": "",
+"fundacion": "30/10/1932",
+"nombre": "Independencia",
+"nombre_completo": "Independencia Fútbol Club",
+"provincia": "Buenos Aires"
+},
+"independiente": {
+"apodo": [
+"El Rojo",
+"Independiente de América",
+"Los Diablos Rojos",
+"El Rey de Copas",
+"Orgullo Nacional"
+],
+"capacidad": "49500",
+"ciudad": "Avellaneda",
+"disolucion": "",
+"escudo": "independiente_avellaneda.png",
+"estadio": "Libertadores de América",
+"fundacion": "4/8/1904",
+"nombre": "Independiente",
+"nombre_completo": "Club Atlético Independiente",
+"provincia": "Buenos Aires",
+"web": "http://www.clubaindependiente.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+},
+"independiente-chivilcoy": {
+"apodo": [
+"El Rojo",
+"El Diablo"
+],
+"capacidad": "4000",
+"ciudad": "Chivilcoy",
+"disolucion": "",
+"escudo": "independiente_chivilcoy.png",
+"estadio": "Raúl Orlando Lungarzo",
+"fundacion": "5/4/1930",
+"nombre": "Independiente (Chivilcoy)",
+"nombre_completo": "Club Atlético Independiente (Chivilcoy)",
+"provincia": "Buenos Aires",
+"web": "https://www.clubindependientedechivilcoy.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente_(Chivilcoy)"
+},
+"independiente-jujuy": {
+"capacidad": "",
+"ciudad": "San Salvador de Jujuy",
+"disolucion": "",
+"escudo": "independiente_jujuy.png",
+"estadio": "",
+"fundacion": "9/2/1928",
+"nombre": "Independiente (Jujuy)",
+"nombre_completo": "Club Atlético Independiente (Jujuy)",
+"provincia": "Jujuy"
+},
+"independiente-la-rioja": {
+"apodo": [
+"Los Pirulos"
+],
+"capacidad": "23000",
+"ciudad": "La Rioja",
+"disolucion": "",
+"escudo": "independiente-la-rioja.png",
+"estadio": "Carlos Augusto Mercado Luna",
+"fundacion": "24/10/1924",
+"nombre": "Independiente (La Rioja)",
+"nombre_completo": "Club Atlético Independiente de La Rioja",
+"provincia": "La Rioja",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente_de_La_Rioja"
+},
+"independiente-pascanas": {
+"capacidad": "",
+"ciudad": "Pascanas",
+"disolucion": "",
+"escudo": "independiente_pascanas.png",
+"estadio": "Independiente F.B.C.",
+"fundacion": "16/5/1931",
+"nombre": "Independiente (Pascanas)",
+"nombre_completo": "Independiente Foot Ball Club",
+"provincia": "Córdoba",
+"web": "https://www.independientefbc.com.ar"
+},
+"independiente-rivadavia": {
+"apodo": [
+"Azul",
+"Azul del Parque",
+"Caudillos del Parque",
+"Lepra"
+],
+"capacidad": "24000",
+"ciudad": "Mendoza",
+"disolucion": "",
+"escudo": "independiente_rivadavia_mendoza.png",
+"estadio": "Bautista Gargantini",
+"fundacion": "24/1/1913",
+"nombre": "Independiente Rivadavia",
+"nombre_completo": "Club Sportivo Independiente Rivadavia",
+"provincia": "Mendoza",
+"web": "https://csir.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Independiente_Rivadavia"
+},
+"independiente-trelew": {
+"apodo": [
+"Rojo",
+"Rojinegro"
+],
+"capacidad": "",
+"ciudad": "Trelew",
+"disolucion": "",
+"escudo": "independiente_de_trelew.png",
+"estadio": "Nacional del '72",
+"fundacion": "30/8/1916",
+"nombre": "Independiente (Trelew)",
+"nombre_completo": "Club Atlético Independiente (Trelew)",
+"provincia": "Chubut",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente_(Trelew)"
+},
+"instituto-americano": {
+"capacidad": "",
+"ciudad": "Adrogué",
+"disolucion": "1929",
+"escudo": "instituto_americano.png",
+"estadio": "",
+"fundacion": "1890",
+"nombre": "Instituto Americano",
+"nombre_completo": "Instituto Americano de Adrogué",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Instituto_Americano_de_Adrogué"
+},
+"instituto-cordoba": {
+"apodo": [
+"La Gloria",
+"El Albirrojo"
+],
+"capacidad": "26000",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "instituto_cordoba.png",
+"estadio": "Monumental Presidente Perón",
+"fundacion": "8/8/1918",
+"nombre": "Instituto (Córdoba)",
+"nombre_completo": "Instituto Atlético Central Córdoba",
+"provincia": "Córdoba",
+"web": "http://www.institutoacc.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Instituto_Atlético_Central_Córdoba"
+},
+"ituzaingo": {
+"apodo": [
+"El Verde",
+"El León"
+],
+"capacidad": "5000",
+"ciudad": "Ituzaingó",
+"disolucion": "",
+"escudo": "ituzaingo.png",
+"estadio": "Carlos Alberto Sacaan",
+"fundacion": "1/4/1912",
+"nombre": "Ituzaingó",
+"nombre_completo": "Club Atlético Ituzaingó",
+"provincia": "Buenos Aires",
+"web": "https://clubatleticoituzaingo.wordpress.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Ituzaingó"
+},
+"j-j-urquiza": {
+"apodo": [
+"La caldera",
+"Jota Jota",
+"Jota"
+],
+"capacidad": "1500",
+"ciudad": "Caseros",
+"disolucion": "",
+"escudo": "jj-urquiza.png",
+"estadio": "Ramón Roque Martín",
+"fundacion": "8/6/1936",
+"nombre": "J.J.Urquiza",
+"nombre_completo": "Asociación Social y Deportiva Justo José de Urquiza",
+"provincia": "Buenos Aires",
+"web": "http://www.jjurquiza.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Social_y_Deportiva_Justo_José_de_Urquiza"
+},
+"jorge-gibson-brown-posadas": {
+"apodo": [
+"Verdirrojo"
+],
+"capacidad": "2500",
+"ciudad": "Posadas",
+"disolucion": "",
+"escudo": "jorge-gibson-brown-posadas.png",
+"estadio": "Salvador Nosiglia",
+"fundacion": "16/3/1916",
+"nombre": "Jorge Gibson Brown (Posadas)",
+"nombre_completo": "Club Deportivo Jorge Gibson Brown",
+"provincia": "Misiones",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Jorge_Gibson_Brown"
+},
+"jorge-newbery-comodoro-rivadavia": {
+"apodo": [
+"El aeronauta",
+"El lobo"
+],
+"capacidad": "",
+"ciudad": "Comodoro Rivadavia",
+"disolucion": "",
+"escudo": "jorge_newbery_comodoro_rivadavia.png",
+"estadio": "La Madriguera",
+"fundacion": "19/4/1924",
+"nombre": "Jorge Newbery (Comodoro Rivadavia)",
+"nombre_completo": "Club Atlético Jorge Newbery (Comodoro Rivadavia)",
+"provincia": "Chubut",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Jorge_Newbery_(Comodoro_Rivadavia)"
+},
+"jorge-newbery-junin": {
+"apodo": [
+"El Aviador"
+],
+"capacidad": "1500",
+"ciudad": "Junín",
+"disolucion": "",
+"escudo": "jorge_newbery_junin.png",
+"estadio": "El Aeropuerto",
+"fundacion": "13/1/1913",
+"nombre": "Jorge Newbery (Junín)",
+"nombre_completo": "Club Jorge Newbery (Junín)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Jorge_Newbery_(Junín)"
+},
+"jorge-newbery-venado-tuerto": {
+"capacidad": "",
+"ciudad": "Venado Tuerto",
+"disolucion": "",
+"escudo": "jorge-newbery-venado-tuerto.png",
+"estadio": "Vicenti Ferretti",
+"fundacion": "11/7/1917",
+"nombre": "Jorge Newbery (Venado Tuerto)",
+"nombre_completo": "Club Atlético Jorge Newbery",
+"provincia": "Santa Fe"
+},
+"juventud-alianza": {
+"apodo": [
+"El Lechuzo",
+"Decano de Cuyo"
+],
+"capacidad": "9000",
+"ciudad": "Santa Lucía",
+"disolucion": "",
+"escudo": "juventud_alianza_san_juan.png",
+"estadio": "Estadio del Centenario",
+"fundacion": "14/6/1905",
+"nombre": "Juventud Alianza",
+"nombre_completo": "Club Atlético de la Juventud Alianza",
+"provincia": "San Juan",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_de_la_Juventud_Alianza"
+},
+"juventud-antoniana": {
+"apodo": [
+"Santo",
+"Antoniano"
+],
+"capacidad": "8000",
+"ciudad": "Salta",
+"disolucion": "",
+"escudo": "juventud_antoniana.png",
+"estadio": "Fray Honorato Pistoia",
+"fundacion": "12/1/1916",
+"nombre": "Juventud Antoniana",
+"nombre_completo": "Centro Juventud Antoniana",
+"provincia": "Salta",
+"web": "https://www.juventudantoniana.com.ar//",
+"wikipedia": "https://es.wikipedia.org/wiki/Centro_Juventud_Antoniana"
+},
+"juventud-unida": {
+"apodo": [
+"Juve"
+],
+"capacidad": "",
+"ciudad": "Tafí Viejo",
+"disolucion": "",
+"escudo": "juventud-unida.png",
+"estadio": "",
+"fundacion": "25/7/1930",
+"nombre": "Juventud Unida",
+"nombre_completo": "Club Atlético Juventud Unida (Tafí Viejo)",
+"provincia": "Tucumán",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Juventud_Unida_(Tafí_Viejo)"
+},
+"juventud-unida-gualeguaychu": {
+"apodo": [
+"Decano",
+"León",
+"Juve"
+],
+"capacidad": "6500",
+"ciudad": "Gualeguaychú",
+"disolucion": "",
+"escudo": "juventud_unida_gualeguaychu.png",
+"estadio": "Estadio de los Eucaliptos o La Vía",
+"fundacion": "1/5/1907",
+"nombre": "Juventud Unida (Gualeguaychú)",
+"nombre_completo": "Club Deportivo Juventud Unida",
+"provincia": "Entre Ríos",
+"web": "https://clubdeportivojuventudunida.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Juventud_Unida"
+},
+"juventud-unida-san-luis": {
+"apodo": [
+"El Juve",
+"Orgullo de San Luis",
+"Auriazul"
+],
+"capacidad": "10000",
+"ciudad": "San Luis",
+"disolucion": "",
+"escudo": "juventud_unida_san_luis.png",
+"estadio": "Mario Sebastián Diez",
+"fundacion": "8/11/1920",
+"nombre": "Juventud Unida (San Luis)",
+"nombre_completo": "Club Atlético Juventud Unida Universitario",
+"provincia": "San Luis",
+"web": "https://juventuddesanluis.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Juventud_Unida_Universitario"
+},
+"juventud-unida-san-miguel": {
+"apodo": [
+"Lobo Rojo"
+],
+"capacidad": "3200",
+"ciudad": "San Miguel",
+"disolucion": "",
+"escudo": "juventud_unida_san_miguel.png",
+"estadio": "Estadio Ciudad de San Miguel",
+"fundacion": "6/9/1949",
+"nombre": "Juventud Unida (San Miguel)",
+"nombre_completo": "Club Deportivo y Social Juventud Unida",
+"provincia": "Buenos Aires",
+"web": "https://cdsjuloborojo.wixsite.com/cdsju",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_y_Social_Juventud_Unida"
+},
+"kimberley-buenos-aires": {
+"apodo": [
+"Celeste",
+"Kimber"
+],
+"capacidad": "",
+"ciudad": "Villa Devoto",
+"disolucion": "",
+"escudo": "kimberley.png",
+"estadio": "",
+"fundacion": "4/8/1906",
+"nombre": "Kimberley (Buenos Aires)",
+"nombre_completo": "Kimberley Atlético Club",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Kimberley_Atlético_Club"
+},
+"kimberley-mar-del-plata": {
+"apodo": [
+"Dragón verde",
+"El Dragón",
+"Bicho verde",
+"El más campeón"
+],
+"capacidad": "2000",
+"ciudad": "Mar del Plata",
+"disolucion": "",
+"escudo": "kimberley_de_mar_del_plata.png",
+"estadio": "José Alberto Valle",
+"fundacion": "6/7/1921",
+"nombre": "Kimberley (Mar del Plata)",
+"nombre_completo": "Club Atlético Kimberley",
+"provincia": "Buenos Aires",
+"web": "https://www.clubkimberley.com/es",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Kimberley"
+},
+"la-emilia-san-nicolas": {
+"capacidad": "6000",
+"ciudad": "San Nicolás",
+"disolucion": "",
+"escudo": "la_emilia.png",
+"estadio": "Jacinto \"Gato\" López",
+"fundacion": "2/10/1981",
+"nombre": "La Emilia (San Nicolás)",
+"nombre_completo": "Club Social y Deportivo La Emilia",
+"provincia": "Buenos Aires",
+"web": "http://www.clublaemilia.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_La_Emilia"
+},
+"la-paternal": {
+"capacidad": "",
+"ciudad": "La Paternal",
+"disolucion": "",
+"escudo": "la-paternal.png",
+"estadio": "",
+"fundacion": "26/7/1922",
+"nombre": "La Paternal",
+"nombre_completo": "Club Atlético La Paternal",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_La_Paternal"
+},
+"lanus": {
+"apodo": [
+"Granate"
+],
+"capacidad": "47090",
+"ciudad": "Lanús",
+"disolucion": "",
+"escudo": "lanus.png",
+"estadio": "Ciudad de Lanús-Néstor Díaz Pérez",
+"fundacion": "3/1/1915",
+"nombre": "Lanús",
+"nombre_completo": "Club Atlético Lanús",
+"provincia": "Buenos Aires",
+"web": "http://www.clublanus.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+},
+"las-heras-concordia": {
+"capacidad": "",
+"ciudad": "Concordia",
+"disolucion": "",
+"escudo": "las-heras-concordia.png",
+"estadio": "",
+"fundacion": "13/10/2025",
+"nombre": "Las Heras (Concordia)",
+"nombre_completo": "Club Atlético Las Heras Concordia Asociación Civil",
+"provincia": "Entre Ríos"
+},
+"las-palmeras": {
+"capacidad": "",
+"ciudad": "San Pedro",
+"disolucion": "",
+"escudo": "las-palmeras.png",
+"estadio": "",
+"fundacion": "1/8/1924",
+"nombre": "Las Palmeras",
+"nombre_completo": "Club Sportivo Las Palmeras",
+"provincia": "Buenos Aires"
+},
+"leandro-n-alem": {
+"apodo": [
+"El Lechero"
+],
+"capacidad": "4000",
+"ciudad": "General Rodríguez",
+"disolucion": "",
+"escudo": "leandro_n_alem.png",
+"estadio": "Estadio el Melli Gil",
+"fundacion": "24/5/1925",
+"nombre": "Leandro N.Alem",
+"nombre_completo": "Club Deportivo y Mutual Leandro N. Alem",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_y_Mutual_Leandro_N._Alem"
+},
+"liberal-argentino": {
+"capacidad": "",
+"ciudad": "Villa Crespo",
+"disolucion": "1935",
+"escudo": "liberal_argentino.png",
+"estadio": "",
+"fundacion": "15/9/1906",
+"nombre": "Liberal Argentino",
+"nombre_completo": "Club Atlético Liberal Argentino",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Liberal_Argentino"
+},
+"libertad-sunchales": {
+"apodo": [
+"Tigres",
+"Cañoneros"
+],
+"capacidad": "4000",
+"ciudad": "Sunchales",
+"disolucion": "",
+"escudo": "libertad-sunchales.png",
+"estadio": "Dr. Plácido Tita / Hogar de los Tigres",
+"fundacion": "25/5/1910",
+"nombre": "Libertad (Sunchales)",
+"nombre_completo": "Club Deportivo Libertad",
+"provincia": "Santa Fe",
+"web": "http://libertadsunchales.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Libertad"
+},
+"liga-cordobesa-cordoba": {
+"capacidad": "",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "liga-cordobesa-cordoba.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Liga Cordobesa (Córdoba)",
+"provincia": "Córdoba"
+},
+"liga-cultural-santiago-del-estero": {
+"capacidad": "",
+"ciudad": "Santiago del Estero",
+"disolucion": "",
+"escudo": "liga-cultural-santiago-del-estero.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Liga Cultural (Santiago del Estero)",
+"provincia": "Santiago del Estero"
+},
+"liga-mendocina-mendoza": {
+"capacidad": "",
+"ciudad": "Mendoza",
+"disolucion": "",
+"escudo": "liga-mendocina-mendoza.png",
+"estadio": "",
+"fundacion": "3/10/1921",
+"nombre": "Liga Mendocina (Mendoza)",
+"nombre_completo": "Liga Mendocina de Fútbol",
+"provincia": "Mendoza",
+"web": "https://www.ligamendocinadefutbol.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Liga_Mendocina_de_Fútbol"
+},
+"liniers": {
+"apodo": [
+"Celeste",
+"La Topadora del Oeste"
+],
+"capacidad": "3000",
+"ciudad": "Villegas",
+"disolucion": "",
+"escudo": "liniers.png",
+"estadio": "Estadio Juan Antonio Arias",
+"fundacion": "2/7/1931",
+"nombre": "Liniers",
+"nombre_completo": "Club Social y Deportivo Liniers",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Liniers"
+},
+"lipton": {
+"apodo": [
+"La marea azul"
+],
+"capacidad": "",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "lipton.png",
+"estadio": "Quincho D'Andrea",
+"fundacion": "11/11/1923",
+"nombre": "Lipton",
+"nombre_completo": "Lipton Football Club",
+"provincia": "Corrientes",
+"wikipedia": "https://es.wikipedia.org/wiki/Lipton_Football_Club"
+},
+"lobos-athletic": {
+"apodo": [
+"Athletic",
+"Decano",
+"Rojinegro"
+],
+"capacidad": "",
+"ciudad": "Lobos",
+"disolucion": "",
+"escudo": "lobos_athletic.png",
+"estadio": "Lobos",
+"fundacion": "3/7/1892",
+"nombre": "Lobos Athletic",
+"nombre_completo": "Lobos Athletic Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Lobos_Athletic_Club"
+},
+"loma-negra": {
+"apodo": [
+"Loma",
+"Celeste"
+],
+"capacidad": "",
+"ciudad": "Olavarría",
+"disolucion": "",
+"escudo": "loma_negra.png",
+"estadio": "Estadio Loma Negra",
+"fundacion": "31/5/1929",
+"nombre": "Loma Negra",
+"nombre_completo": "Club Social y Deportivo Loma Negra",
+"provincia": "Buenos Aires",
+"web": "http://www.clubsydlomanegra.com.ar/Inicio.htm",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Loma_Negra"
+},
+"lomas-academy": {
+"apodo": [
+"Tricolor"
+],
+"capacidad": "",
+"ciudad": "Lomas de Zamora",
+"disolucion": "1893",
+"escudo": "lomas_academy.png",
+"estadio": "Links",
+"fundacion": "15/3/1891",
+"nombre": "Lomas Academy",
+"nombre_completo": "Lomas Athletic Club",
+"provincia": "Buenos Aires",
+"web": "http://www.lomasac.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Lomas_Athletic_Club"
+},
+"lomas-athletic": {
+"apodo": [
+"Tricolor"
+],
+"capacidad": "",
+"ciudad": "Lomas de Zamora",
+"disolucion": "",
+"escudo": "lomas_athletic.png",
+"estadio": "Links",
+"fundacion": "15/3/1891",
+"nombre": "Lomas Athletic",
+"nombre_completo": "Lomas Athletic Club",
+"provincia": "Buenos Aires",
+"web": "http://www.lomasac.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Lomas_Athletic_Club"
+},
+"los-andes": {
+"apodo": [
+"Lomas",
+"Mil Rayitas"
+],
+"capacidad": "35000",
+"ciudad": "Lomas de Zamora",
+"disolucion": "",
+"escudo": "los_andes.png",
+"estadio": "Eduardo Gallardón",
+"fundacion": "1/1/1917",
+"nombre": "Los Andes",
+"nombre_completo": "Club Atlético Los Andes",
+"provincia": "Buenos Aires",
+"web": "http://www.clublosandes.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Los_Andes"
+},
+"los-andes-san-juan": {
+"capacidad": "",
+"ciudad": "Rawson",
+"disolucion": "1980",
+"escudo": "los_andes_san_juan.png",
+"estadio": "C. A. Los Andes",
+"fundacion": "13/7/1913",
+"nombre": "Los Andes (San Juan)",
+"nombre_completo": "Club Atlético Los Andes",
+"provincia": "San Juan"
+},
+"lugano": {
+"apodo": [
+"Luganero",
+"Naranja"
+],
+"capacidad": "2000",
+"ciudad": "Villa Lugano",
+"disolucion": "",
+"escudo": "lugano.png",
+"estadio": "José María Moraños",
+"fundacion": "18/11/1915",
+"nombre": "Lugano",
+"nombre_completo": "Club Atlético Lugano",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Lugano"
+},
+"lujan": {
+"apodo": [
+"Lujanero"
+],
+"capacidad": "2000",
+"ciudad": "Luján",
+"disolucion": "",
+"escudo": "lujan.png",
+"estadio": "1 de abril",
+"fundacion": "1/4/1936",
+"nombre": "Luján",
+"nombre_completo": "Club Luján",
+"provincia": "Buenos Aires",
+"web": "http://clublujan.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Luján"
+},
+"mariano-moreno": {
+"capacidad": "3500",
+"ciudad": "Junín",
+"disolucion": "",
+"escudo": "mariano_moreno.png",
+"estadio": "Raúl Barcelona",
+"fundacion": "20/6/1916",
+"nombre": "Mariano Moreno",
+"nombre_completo": "Club Atlético Mariano Moreno",
+"provincia": "Buenos Aires",
+"web": "https://www.clubmarianomoreno.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Mariano_Moreno_(Junín)"
+},
+"maronese-neuquen": {
+"apodo": [
+"Maro",
+"El Dino"
+],
+"capacidad": "6000",
+"ciudad": "Neuquén",
+"disolucion": "",
+"escudo": "maronese-neuquen.png",
+"estadio": "Ciudad De Neuquén",
+"fundacion": "1/9/1996",
+"nombre": "Maronese (Neuquén)",
+"nombre_completo": "Club Atlético Maronese",
+"provincia": "Neuquén",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Maronese"
+},
+"martinez": {
+"capacidad": "",
+"ciudad": "Martínez",
+"disolucion": "",
+"escudo": "martinez.png",
+"estadio": "",
+"fundacion": "9/7/1911",
+"nombre": "Martínez",
+"nombre_completo": "Club Atlético Martínez",
+"provincia": "Buenos Aires"
+},
+"mercado-central-sacachipas": {
+"apodo": [
+"Saca",
+"Lila",
+"el villero"
+],
+"capacidad": "7000",
+"ciudad": "Villa Soldati",
+"disolucion": "2015",
+"escudo": "mercado-central-sacachipas.png",
+"estadio": "Estadio Beto Larrosa",
+"fundacion": "17/10/1948",
+"nombre": "Mercado Central-Sacachipas",
+"nombre_completo": "Sacachispas Fútbol Club",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Sacachispas_Fútbol_Club"
+},
+"midland": {
+"apodo": [
+"El Funebrero"
+],
+"capacidad": "11000",
+"ciudad": "Libertad",
+"disolucion": "",
+"escudo": "midland.png",
+"estadio": "Ciudad de Libertad",
+"fundacion": "28/6/1914",
+"nombre": "Midland",
+"nombre_completo": "Club Atlético Ferrocarril Midland",
+"provincia": "Buenos Aires",
+"web": "https://www.clubmidland.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Ferrocarril_Midland"
+},
+"mitre-santiago-del-estero": {
+"apodo": [
+"Aurinegro",
+"Tigre de la Roca",
+"Decano santiagueño"
+],
+"capacidad": "21000",
+"ciudad": "Santiago del Estero",
+"disolucion": "",
+"escudo": "club_atletico_mitre.png",
+"estadio": "Doctores José y Antonio Castiglione",
+"fundacion": "2/4/1907",
+"nombre": "Mitre (Santiago del Estero)",
+"nombre_completo": "Club Atlético Mitre (Santiago del Estero)",
+"provincia": "Santiago del Estero",
+"web": "https://camitre.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Mitre"
+},
+"montevideo": {
+"capacidad": "",
+"ciudad": "Montevideo",
+"disolucion": "",
+"escudo": "montevideo.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "Montevideo",
+"provincia": "Uruguay"
+},
+"municipal": {
+"apodo": [
+"La M",
+"Los Comunales",
+"Los Honorables"
+],
+"capacidad": "",
+"ciudad": "Río Cuarto",
+"disolucion": "",
+"escudo": "municipal.png",
+"estadio": "",
+"fundacion": "25/7/1941",
+"nombre": "Municipal",
+"nombre_completo": "Club Sportivo Municipal",
+"provincia": "Córdoba"
+},
+"nacional-de-adrogue": {
+"capacidad": "",
+"ciudad": "Adrogué",
+"disolucion": "3/3/1945",
+"escudo": "nacional-de-adrogue.png",
+"estadio": "",
+"fundacion": "1/6/1916",
+"nombre": "Nacional de Adrogué",
+"nombre_completo": "Club Atlético Nacional",
+"provincia": "Buenos Aires"
+},
+"nacional-floresta": {
+"capacidad": "",
+"ciudad": "Floresta",
+"disolucion": "1915",
+"escudo": "nacional_de_floresta.png",
+"estadio": "",
+"fundacion": "1905",
+"nombre": "Nacional (Floresta)",
+"nombre_completo": "Club Atlético Nacional (Floresta)",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Nacional_(Floresta)"
+},
+"newells-old-boys": {
+"apodo": [
+"La Leprosos",
+"El Rojinegro"
+],
+"capacidad": "49000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "newells_old_boys.png",
+"estadio": "Marcelo Bielsa",
+"fundacion": "3/11/1903",
+"nombre": "Newell's Old Boys",
+"nombre_completo": "Club Atlético Newell's Old Boys",
+"provincia": "Santa Fe",
+"web": "http://www.newellsoldboys.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Newell's_Old_Boys"
+},
+"nueva-chicago": {
+"apodo": [
+"El Torito de Mataderos"
+],
+"capacidad": "27266",
+"ciudad": "Mataderos",
+"disolucion": "",
+"escudo": "nueva_chicago.png",
+"estadio": "Nueva Chicago",
+"fundacion": "1/7/1911",
+"nombre": "Nueva Chicago",
+"nombre_completo": "Club Atlético Nueva Chicago",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://canuevachicago.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Nueva_Chicago"
+},
+"nunorco": {
+"apodo": [
+"El Tigre Tucumano",
+"La Banda Roja"
+],
+"capacidad": "8000",
+"ciudad": "Monteros",
+"disolucion": "",
+"escudo": "ñuñorco.png",
+"estadio": "Jorge Abel Marteau",
+"fundacion": "22/6/1941",
+"nombre": "Ñuñorco",
+"nombre_completo": "Club Atlético Ñuñorco",
+"provincia": "Tucumán",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Ñuñorco"
+},
+"olimpo": {
+"apodo": [
+"Aurinegro"
+],
+"capacidad": "14000",
+"ciudad": "Bahía Blanca",
+"disolucion": "",
+"escudo": "olimpo.png",
+"estadio": "Roberto Carminatti",
+"fundacion": "15/10/1910",
+"nombre": "Olimpo",
+"nombre_completo": "Club Olimpo",
+"provincia": "Buenos Aires",
+"web": "https://www.clubolimpo.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Olimpo"
+},
+"olivos": {
+"capacidad": "",
+"ciudad": "Olivos",
+"disolucion": "",
+"escudo": "olivos.png",
+"estadio": "",
+"fundacion": "1908",
+"nombre": "Olivos",
+"nombre_completo": "Club Atlético Olivos",
+"provincia": "Buenos Aires",
+"wikipedia": "https://pl.wikipedia.org/wiki/CA_Olivos"
+},
+"once-tigres": {
+"apodo": [
+"Tigre"
+],
+"capacidad": "3000",
+"ciudad": "Nueve de Julio",
+"disolucion": "",
+"escudo": "once_tigres.png",
+"estadio": "Abel del Fabro",
+"fundacion": "17/9/1941",
+"nombre": "Once Tigres",
+"nombre_completo": "Club Atlético Once Tigres",
+"provincia": "Buenos Aires",
+"web": "https://web.archive.org/web/20130825154837/http://www.caoncetigres.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Once_Tigres"
+},
+"pacifico-de-general-alvear": {
+"apodo": [
+"Albinegro",
+"Lobo del Sur"
+],
+"capacidad": "6000",
+"ciudad": "General Alvear",
+"disolucion": "",
+"escudo": "pacifico-de-general-alvear.png",
+"estadio": "El Gigante de cemento",
+"fundacion": "22/9/1922",
+"nombre": "Pacífico de General Alvear",
+"nombre_completo": "Sport Club Pacífico",
+"provincia": "Mendoza",
+"web": "https://web.archive.org/web/20131217230010/http://www.sportclubpacifico.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Sport_Club_Pacífico"
+},
+"pacifico-neuquen": {
+"capacidad": "1000",
+"ciudad": "Neuquén",
+"disolucion": "",
+"escudo": "pacifico_neuquen.png",
+"estadio": "Adolfo Pirola",
+"fundacion": "16/9/1916",
+"nombre": "Pacífico (Neuquén)",
+"nombre_completo": "Club Atlético Pacífico de Neuquén",
+"provincia": "Neuquén",
+"web": "https://clubpacificonqn.com.ar"
+},
+"palmira-mendoza": {
+"apodo": [
+"Jarillero",
+"Aurinegro",
+"Escoba"
+],
+"capacidad": "5000",
+"ciudad": "Palmira",
+"disolucion": "",
+"escudo": "palmira.png",
+"estadio": "José Castro",
+"fundacion": "31/1/1912",
+"nombre": "Palmira (Mendoza)",
+"nombre_completo": "Club Atlético Palmira",
+"provincia": "Mendoza",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Palmira"
+},
+"parana-zarate": {
+"apodo": [
+"El Decano",
+"El Gato",
+"El Rojiblanco"
+],
+"capacidad": "9000",
+"ciudad": "Zárate",
+"disolucion": "",
+"escudo": "parana-zarate.png",
+"estadio": "Pedro Mutio",
+"fundacion": "16/6/1907",
+"nombre": "Paraná (Zárate)",
+"nombre_completo": "Club Atlético Paraná",
+"provincia": "Buenos Aires",
+"web": "http://www.clubatleticoparana.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Paraná"
+},
+"patronato": {
+"apodo": [
+"Negro",
+"Patrón",
+"Rojinegro",
+"El Santo"
+],
+"capacidad": "22000",
+"ciudad": "Paraná",
+"disolucion": "",
+"escudo": "patronato.png",
+"estadio": "Estadio Presbítero Bartolomé Grella",
+"fundacion": "1/2/1914",
+"nombre": "Patronato",
+"nombre_completo": "Club Atlético Patronato de la Juventud Católica",
+"provincia": "Entre Ríos",
+"web": "https://capatronato.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Patronato_de_la_Juventud_Católica"
+},
+"penarol": {
+"apodo": [
+"El Bohemio",
+"El Tricolor",
+"El Gigante de Chimbas"
+],
+"capacidad": "4000",
+"ciudad": "Chimbas",
+"disolucion": "",
+"escudo": "sportivo_peñarol.png",
+"estadio": "Ramón Pablo Rojas",
+"fundacion": "24/11/1918",
+"nombre": "Peñarol",
+"nombre_completo": "Club Sportivo Peñarol",
+"provincia": "San Juán",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Peñarol"
+},
+"pettirossi": {
+"capacidad": "",
+"ciudad": "La Plata",
+"disolucion": "",
+"escudo": "pettirossi.png",
+"estadio": "",
+"fundacion": "23/4/1917",
+"nombre": "Pettirossi",
+"nombre_completo": "Club Pettirossi",
+"provincia": "Buenos Aires"
+},
+"platense": {
+"apodo": [
+"El Calamar",
+"Marrón",
+"Tense"
+],
+"capacidad": "21945",
+"ciudad": "Vicente López",
+"disolucion": "",
+"escudo": "platense.png",
+"estadio": "Ciudad de Vicente López",
+"fundacion": "25/5/1905",
+"nombre": "Platense",
+"nombre_completo": "Club Atlético Platense",
+"provincia": "Buenos Aires",
+"web": "https://www.cap.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Platense"
+},
+"porteno": {
+"apodo": [
+"Teño"
+],
+"capacidad": "",
+"ciudad": "San Vicente",
+"disolucion": "",
+"escudo": "porteño.png",
+"estadio": "San Vicente",
+"fundacion": "28/7/1895",
+"nombre": "Porteño",
+"nombre_completo": "Club Atlético Porteño",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.clubatleticoporteno.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Porteño"
+},
+"progresista": {
+"apodo": [
+"El Progre"
+],
+"capacidad": "",
+"ciudad": "Piñeyro",
+"disolucion": "",
+"escudo": "progresista.png",
+"estadio": "",
+"fundacion": "24/2/1902",
+"nombre": "Progresista",
+"nombre_completo": "Club Social y Deportivo Progresista",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Progresista"
+},
+"provincial-rosario": {
+"apodo": [
+"Provin"
+],
+"capacidad": "1000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "provincial_de_rosario.png",
+"estadio": "Cura",
+"fundacion": "25/5/1903",
+"nombre": "Provincial (Rosario)",
+"nombre_completo": "Club Atlético Provincial",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Provincial"
+},
+"provinciano": {
+"capacidad": "",
+"ciudad": "Tafí Viejo",
+"disolucion": "",
+"escudo": "provinciano.png",
+"estadio": "",
+"fundacion": "1912",
+"nombre": "Provinciano",
+"nombre_completo": "Club Atlético Provinciano",
+"provincia": "Tucumán"
+},
+"puerto-comercial": {
+"apodo": [
+"Comercialinos",
+"Verdes",
+"Gringos",
+"Portuarios"
+],
+"capacidad": "3000",
+"ciudad": "Ingeniero White",
+"disolucion": "",
+"escudo": "puerto_comercial.png",
+"estadio": "Ingeniero White",
+"fundacion": "1/8/1915",
+"nombre": "Puerto Comercial",
+"nombre_completo": "Club Atlético Puerto Comercial",
+"provincia": "Buenos Aires",
+"web": "http://www.capuertocomercial.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Puerto_Comercial"
+},
+"puerto-nuevo": {
+"apodo": [
+"Portuario",
+"El Bohemio de Campana",
+"Auriazul"
+],
+"capacidad": "1000",
+"ciudad": "Campana",
+"disolucion": "",
+"escudo": "puerto_nuevo.png",
+"estadio": "Rubén Carlos Vallejos",
+"fundacion": "12/10/1939",
+"nombre": "Puerto Nuevo",
+"nombre_completo": "Club Atlético Puerto Nuevo",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Puerto_Nuevo"
+},
+"quilmes": {
+"apodo": [
+"El Cervecero",
+"Decano"
+],
+"capacidad": "32500",
+"ciudad": "Quilmes",
+"disolucion": "",
+"escudo": "quilmes.png",
+"estadio": "Centenario",
+"fundacion": "27/11/1887",
+"nombre": "Quilmes",
+"nombre_completo": "Quilmes Atlético Club",
+"provincia": "Buenos Aires",
+"web": "https://www.quilmesaclub.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Quilmes_Atlético_Club"
+},
+"quilmes-mar-del-plata": {
+"apodo": [
+"Indio",
+"El más popular",
+"Cervecero",
+"Tricolor"
+],
+"capacidad": "1000",
+"ciudad": "Mar del Plata",
+"disolucion": "",
+"escudo": "quilmes_mar_del_plata.png",
+"estadio": "",
+"fundacion": "12/4/1922",
+"nombre": "Quilmes (Mar del Plata)",
+"nombre_completo": "Club Atlético Quilmes (Mar del Plata)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Quilmes_(Mar_del_Plata)"
+},
+"quilmes-rovers": {
+"capacidad": "",
+"ciudad": "Quilmes",
+"disolucion": "1892",
+"escudo": "quilmes-rovers.png",
+"estadio": "Old Ground de Quilmes",
+"fundacion": "1887",
+"nombre": "Quilmes Rovers",
+"nombre_completo": "Quilmes Rovers Athletic Club",
+"provincia": "Buenos Aires"
+},
+"racing-club": {
+"apodo": [
+"La Academia",
+"El Primer Grande"
+],
+"capacidad": "55000",
+"ciudad": "Avellaneda",
+"disolucion": "",
+"escudo": "racing_club_avellaneda.png",
+"estadio": "Presidente Perón",
+"fundacion": "25/3/1903",
+"nombre": "Racing Club",
+"nombre_completo": "Racing Club",
+"provincia": "Buenos Aires",
+"web": "https://www.racingclub.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Racing_Club"
+},
+"racing-colon": {
+"capacidad": "",
+"ciudad": "Colón",
+"disolucion": "",
+"escudo": "racing_colon.png",
+"estadio": "",
+"fundacion": "15/11/1915",
+"nombre": "Racing (Colón)",
+"nombre_completo": "Racing Club (Colón)",
+"provincia": "Buenos Aires"
+},
+"racing-olavarria": {
+"apodo": [
+"El Chaira",
+"La Estrellita"
+],
+"capacidad": "15000",
+"ciudad": "Olavarría",
+"disolucion": "",
+"escudo": "racing_olavarria.png",
+"estadio": "José Buglione Martinese",
+"fundacion": "16/4/1916",
+"nombre": "Racing (Olavarría)",
+"nombre_completo": "Racing Athletic Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Racing_Athletic_Club"
+},
+"racing-trelew": {
+"apodo": [
+"La Acadé"
+],
+"capacidad": "6000",
+"ciudad": "Trelew",
+"disolucion": "",
+"escudo": "racing_trelew.png",
+"estadio": "Cayetano Castro",
+"fundacion": "27/10/1920",
+"nombre": "Racing (Trelew)",
+"nombre_completo": "Asociación Civil Racing Club",
+"provincia": "Chubut",
+"web": "https://web.archive.org/web/20120304114125/http://www.racingclubtrelew.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Asociación_Civil_Racing_Club"
+},
+"ramsar-sport-club": {
+"capacidad": "",
+"ciudad": "Ramos Mejía",
+"disolucion": "1935",
+"escudo": "ramsar_sport_club.png",
+"estadio": "",
+"fundacion": "27/5/1932",
+"nombre": "Ramsar Sport Club",
+"nombre_completo": "Ramsar Sports Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Ramsar_Sports_Club"
+},
+"real-madrid-rio-grande-tierra-del-fuego": {
+"capacidad": "",
+"ciudad": "Río Grande",
+"disolucion": "",
+"escudo": "real_madrid.png",
+"estadio": "Centro Deportivo Municipal",
+"fundacion": "11/12/1989",
+"nombre": "Real Madrid (Río Grande, Tierra del Fuego)",
+"nombre_completo": "Club Real Madrid",
+"provincia": "Tierra del Fuego"
+},
+"real-pilar": {
+"apodo": [
+"Monarca",
+"Rey"
+],
+"capacidad": "15000",
+"ciudad": "Pilar",
+"disolucion": "",
+"escudo": "real_pilar.png",
+"estadio": "Municipal de Pilar-Carlos Barraza",
+"fundacion": "17/2/2017",
+"nombre": "Real Pilar",
+"nombre_completo": "Real Pilar Fútbol Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Real_Pilar_Fútbol_Club"
+},
+"reformer": {
+"capacidad": "",
+"ciudad": "Campana",
+"disolucion": "1911",
+"escudo": "reformer.png",
+"estadio": "",
+"fundacion": "1/11/1904",
+"nombre": "Reformer",
+"nombre_completo": "Reformer Athletic Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Reformer_Athletic_Club"
+},
+"regional-resistencia": {
+"apodo": [
+"El expreso"
+],
+"capacidad": "2000",
+"ciudad": "Resistencia",
+"disolucion": "",
+"escudo": "regional.png",
+"estadio": "Resistencia",
+"fundacion": "12/10/1933",
+"nombre": "Regional (Resistencia)",
+"nombre_completo": "Club Atlético Regional",
+"provincia": "Chaco",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Regional"
+},
+"renato-cesarini": {
+"apodo": [
+"Aurirrojos"
+],
+"capacidad": "",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "renato_cesarini.png",
+"estadio": "Renato Cesarini",
+"fundacion": "15/1/1975",
+"nombre": "Renato Cesarini",
+"nombre_completo": "Club Renato Cesarini",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Renato_Cesarini"
+},
+"retiro-athletic": {
+"capacidad": "",
+"ciudad": "Retiro",
+"disolucion": "1910",
+"escudo": "retiro-athletic.png",
+"estadio": "",
+"fundacion": "1904",
+"nombre": "Retiro Athletic",
+"nombre_completo": "Retiro Athletic Club",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Retiro_Athletic_Club"
+},
+"riachuelo": {
+"capacidad": "",
+"ciudad": "Barracas",
+"disolucion": "1914",
+"escudo": "riachuelo.png",
+"estadio": "Calles Iriarte y Santa Elena",
+"fundacion": "1908",
+"nombre": "Riachuelo",
+"nombre_completo": "Club Riachuelo",
+"provincia": "Ciudad de Buenos Aires"
+},
+"riestra": {
+"apodo": [
+"Blanquinegros",
+"Los Malevos de Pompeya"
+],
+"capacidad": "8740",
+"ciudad": "Barracas",
+"disolucion": "",
+"escudo": "deportivo_riestra.png",
+"estadio": "Guillermo Laza",
+"fundacion": "22/2/1931",
+"nombre": "Riestra",
+"nombre_completo": "Deportivo Riestra",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Deportivo_Riestra"
+},
+"rincon-rincon-de-los-sauces": {
+"apodo": [
+"El León Patagónico"
+],
+"capacidad": "400",
+"ciudad": "Rincón de los Sauces",
+"disolucion": "",
+"escudo": "rincon.png",
+"estadio": "Elías Moisés Gómez",
+"fundacion": "9/9/2012",
+"nombre": "Rincón (Rincón de los Sauces)",
+"nombre_completo": "Club Deportivo Rincón (Neuquén)",
+"provincia": "Neuquén",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_Rincón_(Neuquén)"
+},
+"rioja-juniors": {
+"capacidad": "3000",
+"ciudad": "La Rioja",
+"disolucion": "",
+"escudo": "rioja_juniors.png",
+"estadio": "Ramón Reinaldo Gudiño",
+"fundacion": "4/8/1928",
+"nombre": "Rioja Juniors",
+"nombre_completo": "Rioja Juniors Fútbol Club",
+"provincia": "La Rioja"
+},
+"riojano-la-rioja": {
+"capacidad": "",
+"ciudad": "La Rioja",
+"disolucion": "",
+"escudo": "riojano.png",
+"estadio": "",
+"fundacion": "10/10/1918",
+"nombre": "Riojano (La Rioja)",
+"nombre_completo": "Club Atlético Riojano",
+"provincia": "La Rioja"
+},
+"rivadavia-lincoln": {
+"apodo": [
+"El Rojo",
+"El albirrojo"
+],
+"capacidad": "7500",
+"ciudad": "Lincoln",
+"disolucion": "",
+"escudo": "rivadavia-lincoln.png",
+"estadio": "El Coliseo",
+"fundacion": "22/3/1915",
+"nombre": "Rivadavia (Lincoln)",
+"nombre_completo": "Club Rivadavia",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Rivadavia"
+},
+"rivadavia-necochea": {
+"apodo": [
+"Decano"
+],
+"capacidad": "9000",
+"ciudad": "Necochea",
+"disolucion": "",
+"escudo": "rivadavia_necochea.png",
+"estadio": "Estadio Aguas Corrientes",
+"fundacion": "1/3/1913",
+"nombre": "Rivadavia (Necochea)",
+"nombre_completo": "Club Atlético Rivadavia",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Rivadavia"
+},
+"river-plate": {
+"apodo": [
+"El Millonario",
+"La Banda",
+"El Más Grande"
+],
+"capacidad": "85018",
+"ciudad": "Núñez",
+"disolucion": "",
+"escudo": "river_plate.png",
+"estadio": "Monumental",
+"fundacion": "25/5/1901",
+"nombre": "River Plate",
+"nombre_completo": "Club Atlético River Plate",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://www.cariverplate.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_River_Plate"
+},
+"river-plate-junin": {
+"apodo": [
+"La Loba"
+],
+"capacidad": "",
+"ciudad": "Junín",
+"disolucion": "",
+"escudo": "river_plate_junin.png",
+"estadio": "Estadio Omar Atondo",
+"fundacion": "1/7/1922",
+"nombre": "River Plate (Junín)",
+"nombre_completo": "Club Atlético River Plate (Junín)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_River_Plate_(Junín)"
+},
+"river-plate-villa-maria": {
+"capacidad": "",
+"ciudad": "Villa María",
+"disolucion": "",
+"escudo": "river_plate_villa_maria.png",
+"estadio": "El Pocito",
+"fundacion": "29/7/1939",
+"nombre": "River Plate (Villa María)",
+"nombre_completo": "Club Atlético River Plate (Villa María)",
+"provincia": "Córdoba"
+},
+"rosario-athletic": {
+"apodo": [
+"Plaza Jewell",
+"Plazones"
+],
+"capacidad": "4000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "club_atletico_del_rosario.png",
+"estadio": "Plaza Jewell",
+"fundacion": "27/3/1867",
+"nombre": "Rosario Athletic",
+"nombre_completo": "Club Atlético del Rosario",
+"provincia": "Santa Fe",
+"web": "http://atleticodelrosario.club",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_del_Rosario"
+},
+"rosario-central": {
+"apodo": [
+"Los Canallas",
+"La Academia Rosarina"
+],
+"capacidad": "51000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "rosario_central.png",
+"estadio": "Gigante de Arroyito",
+"fundacion": "24/12/1889",
+"nombre": "Rosario Central",
+"nombre_completo": "Club Atlético Rosario Central",
+"provincia": "Santa Fe",
+"web": "https://rosariocentral.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Rosario_Central"
+},
+"rosario-puerto-belgrano": {
+"apodo": [
+"El Tricolor",
+"El Francés",
+"El Club de la Ciudad"
+],
+"capacidad": "18000",
+"ciudad": "Punta Alta",
+"disolucion": "",
+"escudo": "rosario_puerto_belgrano.png",
+"estadio": "El Coloso de Cemento Punta Alta",
+"fundacion": "3/4/1920",
+"nombre": "Rosario Puerto Belgrano",
+"nombre_completo": "Club Rosario Puerto Belgrano",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Rosario_Puerto_Belgrano"
+},
+"sacachispas": {
+"apodo": [
+"Saca",
+"Lila",
+"el villero"
+],
+"capacidad": "7000",
+"ciudad": "Villa Soldati",
+"disolucion": "",
+"escudo": "sacachispas.png",
+"estadio": "Estadio Beto Larrosa",
+"fundacion": "17/10/1948",
+"nombre": "Sacachispas",
+"nombre_completo": "Sacachispas Fútbol Club",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://sacachispasfutbolclub.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Sacachispas_Fútbol_Club"
+},
+"saint-andrews": {
+"capacidad": "",
+"ciudad": "Barracas",
+"disolucion": "1894",
+"escudo": "saint_andrews.png",
+"estadio": "Montes de Oca Ave.",
+"fundacion": "1890",
+"nombre": "Saint Andrew's",
+"nombre_completo": "St. Andrew's Athletic Club",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/St._Andrew's_Athletic_Club"
+},
+"san-fernando": {
+"capacidad": "",
+"ciudad": "San Fernando",
+"disolucion": "",
+"escudo": "san_fernando.png",
+"estadio": "",
+"fundacion": "3/3/1923",
+"nombre": "San Fernando",
+"nombre_completo": "Club San Fernando",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_San_Fernando"
+},
+"san-francisco-la-rioja": {
+"capacidad": "10000",
+"ciudad": "La Rioja",
+"disolucion": "",
+"escudo": "san_francisco_la_rioja.png",
+"estadio": "Estadio 20 de Agosto",
+"fundacion": "8/11/1931",
+"nombre": "San Francisco (La Rioja)",
+"nombre_completo": "Club San Francisco",
+"provincia": "La Rioja"
+},
+"san-isidro": {
+"apodo": [
+"La Academia"
+],
+"capacidad": "8500",
+"ciudad": "San Isidro",
+"disolucion": "",
+"escudo": "san_isidro.png",
+"estadio": "Roque Sáenz Peña",
+"fundacion": "24/10/1902",
+"nombre": "San Isidro",
+"nombre_completo": "Club Atlético de San Isidro",
+"provincia": "Buenos Aires",
+"web": "http://www.casi.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_de_San_Isidro"
+},
+"san-lorenzo": {
+"apodo": [
+"El Ciclón",
+"Los Cuervos",
+"Los Santos",
+"Azulgrana",
+"Los Matadores",
+"El Gigante de Boedo",
+"Los Gauchos de Boedo"
+],
+"capacidad": "47964",
+"ciudad": "Boedo",
+"disolucion": "",
+"escudo": "san_lorenzo_de_almagro.png",
+"estadio": "Pedro Bidegain",
+"fundacion": "1/4/1908",
+"nombre": "San Lorenzo",
+"nombre_completo": "Club Atlético San Lorenzo de Almagro",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.sanlorenzo.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Lorenzo_de_Almagro"
+},
+"san-lorenzo-de-alem": {
+"apodo": [
+"El Santo",
+"El Ocotero"
+],
+"capacidad": "20000",
+"ciudad": "San Fernando del Valle de Catamarca",
+"disolucion": "",
+"escudo": "san_lorenzo_de_alem.png",
+"estadio": "Estadio Bicentenario de Catamarca",
+"fundacion": "20/5/1936",
+"nombre": "San Lorenzo de Alem",
+"nombre_completo": "Club Atlético San Lorenzo de Alem",
+"provincia": "Catamarca",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Lorenzo_de_Alem"
+},
+"san-lorenzo-mar-del-plata": {
+"apodo": [
+"El Santo"
+],
+"capacidad": "",
+"ciudad": "Mar del Plata",
+"disolucion": "",
+"escudo": "san_lorenzo_de_mar_del_plata.png",
+"estadio": "Estadio Juan Montoya",
+"fundacion": "1/8/1921",
+"nombre": "San Lorenzo (Mar del Plata)",
+"nombre_completo": "Club Atlético San Lorenzo (Mar del Plata)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Atlético_San_Lorenzo_(Mar_del_Plata)"
+},
+"san-martin": {
+"capacidad": "",
+"ciudad": "San Martín",
+"disolucion": "11/3/1936",
+"escudo": "san-martin.png",
+"estadio": "",
+"fundacion": "15/10/1913",
+"nombre": "San Martín",
+"nombre_completo": "Club Atlético General San Martín",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_General_San_Martín"
+},
+"san-martin-athletic": {
+"capacidad": "",
+"ciudad": "San Martín",
+"disolucion": "1910",
+"escudo": "san-martin-athletic.png",
+"estadio": "",
+"fundacion": "2/7/1899",
+"nombre": "San Martín Athletic",
+"nombre_completo": "San Martín Athletic Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/San_Martín_Athletic_Club"
+},
+"san-martin-corrientes": {
+"apodo": [
+"rojo",
+"rojinegro",
+"santo",
+"gallo"
+],
+"capacidad": "2500",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "san-martin-corrientes.png",
+"estadio": "Raúl Argentino Ortiz",
+"fundacion": "24/1/1932",
+"nombre": "San Martín (Corrientes)",
+"nombre_completo": "Club San Martín de Corrientes",
+"provincia": "Corrientes",
+"web": "https://sanmartincorrientes.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_San_Martín_de_Corrientes"
+},
+"san-martin-formosa": {
+"apodo": [
+"Franja",
+"Los Franjeados"
+],
+"capacidad": "3000",
+"ciudad": "Formosa",
+"disolucion": "",
+"escudo": "san_martin_formosa.png",
+"estadio": "17 de Octubre",
+"fundacion": "8/4/1941",
+"nombre": "San Martín (Formosa)",
+"nombre_completo": "Club Sportivo General San Martín",
+"provincia": "Formosa",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_General_San_Martín"
+},
+"san-martin-mendoza": {
+"apodo": [
+"Albirrojo",
+"Chacarero",
+"León"
+],
+"capacidad": "12000",
+"ciudad": "San Martín",
+"disolucion": "",
+"escudo": "san_martin_mendoza.png",
+"estadio": "Estadio Libertador General San Martín",
+"fundacion": "22/12/1927",
+"nombre": "San Martín (Mendoza)",
+"nombre_completo": "Atlético Club San Martín",
+"provincia": "Mendoza",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Atlético_Club_San_Martín"
+},
+"san-martin-olavarria": {
+"capacidad": "",
+"ciudad": "Sierras Bayas",
+"disolucion": "",
+"escudo": "san_martin_olavarria.png",
+"estadio": "",
+"fundacion": "18/8/1921",
+"nombre": "San Martín (Olavarría)",
+"nombre_completo": "Club Social y Atlético Cemento San Martín",
+"provincia": "Buenos Aires"
+},
+"san-martin-san-juan": {
+"apodo": [
+"Santo",
+"Verdinegro"
+],
+"capacidad": "25000",
+"ciudad": "San Juan",
+"disolucion": "",
+"escudo": "san_martin_san_juan.png",
+"estadio": "Hilario Sánchez",
+"fundacion": "27/9/1907",
+"nombre": "San Martín (San Juan)",
+"nombre_completo": "Club Atlético San Martín (San Juan)",
+"provincia": "San Juan",
+"web": "http://sanmartinsj.accessfan.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Martín_(San_Juan)"
+},
+"san-martin-tucuman": {
+"apodo": [
+"El Santo",
+"El Ciruja"
+],
+"capacidad": "30250",
+"ciudad": "San Miguel de Tucumán",
+"disolucion": "",
+"escudo": "san_martin_tucuman.png",
+"estadio": "La Ciudadela",
+"fundacion": "2/11/1909",
+"nombre": "San Martín (Tucumán)",
+"nombre_completo": "Club Atlético San Martín (Tucumán)",
+"provincia": "Tucumán",
+"web": "https://clubatleticosanmartin.com.ar",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Atlético_San_Martín_(Tucumán)"
+},
+"san-miguel": {
+"apodo": [
+"El Trueno Verde",
+"El Verde"
+],
+"capacidad": "9044",
+"ciudad": "San Miguel",
+"disolucion": "",
+"escudo": "san_miguel.png",
+"estadio": "Malvinas Argentinas",
+"fundacion": "7/8/1922",
+"nombre": "San Miguel",
+"nombre_completo": "Club Atlético San Miguel",
+"provincia": "Buenos Aires",
+"web": "https://clubatleticosanmiguel.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Miguel"
+},
+"san-pablo": {
+"apodo": [
+"Paulistano",
+"Gaucho"
+],
+"capacidad": "3500",
+"ciudad": "San Pablo",
+"disolucion": "",
+"escudo": "san_pablo_tucuman.png",
+"estadio": "Máximo Nougués",
+"fundacion": "1/11/1911",
+"nombre": "San Pablo",
+"nombre_completo": "Club Atlético San Pablo",
+"provincia": "Tucumán",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Pablo"
+},
+"san-telmo": {
+"apodo": [
+"El Candombero"
+],
+"capacidad": "10500",
+"ciudad": "San Telmo",
+"disolucion": "",
+"escudo": "san_telmo.png",
+"estadio": "Dr. Osvaldo Baletto",
+"fundacion": "5/3/1904",
+"nombre": "San Telmo",
+"nombre_completo": "Club Atlético San Telmo",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://clubsantelmo.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_San_Telmo"
+},
+"sansinena-social-y-deportivo": {
+"apodo": [
+"Rojiblanco",
+"Tripero"
+],
+"capacidad": "4000",
+"ciudad": "General Daniel Cerri",
+"disolucion": "",
+"escudo": "sansinena_social_y_deportivo.png",
+"estadio": "Luis Molina",
+"fundacion": "12/6/1914",
+"nombre": "Sansinena Social y Deportivo",
+"nombre_completo": "Club Atlético Sansinena Social y Deportivo",
+"provincia": "Buenos Aires",
+"web": "http://clubsansinena.blogspot.com.ar/?m=1",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sansinena_Social_y_Deportivo"
+},
+"santamarina-tandil": {
+"apodo": [
+"Aurinegro",
+"Gigante de las Sierras",
+"Santa"
+],
+"capacidad": "8762",
+"ciudad": "Tandil",
+"disolucion": "",
+"escudo": "santamarina.png",
+"estadio": "Municipal General San Martin",
+"fundacion": "20/12/1913",
+"nombre": "Santamarina (Tandil)",
+"nombre_completo": "Club y Biblioteca Ramón Santamarina",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_y_Biblioteca_Ramón_Santamarina"
+},
+"sarmiento-catamarca": {
+"apodo": [
+"El Decano",
+"El Albiceleste"
+],
+"capacidad": "6000",
+"ciudad": "San Fernando del Valle de Catamarca",
+"disolucion": "",
+"escudo": "sarmiento-catamarca.png",
+"estadio": "Malvinas Argentinas",
+"fundacion": "12/6/1912",
+"nombre": "Sarmiento (Catamarca)",
+"nombre_completo": "Club Atlético Sarmiento (Catamarca)",
+"provincia": "Catamarca",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sarmiento_(Catamarca)"
+},
+"sarmiento-junin": {
+"apodo": [
+"Verde",
+"Verdolaga",
+"Guerrero"
+],
+"capacidad": "23156",
+"ciudad": "Junín",
+"disolucion": "",
+"escudo": "sarmiento_junin.png",
+"estadio": "Eva Perón",
+"fundacion": "1/4/1911",
+"nombre": "Sarmiento (Junín)",
+"nombre_completo": "Club Atlético Sarmiento (Junín)",
+"provincia": "Buenos Aires",
+"web": "https://clubatleticosarmiento.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sarmiento_(Junín)"
+},
+"sarmiento-la-banda": {
+"apodo": [
+"El Profesor"
+],
+"capacidad": "8000",
+"ciudad": "La Banda",
+"disolucion": "",
+"escudo": "sarmiento_la_banda.png",
+"estadio": "Ciudad de La Banda",
+"fundacion": "16/4/1909",
+"nombre": "Sarmiento (La Banda)",
+"nombre_completo": "Club Atlético Sarmiento (La Banda)",
+"provincia": "Santiago del Estero",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Atlético_Sarmiento_(La_Banda)"
+},
+"sarmiento-leones": {
+"apodo": [
+"Demonio"
+],
+"capacidad": "3200",
+"ciudad": "Leones",
+"disolucion": "",
+"escudo": "sarmiento_leones.png",
+"estadio": "La Calderita",
+"fundacion": "1/10/1906",
+"nombre": "Sarmiento (Leones)",
+"nombre_completo": "Club Atlético Aeronáutico Sarmiento",
+"provincia": "Córdoba",
+"web": "http://www.sarmientodeleones.com.ar/",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Atlético_Aeronáutico_Sarmiento"
+},
+"sarmiento-pigue": {
+"apodo": [
+"El Negro",
+"El Albiazul",
+"El Decano de Pigüé"
+],
+"capacidad": "2000",
+"ciudad": "Pigüé",
+"disolucion": "",
+"escudo": "sarmiento_pigue.png",
+"estadio": "Eduardo Gayraud",
+"fundacion": "2/9/1912",
+"nombre": "Sarmiento (Pigüé)",
+"nombre_completo": "Club Sarmiento (Pigué)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sarmiento_(Pigué)"
+},
+"sarmiento-resistencia": {
+"apodo": [
+"El Aurirrojo",
+"El Decano",
+"El Rojo de Villa Alta"
+],
+"capacidad": "25000",
+"ciudad": "Resistencia",
+"disolucion": "",
+"escudo": "sarmiento_resistencia.png",
+"estadio": "Centenario",
+"fundacion": "24/9/1910",
+"nombre": "Sarmiento (Resistencia)",
+"nombre_completo": "Club Atlético Sarmiento (Resistencia)",
+"provincia": "Chaco",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sarmiento_(Resistencia)"
+},
+"social-y-atletico-victoria-san-fernando": {
+"capacidad": "",
+"ciudad": "Victoria",
+"disolucion": "1910",
+"escudo": "victoria_buenos_aires.png",
+"estadio": "",
+"fundacion": "24/12/1911",
+"nombre": "Social y Atlético Victoria (San Fernando)",
+"nombre_completo": "Club Náutico Victoria",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Náutico_Victoria"
+},
+"sociedad-sportiva-argentina": {
+"apodo": [
+"Sportiva"
+],
+"capacidad": "10000",
+"ciudad": "Buenos Aires",
+"disolucion": "20/10/1914",
+"escudo": "sociedad-sportiva-argentina.png",
+"estadio": "Estadio de Palermo",
+"fundacion": "23/9/1899",
+"nombre": "Sociedad Sportiva Argentina",
+"nombre_completo": "Sociedad Sportiva Argentina",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Sociedad_Sportiva_Argentina"
+},
+"sol-de-america-formosa": {
+"apodo": [
+"El Guerrero",
+"Sol",
+"Solense"
+],
+"capacidad": "12000",
+"ciudad": "Formosa",
+"disolucion": "",
+"escudo": "sol_de_america.png",
+"estadio": "Sol de América",
+"fundacion": "5/1/1947",
+"nombre": "Sol de América (Formosa)",
+"nombre_completo": "Club Sol de América (Formosa)",
+"provincia": "Formosa",
+"web": "https://www.soldeamericaformosa.com/",
+"wikipedia": "https://en.m.wikipedia.org/wiki/Sol_de_América_de_Formosa"
+},
+"sol-de-mayo": {
+"apodo": [
+"Sol",
+"Albiceleste"
+],
+"capacidad": "5000",
+"ciudad": "Viedma",
+"disolucion": "",
+"escudo": "sol_de_mayo.png",
+"estadio": "Albiceleste",
+"fundacion": "2/8/1920",
+"nombre": "Sol de Mayo",
+"nombre_completo": "Club Social y Deportivo Sol de Mayo",
+"provincia": "Río Negro",
+"web": "http://clubsoldemayo.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Sol_de_Mayo"
+},
+"sparta": {
+"capacidad": "",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "sparta_rosario.png",
+"estadio": "",
+"fundacion": "1905",
+"nombre": "Sparta",
+"nombre_completo": "Club Atlético Sparta",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sparta"
+},
+"sporting": {
+"apodo": [
+"El rojinegro",
+"Los negros",
+"Sangre y luto"
+],
+"capacidad": "12000",
+"ciudad": "Punta Alta",
+"disolucion": "",
+"escudo": "sporting.png",
+"estadio": "Enrique Mendizabal",
+"fundacion": "25/2/1925",
+"nombre": "Sporting",
+"nombre_completo": "Club Atlético Sporting",
+"provincia": "Buenos Aires",
+"web": "https://casporting.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sporting"
+},
+"sportivo-25-de-mayo": {
+"capacidad": "",
+"ciudad": "25 de Mayo",
+"disolucion": "",
+"escudo": "club_sportivo_25_de_mayo.png",
+"estadio": "",
+"fundacion": "17/10/1921",
+"nombre": "Sportivo 25 de Mayo",
+"nombre_completo": "Club Atlético Sportivo de 25 de Mayo",
+"provincia": "Buenos Aires"
+},
+"sportivo-alsina": {
+"capacidad": "",
+"ciudad": "Valentín Alsina",
+"disolucion": "",
+"escudo": "sportivo_alsina.png",
+"estadio": "",
+"fundacion": "17/10/1916",
+"nombre": "Sportivo Alsina",
+"nombre_completo": "Club Sportivo Alsina",
+"provincia": "Buenos Aires",
+"web": "https://sportivoalsina.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Alsina"
+},
+"sportivo-atletico-club-las-parejas": {
+"apodo": [
+"El Lobo"
+],
+"capacidad": "5000",
+"ciudad": "Las Parejas",
+"disolucion": "",
+"escudo": "sportivo_atletico_club_las_parejas.png",
+"estadio": "4 de Septiembre",
+"fundacion": "18/3/1922",
+"nombre": "Sportivo Atlético Club (Las Parejas)",
+"nombre_completo": "Sportivo Atlético Club",
+"provincia": "Santa Fe",
+"web": "https://sportivolasparejas.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Sportivo_Atlético_Club"
+},
+"sportivo-balcarce": {
+"capacidad": "",
+"ciudad": "Balcarce",
+"disolucion": "",
+"escudo": "sportivo_balcarce.png",
+"estadio": "",
+"fundacion": "1/11/1919",
+"nombre": "Sportivo Balcarce",
+"nombre_completo": "Club Sportivo Balcarce",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Balcarce"
+},
+"sportivo-barracas": {
+"apodo": [
+"El Sportivo",
+"Los Arrabaleros"
+],
+"capacidad": "37000",
+"ciudad": "Barracas",
+"disolucion": "",
+"escudo": "sportivo_barracas.png",
+"estadio": "No tiene",
+"fundacion": "30/10/1913",
+"nombre": "Sportivo Barracas",
+"nombre_completo": "Club Sportivo Barracas",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Sportivo_Barracas"
+},
+"sportivo-belgrano-san-francisco": {
+"apodo": [
+"La Verde",
+"El Gigante del Este"
+],
+"capacidad": "15500",
+"ciudad": "San Francisco",
+"disolucion": "",
+"escudo": "sportivo_belgrano.png",
+"estadio": "Juan Pablo Francia",
+"fundacion": "15/4/1914",
+"nombre": "Sportivo Belgrano (San Francisco)",
+"nombre_completo": "Club Sportivo Belgrano",
+"provincia": "Córdoba",
+"web": "https://www.sportivobelgrano.com.ar",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Sportivo_Belgrano_(San_Francisco)"
+},
+"sportivo-bella-vista-tucuman": {
+"apodo": [
+"Los Gauchos",
+"Los Millonarios del Sur"
+],
+"capacidad": "12000",
+"ciudad": "Bella Vista",
+"disolucion": "",
+"escudo": "sportivo_bella_vista_tucuman.png",
+"estadio": "Las Palmeras",
+"fundacion": "3/11/1925",
+"nombre": "Sportivo Bella Vista (Tucumán)",
+"nombre_completo": "Club Sportivo Bella Vista",
+"provincia": "Tucumán",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Bella_Vista"
+},
+"sportivo-buenos-aires": {
+"capacidad": "",
+"ciudad": "Villa Domínico",
+"disolucion": "2003",
+"escudo": "sportivo_buenos_aires.png",
+"estadio": "",
+"fundacion": "19/10/1910",
+"nombre": "Sportivo Buenos Aires",
+"nombre_completo": "Club Social y Sportivo Buenos Aires",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Buenos_Aires"
+},
+"sportivo-comercio-salta": {
+"capacidad": "5000",
+"ciudad": "Salta",
+"disolucion": "",
+"escudo": "sportivo_comercio.png",
+"estadio": "Estadio de Deportivo Comercio",
+"fundacion": "21/9/1921",
+"nombre": "Sportivo Comercio (Salta)",
+"nombre_completo": "Club Sportivo Comercio",
+"provincia": "Salta"
+},
+"sportivo-del-norte": {
+"capacidad": "",
+"ciudad": "Rafaela",
+"disolucion": "",
+"escudo": "sportivo_del_norte.png",
+"estadio": "",
+"fundacion": "12/10/1931",
+"nombre": "Sportivo del Norte",
+"nombre_completo": "Club Sportivo Norte",
+"provincia": "Santa Fe"
+},
+"sportivo-desamparados": {
+"apodo": [
+"Víboras",
+"Puyutanos",
+"El Verde",
+"El orgullo de San Juan"
+],
+"capacidad": "13000",
+"ciudad": "San Juan",
+"disolucion": "",
+"escudo": "desamparados.png",
+"estadio": "El Serpentario",
+"fundacion": "10/9/1919",
+"nombre": "Sportivo Desamparados",
+"nombre_completo": "Club Sportivo Desamparados",
+"provincia": "San Juan",
+"web": "http://sportivodesamparados.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Desamparados"
+},
+"sportivo-dock-sud": {
+"apodo": [
+"El Docke",
+"Los Inundados",
+"Darsenero",
+"Rock Sur"
+],
+"capacidad": "6500",
+"ciudad": "Dock Sud",
+"disolucion": "",
+"escudo": "sportivo_dock_sud.png",
+"estadio": "Estadio de los Inmigrantes",
+"fundacion": "1/9/1916",
+"nombre": "Sportivo Dock Sud",
+"nombre_completo": "Club Sportivo Dock Sud",
+"provincia": "Buenos Aires",
+"web": "http://www.clubsportivodocksud.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Dock_Sud"
+},
+"sportivo-general-urquiza-mar-del-plata": {
+"capacidad": "35180",
+"ciudad": "Mar del Plata",
+"disolucion": "",
+"escudo": "sportivo_general_urquiza_mar_del_plata.png",
+"estadio": "Estadio Jose María Minella",
+"fundacion": "1914",
+"nombre": "Sportivo General Urquiza (Mar del Plata)",
+"nombre_completo": "Club Atlético General Urquiza (Mar del Plata)",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_General_Urquiza_(Mar_del_Plata)"
+},
+"sportivo-guzman": {
+"apodo": [
+"Los Julianos",
+"Los Triperos"
+],
+"capacidad": "12000",
+"ciudad": "San Miguel de Tucumán",
+"disolucion": "",
+"escudo": "sportivo_guzmán_tucuman.png",
+"estadio": "Humberto Rizza",
+"fundacion": "15/4/1921",
+"nombre": "Sportivo Guzmán",
+"nombre_completo": "Club Sportivo Alfredo Guzmán",
+"provincia": "Tucumán",
+"web": "http://clubsportivoguzman.es.tl/Principal.htm/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Alfredo_Guzmán"
+},
+"sportivo-huracan-bragado": {
+"capacidad": "",
+"ciudad": "Bragado",
+"disolucion": "",
+"escudo": "sportivo_huracan_bragado.png",
+"estadio": "",
+"fundacion": "15/10/1923",
+"nombre": "Sportivo Huracán (Bragado)",
+"nombre_completo": "Club Sportivo Huracán",
+"provincia": "Buenos Aires"
+},
+"sportivo-palermo": {
+"capacidad": "",
+"ciudad": "Palermo",
+"disolucion": "1984",
+"escudo": "sportivo_palermo.png",
+"estadio": "Canning y Río de la Plata",
+"fundacion": "18/5/1908",
+"nombre": "Sportivo Palermo",
+"nombre_completo": "Club Sportivo Palermo (Buenos Aires)",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Palermo_(Buenos_Aires)"
+},
+"sportivo-patria": {
+"apodo": [
+"El Decano",
+"El Gigante Formoseño"
+],
+"capacidad": "23000",
+"ciudad": "Formosa",
+"disolucion": "",
+"escudo": "sportivo_patria.png",
+"estadio": "Antonio Romero",
+"fundacion": "14/10/1911",
+"nombre": "Sportivo Patria",
+"nombre_completo": "Club Sportivo Patria",
+"provincia": "Formosa",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Patria"
+},
+"sportivo-rivadavia-venado-tuerto": {
+"apodo": [
+"La V azulada"
+],
+"capacidad": "6000",
+"ciudad": "Venado Tuerto",
+"disolucion": "",
+"escudo": "sportivo-rivadavia-venado-tuerto.png",
+"estadio": "Venado Tuerto",
+"fundacion": "22/6/1932",
+"nombre": "Sportivo Rivadavia (Venado Tuerto)",
+"nombre_completo": "Club Sportivo Bernardino Rivadavia",
+"provincia": "Santa Fe",
+"web": "http://sportivorivadaviavt.com.ar/",
+"wikipedia": "https://es.m.wikipedia.org/wiki/Club_Sportivo_Bernardino_Rivadavia"
+},
+"sportivo-union-posadas": {
+"capacidad": "",
+"ciudad": "Posadas",
+"disolucion": "",
+"escudo": "sportivo-union-posadas.png",
+"estadio": "",
+"fundacion": "15/8/1929",
+"nombre": "Sportivo Unión (Posadas)",
+"nombre_completo": "Club Deportivo Unión",
+"provincia": "Misiones"
+},
+"sportivo-victoria-entre-rios": {
+"apodo": [
+"El Decano"
+],
+"capacidad": "",
+"ciudad": "Concordia",
+"disolucion": "",
+"escudo": "sportivo_victoria_entre_rios.png",
+"estadio": "",
+"fundacion": "22/6/1897",
+"nombre": "Sportivo Victoria (Entre Ríos)",
+"nombre_completo": "Club Atlético Victoria",
+"provincia": "Entre Ríos"
+},
+"sportsman": {
+"capacidad": "",
+"ciudad": "Barracas",
+"disolucion": "7/5/1932",
+"escudo": "sportsman.png",
+"estadio": "",
+"fundacion": "1/9/1912",
+"nombre": "Sportsman",
+"nombre_completo": "Club Atlético Sportsman (Buenos Aires)",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Sportsman_(Buenos_Aires)"
+},
+"suizo": {
+"capacidad": "",
+"ciudad": "Tigre",
+"disolucion": "",
+"escudo": "sportivo_suizo.png",
+"estadio": "",
+"fundacion": "17/5/1913",
+"nombre": "Suizo",
+"nombre_completo": "Club Suizo de Buenos Aires",
+"provincia": "Buenos Aires",
+"web": "http://www.clubsuizobaires.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Suizo_de_Buenos_Aires"
+},
+"talleres-anatuya": {
+"apodo": [
+"Ferroviario añatuyense"
+],
+"capacidad": "1000",
+"ciudad": "Añatuya",
+"disolucion": "",
+"escudo": "talleres_general_manuel_belgrano_añatuya.png",
+"estadio": "Club Atlético Talleres G.M.B",
+"fundacion": "1/5/1918",
+"nombre": "Talleres (Añatuya)",
+"nombre_completo": "Club Atlético Talleres General Manuel Belgrano",
+"provincia": "Santiago del Estero",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Talleres_General_Manuel_Belgrano"
+},
+"talleres-cordoba": {
+"apodo": [
+"Albiazul",
+"Matador",
+"La T"
+],
+"capacidad": "18000",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "talleres_cordoba.png",
+"estadio": "Francisco Cabasés",
+"fundacion": "12/10/1913",
+"nombre": "Talleres (Córdoba)",
+"nombre_completo": "Club Atlético Talleres (Córdoba)",
+"provincia": "Córdoba",
+"web": "http://www.clubtalleres.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Talleres_(Córdoba)"
+},
+"talleres-juniors-comodoro-rivadavia": {
+"capacidad": "",
+"ciudad": "Comodoro Rivadavia",
+"disolucion": "",
+"escudo": "talleres_juniors.png",
+"estadio": "Cancha Talleres Juniors (Km 3)",
+"fundacion": "22/7/1926",
+"nombre": "Talleres Juniors (Comodoro Rivadavia)",
+"nombre_completo": "Club Talleres Juniors",
+"provincia": "Chubut"
+},
+"talleres-navegacion-y-puertos-corrientes": {
+"capacidad": "",
+"ciudad": "Corrientes",
+"disolucion": "",
+"escudo": "talleres_navegacion_puertos.png",
+"estadio": "",
+"fundacion": "20/5/1919",
+"nombre": "Talleres, Navegación y Puertos (Corrientes)",
+"nombre_completo": "Club Atlético Talleres de Navegación y Puertos",
+"provincia": "Corrientes"
+},
+"talleres-perico": {
+"apodo": [
+"El Expreso periqueño"
+],
+"capacidad": "6000",
+"ciudad": "Perico",
+"disolucion": "",
+"escudo": "talleres_perico.png",
+"estadio": "Estadio Doctor Plinio Zabala",
+"fundacion": "4/4/1944",
+"nombre": "Talleres (Perico)",
+"nombre_completo": "Club Atlético Talleres (Perico)",
+"provincia": "Jujuy",
+"web": "http://clubatleticotalleres.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Talleres_(Perico)"
+},
+"talleres-remedios-de-escalada": {
+"apodo": [
+"Albirrojo",
+"Rojo de Escalada"
+],
+"capacidad": "18000",
+"ciudad": "Remedios de Escalada",
+"disolucion": "",
+"escudo": "talleres_remedios_de_escalada.png",
+"estadio": "Pablo Comelli",
+"fundacion": "1/6/1906",
+"nombre": "Talleres (Remedios de Escalada)",
+"nombre_completo": "Club Atlético Talleres (Remedios de Escalada)",
+"provincia": "Buenos Aires",
+"web": "http://www.talleres.org.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Talleres_(Remedios_de_Escalada)"
+},
+"temperley": {
+"apodo": [
+"Gasolero",
+"El Cele"
+],
+"capacidad": "18000",
+"ciudad": "Temperley",
+"disolucion": "",
+"escudo": "temperley.png",
+"estadio": "Alfredo Beranger",
+"fundacion": "1/11/1912",
+"nombre": "Temperley",
+"nombre_completo": "Club Atlético Temperley",
+"provincia": "Buenos Aires",
+"web": "http://temperley.org.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Temperley"
+},
+"textil-mandiyu-corrientes": {
+"apodo": [
+"Albo",
+"Algodonero"
+],
+"capacidad": "15700",
+"ciudad": "Corrientes",
+"disolucion": "2016",
+"escudo": "textil_mandiyu.png",
+"estadio": "Huracán Corrientes",
+"fundacion": "22/12/1998",
+"nombre": "Textil Mandiyú (Corrientes)",
+"nombre_completo": "Club Social y Deportivo Textil Mandiyú",
+"provincia": "Corrientes",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Textil_Mandiyú"
+},
+"tigre": {
+"apodo": [
+"Matador",
+"Azules del Norte"
+],
+"capacidad": "26648",
+"ciudad": "Victoria",
+"disolucion": "",
+"escudo": "tigre.png",
+"estadio": "José Dellagiovanna",
+"fundacion": "3/8/1902",
+"nombre": "Tigre",
+"nombre_completo": "Club Atlético Tigre",
+"provincia": "Buenos Aires",
+"web": "http://www.catigre.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Tigre"
+},
+"tiro-federal-morteros": {
+"apodo": [
+"La Blanca",
+"La T"
+],
+"capacidad": "5500",
+"ciudad": "Morteros",
+"disolucion": "",
+"escudo": "tiro-federal-morteros.png",
+"estadio": "Bautista Monetti",
+"fundacion": "1/1/1940",
+"nombre": "Tiro Federal (Morteros)",
+"nombre_completo": "Club Tiro Federal y Deportivo Morteros",
+"provincia": "Córdoba",
+"web": "http://tirofederalmorteros.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Tiro_Federal_y_Deportivo_Morteros"
+},
+"tiro-federal-rosario": {
+"apodo": [
+"Tigres",
+"Tirolenses"
+],
+"capacidad": "10000",
+"ciudad": "Rosario",
+"disolucion": "",
+"escudo": "tiro_federal_argentino_rosario.png",
+"estadio": "Fortín de Ludueña",
+"fundacion": "29/3/1905",
+"nombre": "Tiro Federal (Rosario)",
+"nombre_completo": "Club Atlético Tiro Federal Argentino",
+"provincia": "Santa Fe",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Tiro_Federal_Argentino"
+},
+"trafico": {
+"capacidad": "",
+"ciudad": "Pergamino",
+"disolucion": "",
+"escudo": "trafico.png",
+"estadio": "",
+"fundacion": "1/1/1921",
+"nombre": "Tráfico",
+"nombre_completo": "Club Tráfico's Old Boys",
+"provincia": "Buenos Aires"
+},
+"tristan-suarez": {
+"apodo": [
+"Lechero"
+],
+"capacidad": "7000",
+"ciudad": "Tristán Suárez",
+"disolucion": "",
+"escudo": "tristan_suarez.png",
+"estadio": "20 de Octubre",
+"fundacion": "8/8/1929",
+"nombre": "Tristán Suárez",
+"nombre_completo": "Club Tristán Suárez",
+"provincia": "Buenos Aires",
+"web": "https://clubtsuarez.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Tristán_Suárez"
+},
+"uai-urquiza": {
+"apodo": [
+"El Furgón",
+"Furgonero"
+],
+"capacidad": "1000",
+"ciudad": "Villa Lynch",
+"disolucion": "",
+"escudo": "uai_urquiza.png",
+"estadio": "Monumental de Villa Lynch",
+"fundacion": "21/5/1950",
+"nombre": "UAI Urquiza",
+"nombre_completo": "Club Deportivo UAI Urquiza",
+"provincia": "Buenos Aires",
+"web": "http://www.uaiurquiza.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Deportivo_UAI_Urquiza"
+},
+"union": {
+"apodo": [
+"Tatengue",
+"El Tate",
+"Rojiblanco"
+],
+"capacidad": "27358",
+"ciudad": "Santa Fe",
+"disolucion": "",
+"escudo": "union_santa_fe.png",
+"estadio": "15 de abril",
+"fundacion": "15/4/1907",
+"nombre": "Unión",
+"nombre_completo": "Club Atlético Unión (Santa Fe)",
+"provincia": "Santa Fe",
+"web": "http://www.clubaunion.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Unión_(Santa_Fe)"
+},
+"union-aconquija": {
+"apodo": [
+"El Estanciero"
+],
+"capacidad": "3000",
+"ciudad": "Andalgalá",
+"disolucion": "",
+"escudo": "union_aconquija.png",
+"estadio": "Estadio Municipal de Aconquija",
+"fundacion": "30/3/1929",
+"nombre": "Unión Aconquija",
+"nombre_completo": "Club Unión Aconquija",
+"provincia": "Catamarca",
+"web": "http://unionaconquija.com",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Unión_Aconquija"
+},
+"union-general-pinedo": {
+"apodo": [
+"Glorioso",
+"El Histórico",
+"Cuna de Campeones"
+],
+"capacidad": "16000",
+"ciudad": "General Pinedo",
+"disolucion": "",
+"escudo": "union_general_pinedo.png",
+"estadio": "",
+"fundacion": "15/2/1921",
+"nombre": "Unión (General Pinedo)",
+"nombre_completo": "Club Atlético Unión (General Pinedo)",
+"provincia": "Chaco",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Unión_(General_Pinedo)"
+},
+"union-san-vicente": {
+"apodo": [
+"Los naranjas"
+],
+"capacidad": "4200",
+"ciudad": "Córdoba",
+"disolucion": "",
+"escudo": "union_san_vicente.png",
+"estadio": "Estadio La Talquera (no oficial)",
+"fundacion": "24/2/1980",
+"nombre": "Unión San Vicente",
+"nombre_completo": "Club Unión San Vicente",
+"provincia": "Córdoba",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Unión_San_Vicente"
+},
+"union-talleres-lanus": {
+"capacidad": "",
+"ciudad": "Lanús",
+"disolucion": "1934",
+"escudo": "union_talleres_lanus.png",
+"estadio": "",
+"fundacion": "1934",
+"nombre": "Unión Talleres-Lanús",
+"nombre_completo": "Unión Talleres-Lanús",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Unión_Talleres-Lanús"
+},
+"united-banks": {
+"capacidad": "",
+"ciudad": "Lomas de Zamora",
+"disolucion": "1898",
+"escudo": "united-banks.png",
+"estadio": "",
+"fundacion": "1898",
+"nombre": "United Banks",
+"nombre_completo": "United Banks Football Club",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/United_Banks_Football_Club"
+},
+"united-railways": {
+"capacidad": "",
+"ciudad": "Campana",
+"disolucion": "1892",
+"escudo": "united_railways.png",
+"estadio": "",
+"fundacion": "",
+"nombre": "United Railways",
+"nombre_completo": "United Railways Athletic Club",
+"provincia": "Buenos Aires"
+},
+"universal": {
+"capacidad": "",
+"ciudad": "Buenos Aires",
+"disolucion": "1927",
+"escudo": "universal.png",
+"estadio": "",
+"fundacion": "1925",
+"nombre": "Universal",
+"nombre_completo": "Club Atlético Universal",
+"provincia": "Ciudad de Buenos Aires"
+},
+"universitarios": {
+"apodo": [
+"Los Académicos"
+],
+"capacidad": "",
+"ciudad": "San Salvador de Jujuy",
+"disolucion": "",
+"escudo": "universitarios.png",
+"estadio": "Estadio La Tablada",
+"fundacion": "15/6/2015",
+"nombre": "Universitarios",
+"nombre_completo": "Club Social y Deportivo Universitario 23 de Agosto",
+"provincia": "Jujuy",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Universitario_23_de_Agosto"
+},
+"velez-sarsfield": {
+"apodo": [
+"El Fortín",
+"La V Azulada"
+],
+"capacidad": "49543",
+"ciudad": "Liniers",
+"disolucion": "",
+"escudo": "velez_sarsfield.png",
+"estadio": "José Amalfitani",
+"fundacion": "1/1/1910",
+"nombre": "Vélez Sarsfield",
+"nombre_completo": "Club Atlético Vélez Sarsfield",
+"provincia": "Ciudad de Buenos Aires",
+"web": "http://www.velezsarsfield.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Vélez_Sarsfield"
+},
+"velez-sarsfield-catamarca": {
+"apodo": [
+"El Fortín",
+"El Velezano"
+],
+"capacidad": "500",
+"ciudad": "San Fernando del Valle de Catamarca",
+"disolucion": "",
+"escudo": "velez_sarsfield_catamarca.png",
+"estadio": "Estadio Los Fundadores",
+"fundacion": "12/9/1928",
+"nombre": "Vélez Sarsfield (Catamarca)",
+"nombre_completo": "Club Atlético Vélez Sarsfield (Catamarca)",
+"provincia": "Catamarca",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Vélez_Sarsfield_(Catamarca)"
+},
+"viale-foot-ball-club": {
+"capacidad": "",
+"ciudad": "Viale",
+"disolucion": "",
+"escudo": "viale_foot_ball_club.png",
+"estadio": "",
+"fundacion": "2/6/1925",
+"nombre": "Viale Foot Ball Club",
+"nombre_completo": "Viale Foot Ball Club",
+"provincia": "Entre Ríos"
+},
+"victoriano-arenas": {
+"apodo": [
+"Victoriano",
+"CAVA",
+"El Guapo de Alsina"
+],
+"capacidad": "1500",
+"ciudad": "Piñeyro",
+"disolucion": "",
+"escudo": "victoriano_arenas.png",
+"estadio": "Estadio Saturnino Moure",
+"fundacion": "2/1/1928",
+"nombre": "Victoriano Arenas",
+"nombre_completo": "Club Atlético Victoriano Arenas",
+"provincia": "Buenos Aires",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Victoriano_Arenas"
+},
+"villa-congreso-viedma": {
+"apodo": [
+"El Rojo"
+],
+"capacidad": "",
+"ciudad": "Viedma",
+"disolucion": "",
+"escudo": "villa_congreso_viedma.png",
+"estadio": "Fioravanti Ruggeri",
+"fundacion": "2/8/1928",
+"nombre": "Villa Congreso (Viedma)",
+"nombre_completo": "Club Atlético Villa Congreso",
+"provincia": "Río Negro"
+},
+"villa-cubas-catamarca": {
+"apodo": [
+"El León del Altiplano"
+],
+"capacidad": "20000",
+"ciudad": "San Fernando del Valle de Catamarca",
+"disolucion": "",
+"escudo": "villa_cubas.png",
+"estadio": "Estadio Bicentenario Ciudad de Catamarca",
+"fundacion": "25/8/1932",
+"nombre": "Villa Cubas (Catamarca)",
+"nombre_completo": "Club Sportivo Villa Cubas",
+"provincia": "Catamarca",
+"web": "http://www.clubvillacubas.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Sportivo_Villa_Cubas"
+},
+"villa-dalmine": {
+"apodo": [
+"El Viola",
+"Campanero"
+],
+"capacidad": "11000",
+"ciudad": "Campana",
+"disolucion": "",
+"escudo": "villa_dalmine.png",
+"estadio": "El Coliseo de Mitre y Puccini",
+"fundacion": "20/11/1957",
+"nombre": "Villa Dálmine",
+"nombre_completo": "Club Villa Dálmine",
+"provincia": "Buenos Aires",
+"web": "http://villadalmine.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Villa_Dálmine"
+},
+"villa-mercedes": {
+"apodo": [
+"Aurinegro",
+"Pitojuan",
+"León"
+],
+"capacidad": "7500",
+"ciudad": "Villa Mercedes",
+"disolucion": "",
+"escudo": "villa-mercedes.png",
+"estadio": "Osvaldo Centioni",
+"fundacion": "5/5/1945",
+"nombre": "Villa Mercedes",
+"nombre_completo": "Club Jorge Newbery (Villa Mercedes)",
+"provincia": "San Luis",
+"web": "https://clubnewbery.com.ar",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Jorge_Newbery_(Villa_Mercedes)"
+},
+"villa-mitre-bahia-blanca": {
+"apodo": [
+"Verde",
+"El Tricolor",
+"El Villero"
+],
+"capacidad": "10000",
+"ciudad": "Bahía Blanca",
+"disolucion": "",
+"escudo": "villa_mitre.png",
+"estadio": "El Fortín",
+"fundacion": "14/8/1924",
+"nombre": "Villa Mitre (Bahía Blanca)",
+"nombre_completo": "Club Villa Mitre",
+"provincia": "Buenos Aires",
+"web": "http://villamitre.com.ar/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Villa_Mitre"
+},
+"villa-real": {
+"capacidad": "",
+"ciudad": "Buenos Aires",
+"disolucion": "",
+"escudo": "villa_real.png",
+"estadio": "",
+"fundacion": "1/5/1930",
+"nombre": "Villa Real",
+"nombre_completo": "Club Social y Deportivo Villa Real",
+"provincia": "Ciudad de Buenos Aires"
+},
+"villa-san-carlos": {
+"apodo": [
+"Los Villeros",
+"El Cele",
+"La Villa"
+],
+"capacidad": "4000",
+"ciudad": "Berisso",
+"disolucion": "",
+"escudo": "san_carlos.png",
+"estadio": "Genacio Sálice",
+"fundacion": "25/4/1925",
+"nombre": "Villa San Carlos",
+"nombre_completo": "Club Atlético Villa San Carlos",
+"provincia": "Buenos Aires",
+"web": "http://www.villasancarlos.club",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Atlético_Villa_San_Carlos"
+},
+"villa-urquiza": {
+"capacidad": "",
+"ciudad": "Belgrano",
+"disolucion": "1925",
+"escudo": "villa-urquiza.png",
+"estadio": "",
+"fundacion": "1/7/1916",
+"nombre": "Villa Urquiza",
+"nombre_completo": "Club Sportivo Villa Urquiza",
+"provincia": "Ciudad de Buenos Aires",
+"wikipedia": "https://en.wikipedia.org/wiki/Sportivo_Villa_Urquiza"
+},
+"wilde": {
+"capacidad": "",
+"ciudad": "Wilde",
+"disolucion": "",
+"escudo": "wilde.png",
+"estadio": "",
+"fundacion": "11/9/1925",
+"nombre": "Wilde",
+"nombre_completo": "Wilde Sporting Club",
+"provincia": "Buenos Aires"
+},
+"yupanqui": {
+"apodo": [
+"Los Traperos",
+"Yupa"
+],
+"capacidad": "1000",
+"ciudad": "Villa Lugano",
+"disolucion": "",
+"escudo": "yupanqui.png",
+"estadio": "Ciudad Evita",
+"fundacion": "12/10/1935",
+"nombre": "Yupanqui",
+"nombre_completo": "Club Social y Deportivo Yupanqui",
+"provincia": "Ciudad de Buenos Aires",
+"web": "https://yupanquioficial.com/",
+"wikipedia": "https://es.wikipedia.org/wiki/Club_Social_y_Deportivo_Yupanqui"
+}
+}
