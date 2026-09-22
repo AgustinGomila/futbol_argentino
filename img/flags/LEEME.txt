@@ -1,0 +1,5 @@
+Banderas de país para los selectores (js/banderas.js). SVG 4:3.
+- Todas salvo yu.svg: flag-icons 7.5.0 (https://github.com/lipis/flag-icons), licencia MIT (LICENSE-flag-icons.txt).
+- yu.svg (Yugoslavia 1946-1992): dibujada a mano, diseño de dominio público.
+- Tahití (código Tah, Mundial de Clubes) usa pf.svg (Polinesia Francesa): flag-icons no trae una propia.
+La web las sirve desde img/flags/ (copia idéntica que hace scripts/imagenes_build.py: los SVG no se redimensionan).

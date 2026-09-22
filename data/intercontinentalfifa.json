@@ -1,0 +1,12 @@
+[
+{"e":"2024","r":"Preliminary Round","f":"2024-09-22","l":"Al-Ain (Emiratos Árabes Unidos)","gl":6,"gv":2,"v":"Auckland City (Nueva Zelanda)","pl":"Uae","pv":"Nzl"},
+{"e":"2024","r":"First Round","f":"2024-10-29","l":"Al-Ahly (Egipto)","gl":3,"gv":0,"v":"Al-Ain (Emiratos Árabes Unidos)","pl":"Egy","pv":"Uae"},
+{"e":"2024","r":"First Round","f":"2024-12-11","l":"Botafogo (Brasil)","gl":0,"gv":3,"v":"Pachuca (México)","pl":"Bra","pv":"Mex"},
+{"e":"2024","r":"Final Qualifier","f":"2024-12-14","l":"Pachuca (México)","gl":0,"gv":0,"v":"Al-Ahly (Egipto)","pl":"Mex","pv":"Egy","pen":"6-5"},
+{"e":"2024","r":"Final","f":"2024-12-18","l":"Real Madrid (España)","gl":3,"gv":0,"v":"Pachuca (México)","pl":"Esp","pv":"Mex"},
+{"e":"2025","r":"Preliminary Round","f":"2025-09-14","l":"Pyramids (Egipto)","gl":3,"gv":0,"v":"Auckland City (Nueva Zelanda)","pl":"Egy","pv":"Nzl"},
+{"e":"2025","r":"First Round","f":"2025-09-23","l":"Al-Ahli (Arabia Saudita)","gl":1,"gv":3,"v":"Pyramids (Egipto)","pl":"Ksa","pv":"Egy"},
+{"e":"2025","r":"First Round","f":"2025-12-10","l":"Cruz Azul (México)","gl":1,"gv":2,"v":"Flamengo (Brasil)","pl":"Mex","pv":"Bra"},
+{"e":"2025","r":"Final Qualifier","f":"2025-12-13","l":"Flamengo (Brasil)","gl":2,"gv":0,"v":"Pyramids (Egipto)","pl":"Bra","pv":"Egy"},
+{"e":"2025","r":"Final","f":"2025-12-17","l":"Paris Saint-Germain (Francia)","gl":1,"gv":1,"v":"Flamengo (Brasil)","pl":"Fra","pv":"Bra","pen":"2-1"}
+]
